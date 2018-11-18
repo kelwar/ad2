@@ -1,0 +1,772 @@
+2018/10/18 19:02:34.252|Warn|Поезд 6745 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.252|Warn|Поезд 6745 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.252|Warn|Поезд 6745 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.252|Warn|Поезд 6745 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.252|Warn|Поезд 6745 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.252|Warn|Поезд 6701 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.252|Error|Строка расписания поезда   пуста
+2018/10/18 19:02:34.252|Warn|Поезд 6701 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.252|Warn|Поезд 6701 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.252|Warn|Поезд 6701 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.252|Warn|Поезд 6701 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.252|Warn|Поезд 6701 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6701 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6701 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6701 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6702 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Error|Строка расписания поезда   пуста
+2018/10/18 19:02:34.267|Warn|Поезд 6702 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6702 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6702 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6702 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6702 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6702 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6702 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:34.267|Warn|Поезд 6702 не принадлежит этой станции либо станции не найдены
+2018/10/18 19:02:36.359|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 350259, RealLength = 375259
+2018/10/26 14:13:20.074|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.141|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.159|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.190|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.209|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.228|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.247|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.264|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.282|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.302|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.332|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.352|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.371|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.389|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.406|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.423|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.440|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:20.462|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.163|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.180|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.198|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.215|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.234|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.255|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.272|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.290|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.307|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.326|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.344|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.361|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.379|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.397|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.414|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.433|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.457|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:13:25.474|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:14:32.556|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.565|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.573|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.589|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.611|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.611|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.647|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.647|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.647|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.652|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.652|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.680|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.686|Error|Строка расписания поезда   пуста
+2018/10/26 14:14:32.686|Error|Строка расписания поезда   пуста
+2018/10/26 14:25:57.143|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.177|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.202|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.226|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.244|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.263|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.281|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.301|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.320|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.339|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.358|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.376|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.395|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.417|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.446|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.465|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.483|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:25:57.501|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:27:46.699|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:27:46.744|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/10/26 14:27:46.761|Fatal|Исключение из не UI потока System.ArgumentOutOfRangeException: Прибавление или вычитание значения приводит к непредставимому значению DateTime.
+Имя параметра: value
+   в System.DateTime.AddTicks(Int64 value)
+   в System.DateTime.Add(Double value, Int32 scale)
+   в MainExample.КарточкаДвиженияПоезда.ОбновитьСостояниеТаблицыШаблонов() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 407
+   в MainExample.КарточкаДвиженияПоезда.lVШаблоны_ItemChecked(Object sender, ItemCheckedEventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\КарточкаДвиженияПоезда.cs:строка 1180
+   в System.Windows.Forms.ListView.OnItemChecked(ItemCheckedEventArgs e)
+   в System.Windows.Forms.ListView.WmReflectNotify(Message& m)
+   в System.Windows.Forms.ListView.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)

@@ -1,0 +1,636 @@
+2018/09/26 20:12:28.020|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.020|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.036|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.036|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.036|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.036|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.036|Info|Самая первая дата в расписании: YYYY-01-01
+2018/09/26 20:12:28.053|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.053|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.053|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.053|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.069|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.069|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.069|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.082|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.082|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.082|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.082|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.098|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.098|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.098|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.098|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.116|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.116|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.116|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.116|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.132|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.132|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.145|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.160|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.160|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.160|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.180|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.180|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.191|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.191|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.191|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.207|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.207|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.207|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.207|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.223|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.223|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.223|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.223|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.242|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.242|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.242|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.256|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.256|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.256|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.256|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.272|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.272|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.272|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.286|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.286|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.286|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.286|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.302|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.302|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.302|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.302|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.318|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.318|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.318|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.318|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.335|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.335|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.335|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.347|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.347|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.347|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.347|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.365|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.365|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.365|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.383|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.383|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.396|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.396|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.396|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.412|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.412|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.412|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.427|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.427|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.427|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.442|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.442|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.442|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.442|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.459|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.459|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.459|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.459|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.475|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.475|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.475|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.490|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.490|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.490|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.503|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.503|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.503|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.503|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.520|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.520|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.520|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.520|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.536|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.536|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.536|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.536|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.553|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.553|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.553|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.553|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.570|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.570|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.570|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.587|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.587|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.602|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.602|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.602|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.616|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.616|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.616|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.616|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.632|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.632|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.632|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.632|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.649|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.649|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.649|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.662|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.662|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.662|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.662|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.678|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.678|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.678|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.678|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.696|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.696|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.708|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.708|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.708|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.708|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.724|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.724|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.724|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.724|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.740|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.740|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.740|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.740|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.756|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.756|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.756|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.756|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.771|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.771|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.771|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.771|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.787|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.787|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.787|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.787|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.804|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.804|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.818|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.818|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.818|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.833|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.833|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.833|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.847|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.847|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.847|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.847|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.865|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.865|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.865|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.889|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.894|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.894|Info|Самая последняя дата в расписании: YYYY-01-01
+2018/09/26 20:12:28.894|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:1073741696:2092957951:15:0:0:0:0:0
+2018/09/26 20:12:28.894|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.920|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:1073741760:2120333439:7:0:0:0:0:0
+2018/09/26 20:12:28.927|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.927|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:1073741696:2092957951:7:0:0:0:0:0
+2018/09/26 20:12:28.927|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.927|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:1073741760:2120333439:3:0:0:0:0:0
+2018/09/26 20:12:28.927|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.927|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:715827968:1753219242:15:0:0:0:0:0
+2018/09/26 20:12:28.927|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.927|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:357914048:2084569173:3:0:0:0:0:0
+2018/09/26 20:12:28.946|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.946|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:152183808:570458386:2:0:0:0:0:0
+2018/09/26 20:12:28.946|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.946|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:1073741760:2120333439:3:0:0:0:0:0
+2018/09/26 20:12:28.946|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.946|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:1006025728:1930281839:31:0:0:0:0:0
+2018/09/26 20:12:28.961|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.961|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:715827840:0:0:0:0:0:0:0
+2018/09/26 20:12:28.961|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.961|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:715827840:2:0:0:0:0:0:0
+2018/09/26 20:12:28.961|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.961|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:715827840:10:0:0:0:0:0:0
+2018/09/26 20:12:28.961|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.961|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:1073741696:2093183231:7:0:0:0:0:0
+2018/09/26 20:12:28.976|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.976|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:1073741760:2120220799:3:0:0:0:0:0
+2018/09/26 20:12:28.976|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.976|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:312830464:1342784165:20:0:0:0:0:0
+2018/09/26 20:12:28.976|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.976|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:44386944:0:0:0:0:0:0:0
+2018/09/26 20:12:28.991|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.991|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:752004096:570426154:21:0:0:0:0:0
+2018/09/26 20:12:28.991|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.991|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:358088576:1413566549:2:0:0:0:0:0
+2018/09/26 20:12:28.991|Error|Поезд  . System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 782
+2018/09/26 20:12:28.991|Info|Строка битов расписания: Выб:0:0:0:0:0:0:0:0:357957376:1358954837:4:0:0:0:0:0

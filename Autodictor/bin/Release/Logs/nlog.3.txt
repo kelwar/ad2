@@ -1,0 +1,838 @@
+2018/09/26 20:18:15.765|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:18:15.781|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:18:19.245|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:19:19.137|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:20:15.808|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:20:19.780|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:21:15.825|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:21:19.389|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:22:15.843|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:22:19.578|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:23:19.493|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:24:15.872|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:24:15.888|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:24:19.442|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:25:19.521|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:26:15.898|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:26:19.690|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:27:15.925|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:27:20.023|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:28:15.953|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:28:19.423|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:29:19.500|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:30:15.971|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:30:15.971|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:30:19.936|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:31:19.836|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:32:15.971|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:32:19.633|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:33:15.983|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:33:19.833|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:34:16.000|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:34:19.832|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:35:19.439|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:36:16.033|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:36:16.049|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:36:19.601|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:37:19.604|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:38:16.032|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:38:19.733|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:39:16.052|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:39:19.978|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:40:16.048|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:40:19.794|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:41:19.919|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:42:16.060|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:42:16.082|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:42:19.927|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:42:19.927|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:43:20.151|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:43:20.151|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:44:16.079|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:44:19.606|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:44:19.606|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:45:16.130|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:45:19.636|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:45:19.636|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:46:16.134|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:46:19.596|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:46:19.596|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:47:19.944|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:47:19.944|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:48:16.151|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:48:16.151|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:48:19.856|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:48:19.856|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:49:19.842|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:49:19.842|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:50:16.147|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:50:19.905|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:50:19.905|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:51:16.140|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:51:19.692|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:51:19.692|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:52:16.175|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:52:19.768|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:52:19.768|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:53:19.955|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:53:19.955|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:54:16.171|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:54:16.186|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:54:19.911|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:54:19.911|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:55:19.951|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 151077, RealLength = 176077
+2018/09/26 20:55:19.951|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:56:16.200|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:56:19.900|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:57:16.188|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:57:19.914|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:58:16.223|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 20:58:20.199|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 20:59:19.847|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:00:16.224|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:00:16.240|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:00:19.922|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:01:19.827|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:02:16.269|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:02:19.796|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:03:16.249|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:03:20.044|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:04:16.272|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:04:19.947|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:05:19.956|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:06:16.275|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:06:16.291|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:06:20.367|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:07:20.134|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:08:16.307|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:08:20.344|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:09:16.268|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:09:20.138|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:10:16.331|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:10:20.268|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:11:20.148|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:12:16.292|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:12:16.346|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:12:20.082|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:13:20.399|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:14:16.357|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:14:19.993|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:15:16.308|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:15:20.266|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:16:16.378|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:16:20.168|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:17:19.978|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:18:16.324|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:18:16.393|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:18:20.066|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:19:20.041|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:20:16.416|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:20:20.320|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 273765, RealLength = 298765
+2018/09/26 21:23:40.882|Fatal|Исключение из не UI потока System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 778
+   в MainExample.ПланРасписанияПоезда.FirstDayOfGoing(Func`2 func) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 486
+   в MainExample.Entites.TrainSheduleTable.СохранитьСписок(IList`1 trainTableRecords, String fileName) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 247
+   в MainExample.Entites.TrainSheduleTable.<>c.<SourceSaveMainListAsync>b__13_0() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 164
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в MainExample.Entites.TrainSheduleTable.<SourceSaveMainListAsync>d__13.MoveNext() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 162
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в MainExample.TrainTableGrid.<btn_Сохранить_Click>d__30.MoveNext() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\TrainTableGrid.cs:строка 602
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+2018/09/26 21:26:09.771|Fatal|Исключение из не UI потока System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 778
+   в MainExample.ПланРасписанияПоезда.FirstDayOfGoing(Func`2 func) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 486
+   в MainExample.Entites.TrainSheduleTable.СохранитьСписок(IList`1 trainTableRecords, String fileName) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 247
+   в MainExample.Entites.TrainSheduleTable.<>c.<SourceSaveMainListAsync>b__13_0() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 164
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в MainExample.Entites.TrainSheduleTable.<SourceSaveMainListAsync>d__13.MoveNext() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 162
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в MainExample.TrainTableGrid.<btn_Сохранить_Click>d__30.MoveNext() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\TrainTableGrid.cs:строка 602
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+2018/09/26 21:29:09.624|Error|Начало: YYYY-12-31, конец: YYYY-01-01. 
+System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 778
+   в MainExample.ПланРасписанияПоезда.FirstDayOfGoing(Func`2 func) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 486
+   в MainExample.Entites.TrainSheduleTable.СохранитьСписок(IList`1 trainTableRecords, String fileName) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 250
+2018/09/26 21:30:06.990|Error|Начало: 9999-12-31, конец: 0001-01-01. 
+System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 778
+   в MainExample.ПланРасписанияПоезда.FirstDayOfGoing(Func`2 func) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 486
+   в MainExample.Entites.TrainSheduleTable.СохранитьСписок(IList`1 trainTableRecords, String fileName) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 250
+2018/09/26 21:32:05.232|Error|Начало: 9999-12-31, конец: 0001-01-01. 
+System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 778
+   в MainExample.ПланРасписанияПоезда.FirstDayOfGoing(Func`2 func) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 486
+   в MainExample.Entites.TrainSheduleTable.СохранитьСписок(IList`1 trainTableRecords, String fileName) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 250
+2018/09/26 21:34:01.176|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:38:18.146|Error|Начало: 9999-12-31, конец: 0001-01-01. 
+System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 778
+   в MainExample.ПланРасписанияПоезда.FirstDayOfGoing(Func`2 func) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 486
+   в MainExample.Entites.TrainSheduleTable.СохранитьСписок(IList`1 trainTableRecords, String fileName) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 250
+2018/09/26 21:40:17.759|Error|Начало: 9999-12-31, конец: 0001-01-01. 
+System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 778
+   в MainExample.Entites.TrainSheduleTable.СохранитьСписок(IList`1 trainTableRecords, String fileName) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 250
+2018/09/26 21:42:37.424|Error|Нет начального значения
+2018/09/26 21:42:37.424|Error|Нет конечного значения
+2018/09/26 21:42:37.439|Error|Начало: 9999-12-31, конец: 0001-01-01. 
+System.InvalidOperationException: Нулевой объект должен иметь значение.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в MainExample.ПланРасписанияПоезда.GetListFromBeats() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\ПланРасписанияПоезда.cs:строка 778
+   в MainExample.Entites.TrainSheduleTable.СохранитьСписок(IList`1 trainTableRecords, String fileName) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\Entites\TrainSheduleTable.cs:строка 250
+2018/09/26 21:49:37.255|Info|Самая первая дата в расписании: 2018-09-26
+2018/09/26 21:49:37.277|Info|Самая последняя дата в расписании: 2018-11-03
+2018/09/26 21:54:27.651|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:55:27.490|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:56:27.500|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:58:27.496|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 21:58:27.512|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 22:00:27.535|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 22:01:27.509|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 22:02:27.543|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/26 22:08:32.810|Info|Поезд  . fd > firstDate: 30.09.2018 > 03.11.2018
+2018/09/26 22:08:32.810|Info|Поезд  . trueCount = 3, ld-fd = 4
+2018/09/27 13:23:38.734|Fatal|Исключение из не UI потока System.InvalidCastException: Не удалось привести тип объекта "LiteDB.EmptyPage" к типу "LiteDB.ExtendPage".
+   в LiteDB.PageService.GetPage[T](UInt32 pageID)
+   в LiteDB.PageService.<GetSeqPages>d__7`1.MoveNext()
+   в LiteDB.DataService.ReadExtendData(UInt32 extendPageID)
+   в LiteDB.LiteEngine.<Find>d__52.MoveNext()
+   в LiteDB.LiteCollection`1.<Find>d__17.MoveNext()
+   в System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   в System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   в Domain.Concrete.NoSqlReposutory.RepositoryNoSql`1.List() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Domain\Concrete\NoSqlReposutory\RepositoryNoSql.cs:строка 58
+   в MainExample.MainWindowForm.СозданиеРасписанияЖдТранспорта() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 870
+   в MainExample.MainWindowForm.ОбновитьСписокЗвуковыхСообщений(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 854
+   в MainExample.MainWindowForm.btnОбновитьСписок_Click(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 789
+   в MainExample.MainForm.btnMainWindowShow_Click(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainForm.cs:строка 290
+   в MainExample.MainForm.MainForm_Load(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainForm.cs:строка 264
+   в System.Windows.Forms.Form.OnLoad(EventArgs e)
+   в System.Windows.Forms.Form.OnCreateControl()
+   в System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   в System.Windows.Forms.Control.CreateControl()
+   в System.Windows.Forms.Control.WmShowWindow(Message& m)
+   в System.Windows.Forms.Control.WndProc(Message& m)
+   в System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   в System.Windows.Forms.Form.WmShowWindow(Message& m)
+   в System.Windows.Forms.Form.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/09/27 13:23:54.634|Fatal|Исключение из не UI потока System.InvalidCastException: Не удалось привести тип объекта "LiteDB.EmptyPage" к типу "LiteDB.ExtendPage".
+   в LiteDB.PageService.GetPage[T](UInt32 pageID)
+   в LiteDB.PageService.<GetSeqPages>d__7`1.MoveNext()
+   в LiteDB.DataService.ReadExtendData(UInt32 extendPageID)
+   в LiteDB.LiteEngine.<Find>d__52.MoveNext()
+   в LiteDB.LiteCollection`1.<Find>d__17.MoveNext()
+   в System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   в System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   в Domain.Concrete.NoSqlReposutory.RepositoryNoSql`1.List() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Domain\Concrete\NoSqlReposutory\RepositoryNoSql.cs:строка 58
+   в MainExample.MainWindowForm.СозданиеРасписанияЖдТранспорта() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 870
+   в MainExample.MainWindowForm.ОбновитьСписокЗвуковыхСообщений(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 854
+   в MainExample.MainWindowForm.btnОбновитьСписок_Click(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 789
+   в System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   в System.Windows.Forms.ToolStripButton.OnClick(EventArgs e)
+   в System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   в System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   в System.Windows.Forms.ToolStripItem.FireEventInteractive(EventArgs e, ToolStripItemEventType met)
+   в System.Windows.Forms.ToolStripItem.FireEvent(EventArgs e, ToolStripItemEventType met)
+   в System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   в System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   в System.Windows.Forms.Control.WndProc(Message& m)
+   в System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   в System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/09/27 13:23:58.164|Fatal|Исключение из не UI потока System.InvalidCastException: Не удалось привести тип объекта "LiteDB.EmptyPage" к типу "LiteDB.ExtendPage".
+   в LiteDB.PageService.GetPage[T](UInt32 pageID)
+   в LiteDB.PageService.<GetSeqPages>d__7`1.MoveNext()
+   в LiteDB.DataService.ReadExtendData(UInt32 extendPageID)
+   в LiteDB.LiteEngine.<Find>d__52.MoveNext()
+   в LiteDB.LiteCollection`1.<Find>d__17.MoveNext()
+   в System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   в System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   в Domain.Concrete.NoSqlReposutory.RepositoryNoSql`1.List() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Domain\Concrete\NoSqlReposutory\RepositoryNoSql.cs:строка 58
+   в MainExample.MainWindowForm.СозданиеРасписанияЖдТранспорта() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 870
+   в MainExample.MainWindowForm.ОбновитьСписокЗвуковыхСообщений(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 854
+   в MainExample.MainWindowForm.btnОбновитьСписок_Click(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 789
+   в System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   в System.Windows.Forms.ToolStripButton.OnClick(EventArgs e)
+   в System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   в System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   в System.Windows.Forms.ToolStripItem.FireEventInteractive(EventArgs e, ToolStripItemEventType met)
+   в System.Windows.Forms.ToolStripItem.FireEvent(EventArgs e, ToolStripItemEventType met)
+   в System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   в System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   в System.Windows.Forms.Control.WndProc(Message& m)
+   в System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   в System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/09/27 13:24:00.835|Fatal|Исключение из не UI потока System.InvalidCastException: Не удалось привести тип объекта "LiteDB.EmptyPage" к типу "LiteDB.ExtendPage".
+   в LiteDB.PageService.GetPage[T](UInt32 pageID)
+   в LiteDB.PageService.<GetSeqPages>d__7`1.MoveNext()
+   в LiteDB.DataService.ReadExtendData(UInt32 extendPageID)
+   в LiteDB.LiteEngine.<Find>d__52.MoveNext()
+   в LiteDB.LiteCollection`1.<Find>d__17.MoveNext()
+   в System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   в System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   в Domain.Concrete.NoSqlReposutory.RepositoryNoSql`1.List() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Domain\Concrete\NoSqlReposutory\RepositoryNoSql.cs:строка 58
+   в MainExample.MainWindowForm.СозданиеРасписанияЖдТранспорта() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 870
+   в MainExample.MainWindowForm.ОбновитьСписокЗвуковыхСообщений(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 854
+   в MainExample.MainWindowForm.btnОбновитьСписок_Click(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 789
+   в System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   в System.Windows.Forms.ToolStripButton.OnClick(EventArgs e)
+   в System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   в System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   в System.Windows.Forms.ToolStripItem.FireEventInteractive(EventArgs e, ToolStripItemEventType met)
+   в System.Windows.Forms.ToolStripItem.FireEvent(EventArgs e, ToolStripItemEventType met)
+   в System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   в System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   в System.Windows.Forms.Control.WndProc(Message& m)
+   в System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   в System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018/09/27 13:25:37.276|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:26:36.987|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:27:36.950|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:29:36.970|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:29:36.970|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:31:37.000|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:32:36.992|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:33:36.991|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:35:36.994|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:35:36.994|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:37:37.009|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:38:36.978|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:52:45.839|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:56:49.228|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/09/27 13:57:49.103|Error|System.Xml.XmlException: Отсутствует корневой элемент.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: 
+2018/10/18 19:00:36.455|Warn|Параметр UslDlPoezd не совпадает с реальной суммой длин вагонов состава. UslDlPoezd = 350259, RealLength = 375259
+2018/10/18 19:01:33.824|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.824|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.824|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.824|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.824|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.830|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.845|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.845|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.845|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.845|Error|Строка расписания поезда   пуста
+2018/10/18 19:01:33.845|Error|Строка расписания поезда   пуста

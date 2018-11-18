@@ -1,0 +1,762 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Direction Id="1" Name="Дальнее. Круглогодичное">
+		<Station Id="1"  NameRu= "АБАКАН" NameEng="ABAKAN" CodeEsr="88800" CodeExpress="2038230" NearestStation="Пост 6 км"/>
+		<Station Id="2"  NameRu= "АДЛЕР" NameEng="ADLER" CodeEsr="53280" CodeExpress="2064150" NearestStation="Волгоград-2"/>
+		<Station Id="3"  NameRu= "АЛМАТЫ" NameEng="ALMATY" CodeEsr="70000" CodeExpress="2700002" NearestStation="Пост 6 км"/>
+		<Station Id="3"  NameRu= "АЛМАТЫ" NameEng="ALMATY" CodeEsr="70010" CodeExpress="2700001" NearestStation="Пост 6 км"/>
+		<Station Id="4"  NameRu= "АНАПА" NameEng="ANAPA" CodeEsr="52280" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="5"  NameRu= "АНДИЖАН" NameEng="ANDIJAN" CodeEsr="74360" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="6"  NameRu= "АРХАНГЕЛЬСК" NameEng="ARKHANGELSK" CodeEsr="29040" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="7"  NameRu= "АСТАНА" NameEng="ASTANA" CodeEsr="69000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="8"  NameRu= "АСТРАХАНЬ" NameEng="ASTRAKHAN" CodeEsr="61680" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="8"  NameRu= "АСТРАХАНЬ" NameEng="ASTRAKHAN" CodeEsr="61690" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="9"  NameRu= "АТЫРАУ" NameEng="ATYRAU" CodeEsr="66170" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="10"  NameRu= "БАКУ" NameEng="BAKU" CodeEsr="54711" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="11"  NameRu= "БАЛАКОВО" NameEng="BALAKOVO" CodeEsr="62510" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="12"  NameRu= "БАЛАШОВ" NameEng="BALASHOV" CodeEsr="60530" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="12"  NameRu= "БАЛАШОВ" NameEng="BALASHOV" CodeEsr="60540" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="12"  NameRu= "БАЛАШОВ" NameEng="BALASHOV" CodeEsr="60642" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="13"  NameRu= "БАРАНОВИЧИ" NameEng="BARANAVICHY" CodeEsr="13843" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="13"  NameRu= "БАРАНОВИЧИ" NameEng="BARANAVICHY" CodeEsr="13850" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="13"  NameRu= "БАРАНОВИЧИ" NameEng="BARANAVICHY" CodeEsr="13890" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="14"  NameRu= "БАРНАУЛ" NameEng="BARNAUL" CodeEsr="84010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="158"  NameRu= "БЕЙНЕУ" NameEng="BEINEU" CodeEsr="66280" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="15"  NameRu= "БЕЛГОРОД" NameEng="BELGOROD" CodeEsr="43450" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="16"  NameRu= "БЕРЕЩИНО" NameEng="BEREZCHINO" CodeEsr="24610" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="17"  NameRu= "БЕРЛИН" NameEng="BERLIN" CodeEsr="" CodeExpress="8000101"/>
+		<Station Id="18"  NameRu= "БИЙСК" NameEng="BIYSK" CodeEsr="84320" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="19"  NameRu= "БИШКЕК" NameEng="BISHKEK" CodeEsr="71660" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="19"  NameRu= "БИШКЕК" NameEng="BISHKEK" CodeEsr="71670" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="20"  NameRu= "БЛАГОВЕЩЕНСК" NameEng="BLAGOVESHCHENSK" CodeEsr="95470" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="21"  NameRu= "БРЕСТ" NameEng="BREST" CodeEsr="13000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="21"  NameRu= "БРЕСТ" NameEng="BREST" CodeEsr="13010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="21"  NameRu= "БРЕСТ" NameEng="BREST" CodeEsr="13020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="21"  NameRu= "БРЕСТ" NameEng="BREST" CodeEsr="13030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="22"  NameRu= "БРЯНСК" NameEng="BRYANSK" CodeEsr="20000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="22"  NameRu= "БРЯНСК" NameEng="BRYANSK" CodeEsr="20010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="22"  NameRu= "БРЯНСК" NameEng="BRYANSK" CodeEsr="20015" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="159"  NameRu= "БУХАРА" NameEng="BUKHARA" CodeEsr="73000" CodeExpress="2900800" NearestStation="Пост 6 км"/>
+		<Station Id="1001"  NameRu= "БУХАРА" NameEng="BUKHARA" CodeEsr="73010" CodeExpress="2900308" NearestStation="Пост 6 км"/>
+		<Station Id="23"  NameRu= "ВАРШАВА" NameEng="WARSAW" CodeEsr="" CodeExpress="5100136" NearestStation="Пост 6 км"/>
+		<Station Id="1002"  NameRu= "ВАРШАВА" NameEng="WARSAW" CodeEsr="" CodeExpress="5100137" NearestStation="Пост 6 км"/>
+		<Station Id="1003"  NameRu= "ВАРШАВА" NameEng="WARSAW" CodeEsr="" CodeExpress="5100138" NearestStation="Пост 6 км"/>
+		<Station Id="1004"  NameRu= "ВАРШАВА" NameEng="WARSAW" CodeEsr="" CodeExpress="5100139" NearestStation="Пост 6 км"/>
+		<Station Id="1005"  NameRu= "ВАРШАВА" NameEng="WARSAW" CodeEsr="" CodeExpress="5199136" NearestStation="Пост 6 км"/>
+		<Station Id="24"  NameRu= "ВЕЛИКИЕ ЛУКИ" NameEng="VELIKIE LUKI" CodeEsr="6600" CodeExpress="2004540" NearestStation="Пост 6 км"/>
+		<Station Id="25"  NameRu= "В.НОВГОРОД" NameEng="V.NOVGOROD" CodeEsr="4010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1006"  NameRu= "В.НОВГОРОД" NameEng="V.NOVGOROD" CodeEsr="4012" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="27"  NameRu= "ВЛАДИВОСТОК" NameEng="VLADIVOSTOK" CodeEsr="98000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="28"  NameRu= "ВЛАДИКАВКАЗ" NameEng="VLADIKAVKAZ" CodeEsr="53870" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="29"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="30"  NameRu= "ВОЛОГДА" NameEng="VOLOGDA" CodeEsr="30010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1007"  NameRu= "ВОЛОГДА" NameEng="VOLOGDA" CodeEsr="30030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="31"  NameRu= "ВОРКУТА" NameEng="VORKUTA" CodeEsr="28950" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="32"  NameRu= "ВОРОНЕЖ" NameEng="VORONEZH" CodeEsr="59650" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1008"  NameRu= "ВОРОНЕЖ" NameEng="VORONEZH" CodeEsr="59640" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="33"  NameRu= "ГОМЕЛЬ" NameEng="GOMEL" CodeEsr="15000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="34"  NameRu= "ГРОДНО" NameEng="GRODNO" CodeEsr="13520" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="35"  NameRu= "ГРОЗНЫЙ" NameEng="GROZNY" CodeEsr="54000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="36"  NameRu= "ДИМИТРОВГРАД" NameEng="DIMITROVGRAD" CodeEsr="64620" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="37"  NameRu= "ДНЕПР" NameEng="DNIEPER" CodeEsr="45110" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1009"  NameRu= "ДНЕПР" NameEng="DNIEPER" CodeEsr="45002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="38"  NameRu= "ДУШАНБЕ" NameEng="DUSHANBE" CodeEsr="74520" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1010"  NameRu= "ДУШАНБЕ" NameEng="DUSHANBE" CodeEsr="74530" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="39"  NameRu= "ЕЙСК" NameEng="YEYSK" CodeEsr="51540" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="40"  NameRu= "ЕКАТЕРИНБУРГ" NameEng="EKATERINBURG" CodeEsr="78050" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="41"  NameRu= "ЖМЕРИНКА" NameEng="ZHMERYNKA" CodeEsr="33000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="42"  NameRu= "ЗАБАЙКАЛЬСК" NameEng="ZABAIKALSK" CodeEsr="94680" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="43"  NameRu= "ИВАНОВО" NameEng="IVANOVO" CodeEsr="31863" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="44"  NameRu= "ИЖЕВСК" NameEng="IZHEVSK" CodeEsr="25540" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="45"  NameRu= "ИМЕРЕТИНСКИЙ КУРОРТ" NameEng="IMERETI RESORT" CodeEsr="53277" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="46"  NameRu= "ИРКУТСК" NameEng="IRKUTSK" CodeEsr="93010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="47"  NameRu= "ЙОШКАР ОЛА" NameEng="YOSHKAR-OLA" CodeEsr="25240" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="48"  NameRu= "КАВКАЗСКАЯ" NameEng="KAVKAZSKAYA" CodeEsr="52000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="49"  NameRu= "КАЗАНЬ" NameEng="KAZAN" CodeEsr="25030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="50"  NameRu= "КАЛИНИНГРАД" NameEng="KALININGRAD" CodeEsr="10001" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1011"  NameRu= "КАЛИНИНГРАД" NameEng="KALININGRAD" CodeEsr="10361" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="51"  NameRu= "КАМЫШИН" NameEng="KAMYSHIN" CodeEsr="62300" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1012"  NameRu= "КАМЫШИН" NameEng="KAMYSHIN" CodeEsr="62186" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="52"  NameRu= "КАРАГАНДЫ" NameEng="KARAGANDA" CodeEsr="67390" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="53"  NameRu= "КЕМЕРОВО" NameEng="KEMEROVO" CodeEsr="87010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="54"  NameRu= "КИЕВ" NameEng="KIEV" CodeEsr="32030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1013"  NameRu= "КИЕВ" NameEng="KIEV" CodeEsr="32050" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1014"  NameRu= "КИЕВ" NameEng="KIEV" CodeEsr="32010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1015"  NameRu= "КИЕВ" NameEng="KIEV" CodeEsr="32040" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="55"  NameRu= "КИНЕШМА" NameEng="KINESHMA" CodeEsr="31670" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="56"  NameRu= "КИРОВ" NameEng="KIROV" CodeEsr="27020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="57"  NameRu= "КИСЛОВОДСК" NameEng="KISLOVODSK" CodeEsr="53250" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="58"  NameRu= "КИШИНЁВ" NameEng="KISHINEV" CodeEsr="39120" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="59"  NameRu= "КЛИМОВ" NameEng="KLIMOV" CodeEsr="20240" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="60"  NameRu= "КОВЕЛЬ" NameEng="KOVEL" CodeEsr="35400" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="61"  NameRu= "КОМСОМОЛЬСК НА АМУРЕ" NameEng="KOMSOMOLSK-ON-AMUR" CodeEsr="96010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="62"  NameRu= "КОСТРОМА" NameEng="KOSTROMA" CodeEsr="30500" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1016"  NameRu= "КОСТРОМА" NameEng="KOSTROMA" CodeEsr="30510" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="63"  NameRu= "КОТЛАС" NameEng="KOTLAS" CodeEsr="28010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1017"  NameRu= "КОТЛАС" NameEng="KOTLAS" CodeEsr="28014" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1018"  NameRu= "КОТЛАС" NameEng="KOTLAS" CodeEsr="28050" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="64"  NameRu= "КРАСНОДАР" NameEng="KRASNODAR" CodeEsr="52440" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1019"  NameRu= "КРАСНОДАР" NameEng="KRASNODAR" CodeEsr="52080" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="65"  NameRu= "КРАСНОУФИМСК" NameEng="KRASNOUFIMSK" CodeEsr="25890" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="66"  NameRu= "КРАСНОЯРСК" NameEng="KRASNOYARSK" CodeEsr="89000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="67"  NameRu= "КРЕМЕНЧУГ" NameEng="KREMENCHUK" CodeEsr="42500" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="68"  NameRu= "КРИВОЙ РОГ" NameEng="KRIVOY ROG" CodeEsr="46700" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1020"  NameRu= "КРИВОЙ РОГ" NameEng="KRIVOY ROG" CodeEsr="46720" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1021"  NameRu= "КРИВОЙ РОГ" NameEng="KRIVOY ROG" CodeEsr="46730" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="69"  NameRu= "КРУГЛОЕ ПОЛЕ" NameEng="KRUGLOE POLE" CodeEsr="64840" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="170"  NameRu= "КУЛЯБ" NameEng="KULYAB" CodeEsr="74890" CodeExpress="6600188" NearestStation="Пост 6 км"/>
+		<Station Id="160"  NameRu= "КУНГРАД" NameEng="KUNGRAD" CodeEsr="73720" CodeExpress="2900885" NearestStation="Пост 6 км"/>
+		<Station Id="70"  NameRu= "КУРГАН" NameEng="KURGAN" CodeEsr="82850" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1022" NameRu= "КУРГАН" NameEng="KURGAN" CodeEsr="82857" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="71"  NameRu= "КУРСК" NameEng="KURSK" CodeEsr="20820" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="72"  NameRu= "ЛАБЫТНАНГИ" NameEng="LABYTNANGI" CodeEsr="28990" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="73"  NameRu= "ЛЕНИНОГОРСК" NameEng="LENINOGORSK" CodeEsr="71360" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="74"  NameRu= "ЛИПЕЦК" NameEng="LIPETSK" CodeEsr="59250" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="75"  NameRu= "ЛЬВОВ" NameEng="LVIV" CodeEsr="37000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="76"  NameRu= "ЛЬГОВ" NameEng="LGOV" CodeEsr="20620" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="77"  NameRu= "МАГНИТОГОРСК" NameEng="MAGNITOGORSK" CodeEsr="81791" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="78"  NameRu= "МАЙКОП" NameEng="MAIKOP" CodeEsr="53480" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="161"  NameRu= "МАКАТ" NameEng="MAKAT" CodeEsr="66110" CodeExpress="2704980" NearestStation="Пост 6 км"/>
+		<Station Id="79"  NameRu= "МАХАЧКАЛА" NameEng="MAKHACHKALA" CodeEsr="54330" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="80"  NameRu= "МИКУНЬ" NameEng="MIKUN" CodeEsr="28240" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1023"  NameRu= "МИКУНЬ" NameEng="MIKUN" CodeEsr="28250" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="81"  NameRu= "МИН.ВОДЫ" NameEng="MIN.VODY" CodeEsr="53000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="82"  NameRu= "МИНСК" NameEng="MINSK" CodeEsr="14021" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1024"  NameRu= "МИНСК" NameEng="MINSK" CodeEsr="14050" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1025"  NameRu= "МИНСК" NameEng="MINSK" CodeEsr="14030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1026"  NameRu= "МИНСК" NameEng="MINSK" CodeEsr="14010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="83"  NameRu= "МОГИЛЁВ" NameEng="MOGILEV" CodeEsr="15650" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1027"  NameRu= "МОГИЛЁВ" NameEng="MOGILEV" CodeEsr="15661" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="84"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="6007" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1028"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19160" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1029"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19351" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1030"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19401" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1031"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19550" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1032"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19600" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1033"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19610" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1034"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19810" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1035"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19823" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="85"  NameRu= "МУРМАНСК" NameEng="MURMANSK" CodeEsr="1840" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="162"  NameRu= "НАВОИ" NameEng="NAVOI" CodeEsr="73130" CodeExpress="2900930" NearestStation="Пост 6 км"/>
+		<Station Id="86"  NameRu= "НАЗРАНЬ" NameEng="NAZRAN" CodeEsr="54030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="87"  NameRu= "НАЛЬЧИК" NameEng="NALCHIK" CodeEsr="53790" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="88"  NameRu= "НЕРЮНГРИ" NameEng="NERYUNGRI" CodeEsr="91150" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="89"  NameRu= "НИЖНЕВАРТОВСК" NameEng="NIZHNEVARTOVSK" CodeEsr="79790" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="89"  NameRu= "НИЖНЕВАРТОВСК" NameEng="NIZHNEVARTOVSK" CodeEsr="79800" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="90"  NameRu= "Н.НОВГОРОД" NameEng="N.NOVGOROD" CodeEsr="26020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="91"  NameRu= "НИКОЛАЕВ" NameEng="MYKOLAIV" CodeEsr="41510" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="92"  NameRu= "НИЦЦА" NameEng="NICE" CodeEsr="" CodeExpress="8700400" NearestStation="Пост 6 км"/>
+		<Station Id="93"  NameRu= "НОВОКУЗНЕЦК" NameEng="NOVOKUZNETSK" CodeEsr="86010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="94"  NameRu= "НОВОРОССИЙСК" NameEng="NOVOROSSIYSK" CodeEsr="52090" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="95"  NameRu= "НОВОСИБИРСК" NameEng="NOVOSIBIRSK" CodeEsr="85060" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="96"  NameRu= "Н.УРЕНГОЙ" NameEng="N.URENGOY" CodeEsr="79940" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="163"  NameRu= "НУКУС" NameEng="NUKUS" CodeEsr="73900" CodeExpress="2900970" NearestStation="Пост 6 км"/>
+		<Station Id="97"  NameRu= "ОМСК" NameEng="OMSK" CodeEsr="83070" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="98"  NameRu= "ОРЕНБУРГ" NameEng="ORENBURG" CodeEsr="81190" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="99"  NameRu= "ОРЁЛ" NameEng="OREL" CodeEsr="21600" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="100"  NameRu= "ОРСК" NameEng="ORSK" CodeEsr="81000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="101"  NameRu= "ПАРИЖ" NameEng="PARIS" CodeEsr="" CodeExpress="8077204" NearestStation="Пост 6 км"/>
+		<Station Id="1036"  NameRu= "ПАРИЖ" NameEng="PARIS" CodeEsr="" CodeExpress="8700015" NearestStation="Пост 6 км"/>
+		<Station Id="102"  NameRu= "ПЕКИН" NameEng="BEIJING" CodeEsr="" CodeExpress="3300100" NearestStation="Пост 6 км"/>
+		<Station Id="103"  NameRu= "ПЕНЗА" NameEng="PENZA" CodeEsr="63010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1037"  NameRu= "ПЕНЗА" NameEng="PENZA" CodeEsr="63020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1038"  NameRu= "ПЕНЗА" NameEng="PENZA" CodeEsr="63000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1039"  NameRu= "ПЕНЗА" NameEng="PENZA" CodeEsr="63030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="104"  NameRu= "ПЕРВОМАЙСК" NameEng="PERVOMAISK" CodeEsr="24620" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="105"  NameRu= "ПЕРМЬ" NameEng="PERM" CodeEsr="76100" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1040"  NameRu= "ПЕРМЬ" NameEng="PERM" CodeEsr="76110" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="106"  NameRu= "ПЕТРОЗАВОДСК" NameEng="PETROZAVODSK" CodeEsr="1000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="107"  NameRu= "ПЕТРОПАВЛОВСК" NameEng="PETROPAVLOVSK" CodeEsr="82000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="108"  NameRu= "ПЕЧОРА" NameEng="PECHORA" CodeEsr="28800" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="109"  NameRu= "ПОЛОЦК" NameEng="POLOTSK" CodeEsr="16130" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="110"  NameRu= "ПРАГА" NameEng="PRAGUE" CodeEsr="" CodeExpress="5400076" NearestStation="Пост 6 км"/>
+		<Station Id="1041"  NameRu= "ПРАГА" NameEng="PRAGUE" CodeEsr="" CodeExpress="5457076" NearestStation="Пост 6 км"/>
+		<Station Id="1042"  NameRu= "ПРАГА" NameEng="PRAGUE" CodeEsr="" CodeExpress="5457176" NearestStation="Пост 6 км"/>
+		<Station Id="1043"  NameRu= "ПРАГА" NameEng="PRAGUE" CodeEsr="" CodeExpress="5457256" NearestStation="Пост 6 км"/>
+		<Station Id="1044"  NameRu= "ПРАГА" NameEng="PRAGUE" CodeEsr="" CodeExpress="5457276" NearestStation="Пост 6 км"/>
+		<Station Id="111"  NameRu= "ПРИОБЬЕ" NameEng="PRIOBYE" CodeEsr="77940" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="112"  NameRu= "ПСКОВ" NameEng="PSKOV" CodeEsr="7060" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="113"  NameRu= "ПХЕНЬЯН" NameEng="PYONGYANG" CodeEsr="" CodeExpress="3000250" NearestStation="Пост 6 км"/>
+		<Station Id="114"  NameRu= "РИГА" NameEng="RIGA" CodeEsr="9010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="115"  NameRu= "РОЗА ХУТОР" NameEng="ROSA KHUTOR" CodeEsr="53289" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="116"  NameRu= "РОСТОВ" NameEng="ROSTOV" CodeEsr="51020" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="1045"  NameRu= "РОСТОВ" NameEng="ROSTOV" CodeEsr="51021" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="1046"  NameRu= "РОСТОВ" NameEng="ROSTOV" CodeEsr="51040" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="117"  NameRu= "РЫБИНСК" NameEng="RYBINSK" CodeEsr="31210" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="118"  NameRu= "РЯЗАНЬ" NameEng="RYAZAN" CodeEsr="22030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1047"  NameRu= "РЯЗАНЬ" NameEng="RYAZAN" CodeEsr="22280" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="119"  NameRu= "САМАРА" NameEng="SAMARA" CodeEsr="65790" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="165"  NameRu= "САМАРКАНД" NameEng="SAMARKAND" CodeEsr="72780" CodeExpress="2900700" NearestStation="Пост 6 км"/>
+		<Station Id="120"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3181" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1048"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3530" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1049"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3306" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1050"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3820" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1051"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3600" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1052"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3710" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="121"  NameRu= "САРАНСК" NameEng="SARANSK" CodeEsr="64160" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="122"  NameRu= "САРАТОВ" NameEng="SARATOV" CodeEsr="62000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="122"  NameRu= "САРАТОВ" NameEng="SARATOV" CodeEsr="62004" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="122"  NameRu= "САРАТОВ" NameEng="SARATOV" CodeEsr="62030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="123"  NameRu= "СЕВЕРОБАЙКАЛЬСК" NameEng="SEVEROBAIKALSK" CodeEsr="90320" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="124"  NameRu= "СЕВЕРОДВИНСК" NameEng="SEVERODVINSK" CodeEsr="29020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="125"  NameRu= "СМОЛЕНСК" NameEng="SMOLENSK" CodeEsr="17010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="126"  NameRu= "СОЛИКАМСК" NameEng="SOLIKAMSK" CodeEsr="76960" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1053"  NameRu= "СОЛИКАМСК" NameEng="SOLIKAMSK" CodeEsr="76951" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="127"  NameRu= "СОСНОГОРСК" NameEng="SOSNOGORSK" CodeEsr="28580" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="128"  NameRu= "СТАВРОПОЛЬ" NameEng="STAVROPOL" CodeEsr="52700" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="129"  NameRu= "СТАРЫЙ ОСКОЛ" NameEng="STARY OSKOL" CodeEsr="43850" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="130"  NameRu= "СУМЫ" NameEng="SUMY" CodeEsr="44530" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="131"  NameRu= "СУХУМ" NameEng="SUKHUMI" CodeEsr="57390" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="132"  NameRu= "СЫКТЫВКАР" NameEng="SYKTYVKAR" CodeEsr="28390" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="133"  NameRu= "ТАЛЛИНН" NameEng="TALLINN" CodeEsr="8140" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1054"  NameRu= "ТАЛЛИНН" NameEng="TALLINN" CodeEsr="8831" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="134"  NameRu= "ТАМБОВ" NameEng="TAMBOV" CodeEsr="60140" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="135"  NameRu= "ТАШКЕНТ" NameEng="TASHKENT" CodeEsr="72091" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="136"  NameRu= "ТОЛЬЯТТИ" NameEng="TOLYATTI" CodeEsr="63730" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="137"  NameRu= "ТОМСК" NameEng="TOMSK" CodeEsr="87390" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1055"  NameRu= "ТОМСК" NameEng="TOMSK" CodeEsr="87400" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1056"  NameRu= "ТОМСК" NameEng="TOMSK" CodeEsr="87402" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="138"  NameRu= "ТЫНДА" NameEng="TYNDA" CodeEsr="91000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="139"  NameRu= "ТЮМЕНЬ" NameEng="TYUMEN" CodeEsr="79000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="140"  NameRu= "УЛАН БАТОР" NameEng="ULAANBAATAR" CodeEsr="" CodeExpress="3100022" NearestStation="Пост 6 км"/>
+		<Station Id="141"  NameRu= "УЛАН УДЭ" NameEng="ULAN-UDE" CodeEsr="93550" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="142"  NameRu= "УЛЬЯНОВСК" NameEng="ULYANOVSK" CodeEsr="64480" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1057"  NameRu= "УЛЬЯНОВСК" NameEng="ULYANOVSK" CodeEsr="64550" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1058"  NameRu= "УЛЬЯНОВСК" NameEng="ULYANOVSK" CodeEsr="64510" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="164"  NameRu= "УРГЕНЧ" NameEng="URGENCH" CodeEsr="73830" CodeExpress="2900790" NearestStation="Пост 6 км"/>
+		<Station Id="143"  NameRu= "УСИНСК" NameEng="USINSK" CodeEsr="28830" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="144"  NameRu= "УСТЬ ИЛИМСК" NameEng="UST-ILIMSK" CodeEsr="92640" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="145"  NameRu= "УСТЬЕ АХА" NameEng="USTYE-AKHA" CodeEsr="78890" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="146"  NameRu= "УФА" NameEng="UFA" CodeEsr="64450" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="147"  NameRu= "ФРАНКФУРТ НА ОДЕРЕ" NameEng="FRANKFURT (ODER)" CodeEsr="" CodeExpress="8015150" NearestStation="Пост 6 км"/>
+		<Station Id="148"  NameRu= "ХАБАРОВСК" NameEng="KHABAROVSK" CodeEsr="97040" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1059"  NameRu= "ХАБАРОВСК" NameEng="KHABAROVSK" CodeEsr="97000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="149"  NameRu= "ХАРЬКОВ" NameEng="KHARKIV" CodeEsr="44005" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1060"  NameRu= "ХАРЬКОВ" NameEng="KHARKIV" CodeEsr="44032" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="150"  NameRu= "ХЕЛЬСИНКИ" NameEng="HELSINKI" CodeEsr="" CodeExpress="1000001" NearestStation="Пост 6 км"/>
+		<Station Id="151"  NameRu= "ХМЕЛЬНИЦКИЙ" NameEng="KHMELNYTSKYI" CodeEsr="33070" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="152"  NameRu= "ХУДЖАНД" NameEng="KHUJAND" CodeEsr="74780" CodeExpress="6600910" NearestStation="Пост 6 км"/>
+		<Station Id="153"  NameRu= "ЧЕБОКСАРЫ" NameEng="CHEBOKSARY" CodeEsr="24850" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="154"  NameRu= "ЧЕЛЯБИНСК" NameEng="CHELYABINSK" CodeEsr="80000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="155"  NameRu= "ЧЕРЕПОВЕЦ" NameEng="CHEREPOVETS" CodeEsr="30230" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1061"  NameRu= "ЧЕРЕПОВЕЦ" NameEng="CHEREPOVETS" CodeEsr="30250" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="156"  NameRu= "ЧИТА" NameEng="CHITA" CodeEsr="94010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1062"  NameRu= "ЧИТА" NameEng="CHITA" CodeEsr="94000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="157"  NameRu= "ЯРОСЛАВЛЬ" NameEng="YAROSLAVL" CodeEsr="31000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1063"  NameRu= "ЯРОСЛАВЛЬ" NameEng="YAROSLAVL" CodeEsr="31010" CodeExpress="" NearestStation="Пост 6 км"/>
+	</Direction>
+	<Direction Id="12" Name="Дальнее. Сезонное">
+		<Station Id="1"  NameRu= "АБАКАН" NameEng="ABAKAN" CodeEsr="88800" CodeExpress="2038230" NearestStation="Пост 6 км"/>
+		<Station Id="2"  NameRu= "АДЛЕР" NameEng="ADLER" CodeEsr="53280" CodeExpress="2064150" NearestStation="Волгоград-2"/>
+		<Station Id="3"  NameRu= "АЛМАТЫ" NameEng="ALMATY" CodeEsr="70000" CodeExpress="2700002" NearestStation="Пост 6 км"/>
+		<Station Id="3"  NameRu= "АЛМАТЫ" NameEng="ALMATY" CodeEsr="70010" CodeExpress="2700001" NearestStation="Пост 6 км"/>
+		<Station Id="4"  NameRu= "АНАПА" NameEng="ANAPA" CodeEsr="52280" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="5"  NameRu= "АНДИЖАН" NameEng="ANDIJAN" CodeEsr="74360" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="6"  NameRu= "АРХАНГЕЛЬСК" NameEng="ARKHANGELSK" CodeEsr="29040" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="7"  NameRu= "АСТАНА" NameEng="ASTANA" CodeEsr="69000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="8"  NameRu= "АСТРАХАНЬ" NameEng="ASTRAKHAN" CodeEsr="61680" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="8"  NameRu= "АСТРАХАНЬ" NameEng="ASTRAKHAN" CodeEsr="61690" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="9"  NameRu= "АТЫРАУ" NameEng="ATYRAU" CodeEsr="66170" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="10"  NameRu= "БАКУ" NameEng="BAKU" CodeEsr="54711" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="11"  NameRu= "БАЛАКОВО" NameEng="BALAKOVO" CodeEsr="62510" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="12"  NameRu= "БАЛАШОВ" NameEng="BALASHOV" CodeEsr="60530" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="12"  NameRu= "БАЛАШОВ" NameEng="BALASHOV" CodeEsr="60540" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="12"  NameRu= "БАЛАШОВ" NameEng="BALASHOV" CodeEsr="60642" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="13"  NameRu= "БАРАНОВИЧИ" NameEng="BARANAVICHY" CodeEsr="13843" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="13"  NameRu= "БАРАНОВИЧИ" NameEng="BARANAVICHY" CodeEsr="13850" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="13"  NameRu= "БАРАНОВИЧИ" NameEng="BARANAVICHY" CodeEsr="13890" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="14"  NameRu= "БАРНАУЛ" NameEng="BARNAUL" CodeEsr="84010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="158"  NameRu= "БЕЙНЕУ" NameEng="BEINEU" CodeEsr="66280" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="15"  NameRu= "БЕЛГОРОД" NameEng="BELGOROD" CodeEsr="43450" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="16"  NameRu= "БЕРЕЩИНО" NameEng="BEREZCHINO" CodeEsr="24610" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="17"  NameRu= "БЕРЛИН" NameEng="BERLIN" CodeEsr="" CodeExpress="8000101"/>
+		<Station Id="18"  NameRu= "БИЙСК" NameEng="BIYSK" CodeEsr="84320" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="19"  NameRu= "БИШКЕК" NameEng="BISHKEK" CodeEsr="71660" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="19"  NameRu= "БИШКЕК" NameEng="BISHKEK" CodeEsr="71670" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="20"  NameRu= "БЛАГОВЕЩЕНСК" NameEng="BLAGOVESHCHENSK" CodeEsr="95470" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="21"  NameRu= "БРЕСТ" NameEng="BREST" CodeEsr="13000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="21"  NameRu= "БРЕСТ" NameEng="BREST" CodeEsr="13010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="21"  NameRu= "БРЕСТ" NameEng="BREST" CodeEsr="13020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="21"  NameRu= "БРЕСТ" NameEng="BREST" CodeEsr="13030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="22"  NameRu= "БРЯНСК" NameEng="BRYANSK" CodeEsr="20000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="22"  NameRu= "БРЯНСК" NameEng="BRYANSK" CodeEsr="20010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="22"  NameRu= "БРЯНСК" NameEng="BRYANSK" CodeEsr="20015" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="159"  NameRu= "БУХАРА" NameEng="BUKHARA" CodeEsr="73000" CodeExpress="2900800" NearestStation="Пост 6 км"/>
+		<Station Id="1001"  NameRu= "БУХАРА" NameEng="BUKHARA" CodeEsr="73010" CodeExpress="2900308" NearestStation="Пост 6 км"/>
+		<Station Id="23"  NameRu= "ВАРШАВА" NameEng="WARSAW" CodeEsr="" CodeExpress="5100136" NearestStation="Пост 6 км"/>
+		<Station Id="1002"  NameRu= "ВАРШАВА" NameEng="WARSAW" CodeEsr="" CodeExpress="5100137" NearestStation="Пост 6 км"/>
+		<Station Id="1003"  NameRu= "ВАРШАВА" NameEng="WARSAW" CodeEsr="" CodeExpress="5100138" NearestStation="Пост 6 км"/>
+		<Station Id="1004"  NameRu= "ВАРШАВА" NameEng="WARSAW" CodeEsr="" CodeExpress="5100139" NearestStation="Пост 6 км"/>
+		<Station Id="1005"  NameRu= "ВАРШАВА" NameEng="WARSAW" CodeEsr="" CodeExpress="5199136" NearestStation="Пост 6 км"/>
+		<Station Id="24"  NameRu= "ВЕЛИКИЕ ЛУКИ" NameEng="VELIKIE LUKI" CodeEsr="6600" CodeExpress="2004540" NearestStation="Пост 6 км"/>
+		<Station Id="25"  NameRu= "В.НОВГОРОД" NameEng="V.NOVGOROD" CodeEsr="4010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1006"  NameRu= "В.НОВГОРОД" NameEng="V.NOVGOROD" CodeEsr="4012" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="27"  NameRu= "ВЛАДИВОСТОК" NameEng="VLADIVOSTOK" CodeEsr="98000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="28"  NameRu= "ВЛАДИКАВКАЗ" NameEng="VLADIKAVKAZ" CodeEsr="53870" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="29"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="30"  NameRu= "ВОЛОГДА" NameEng="VOLOGDA" CodeEsr="30010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1007"  NameRu= "ВОЛОГДА" NameEng="VOLOGDA" CodeEsr="30030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="31"  NameRu= "ВОРКУТА" NameEng="VORKUTA" CodeEsr="28950" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="32"  NameRu= "ВОРОНЕЖ" NameEng="VORONEZH" CodeEsr="59650" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1008"  NameRu= "ВОРОНЕЖ" NameEng="VORONEZH" CodeEsr="59640" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="33"  NameRu= "ГОМЕЛЬ" NameEng="GOMEL" CodeEsr="15000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="34"  NameRu= "ГРОДНО" NameEng="GRODNO" CodeEsr="13520" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="35"  NameRu= "ГРОЗНЫЙ" NameEng="GROZNY" CodeEsr="54000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="36"  NameRu= "ДИМИТРОВГРАД" NameEng="DIMITROVGRAD" CodeEsr="64620" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="37"  NameRu= "ДНЕПР" NameEng="DNIEPER" CodeEsr="45110" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1009"  NameRu= "ДНЕПР" NameEng="DNIEPER" CodeEsr="45002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="38"  NameRu= "ДУШАНБЕ" NameEng="DUSHANBE" CodeEsr="74520" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1010"  NameRu= "ДУШАНБЕ" NameEng="DUSHANBE" CodeEsr="74530" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="39"  NameRu= "ЕЙСК" NameEng="YEYSK" CodeEsr="51540" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="40"  NameRu= "ЕКАТЕРИНБУРГ" NameEng="EKATERINBURG" CodeEsr="78050" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="41"  NameRu= "ЖМЕРИНКА" NameEng="ZHMERYNKA" CodeEsr="33000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="42"  NameRu= "ЗАБАЙКАЛЬСК" NameEng="ZABAIKALSK" CodeEsr="94680" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="43"  NameRu= "ИВАНОВО" NameEng="IVANOVO" CodeEsr="31863" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="44"  NameRu= "ИЖЕВСК" NameEng="IZHEVSK" CodeEsr="25540" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="45"  NameRu= "ИМЕРЕТИНСКИЙ КУРОРТ" NameEng="IMERETI RESORT" CodeEsr="53277" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="46"  NameRu= "ИРКУТСК" NameEng="IRKUTSK" CodeEsr="93010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="47"  NameRu= "ЙОШКАР ОЛА" NameEng="YOSHKAR-OLA" CodeEsr="25240" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="48"  NameRu= "КАВКАЗСКАЯ" NameEng="KAVKAZSKAYA" CodeEsr="52000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="49"  NameRu= "КАЗАНЬ" NameEng="KAZAN" CodeEsr="25030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="50"  NameRu= "КАЛИНИНГРАД" NameEng="KALININGRAD" CodeEsr="10001" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1011"  NameRu= "КАЛИНИНГРАД" NameEng="KALININGRAD" CodeEsr="10361" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="51"  NameRu= "КАМЫШИН" NameEng="KAMYSHIN" CodeEsr="62300" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1012"  NameRu= "КАМЫШИН" NameEng="KAMYSHIN" CodeEsr="62186" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="52"  NameRu= "КАРАГАНДЫ" NameEng="KARAGANDA" CodeEsr="67390" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="53"  NameRu= "КЕМЕРОВО" NameEng="KEMEROVO" CodeEsr="87010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="54"  NameRu= "КИЕВ" NameEng="KIEV" CodeEsr="32030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1013"  NameRu= "КИЕВ" NameEng="KIEV" CodeEsr="32050" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1014"  NameRu= "КИЕВ" NameEng="KIEV" CodeEsr="32010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1015"  NameRu= "КИЕВ" NameEng="KIEV" CodeEsr="32040" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="55"  NameRu= "КИНЕШМА" NameEng="KINESHMA" CodeEsr="31670" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="56"  NameRu= "КИРОВ" NameEng="KIROV" CodeEsr="27020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="57"  NameRu= "КИСЛОВОДСК" NameEng="KISLOVODSK" CodeEsr="53250" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="58"  NameRu= "КИШИНЁВ" NameEng="KISHINEV" CodeEsr="39120" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="59"  NameRu= "КЛИМОВ" NameEng="KLIMOV" CodeEsr="20240" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="60"  NameRu= "КОВЕЛЬ" NameEng="KOVEL" CodeEsr="35400" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="61"  NameRu= "КОМСОМОЛЬСК НА АМУРЕ" NameEng="KOMSOMOLSK-ON-AMUR" CodeEsr="96010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="62"  NameRu= "КОСТРОМА" NameEng="KOSTROMA" CodeEsr="30500" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1016"  NameRu= "КОСТРОМА" NameEng="KOSTROMA" CodeEsr="30510" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="63"  NameRu= "КОТЛАС" NameEng="KOTLAS" CodeEsr="28010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1017"  NameRu= "КОТЛАС" NameEng="KOTLAS" CodeEsr="28014" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1018"  NameRu= "КОТЛАС" NameEng="KOTLAS" CodeEsr="28050" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="64"  NameRu= "КРАСНОДАР" NameEng="KRASNODAR" CodeEsr="52440" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1019"  NameRu= "КРАСНОДАР" NameEng="KRASNODAR" CodeEsr="52080" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="65"  NameRu= "КРАСНОУФИМСК" NameEng="KRASNOUFIMSK" CodeEsr="25890" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="66"  NameRu= "КРАСНОЯРСК" NameEng="KRASNOYARSK" CodeEsr="89000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="67"  NameRu= "КРЕМЕНЧУГ" NameEng="KREMENCHUK" CodeEsr="42500" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="68"  NameRu= "КРИВОЙ РОГ" NameEng="KRIVOY ROG" CodeEsr="46700" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1020"  NameRu= "КРИВОЙ РОГ" NameEng="KRIVOY ROG" CodeEsr="46720" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1021"  NameRu= "КРИВОЙ РОГ" NameEng="KRIVOY ROG" CodeEsr="46730" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="69"  NameRu= "КРУГЛОЕ ПОЛЕ" NameEng="KRUGLOE POLE" CodeEsr="64840" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="170"  NameRu= "КУЛЯБ" NameEng="KULYAB" CodeEsr="74890" CodeExpress="6600188" NearestStation="Пост 6 км"/>
+		<Station Id="160"  NameRu= "КУНГРАД" NameEng="KUNGRAD" CodeEsr="73720" CodeExpress="2900885" NearestStation="Пост 6 км"/>
+		<Station Id="70"  NameRu= "КУРГАН" NameEng="KURGAN" CodeEsr="82850" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1022" NameRu= "КУРГАН" NameEng="KURGAN" CodeEsr="82857" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="71"  NameRu= "КУРСК" NameEng="KURSK" CodeEsr="20820" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="72"  NameRu= "ЛАБЫТНАНГИ" NameEng="LABYTNANGI" CodeEsr="28990" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="73"  NameRu= "ЛЕНИНОГОРСК" NameEng="LENINOGORSK" CodeEsr="71360" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="74"  NameRu= "ЛИПЕЦК" NameEng="LIPETSK" CodeEsr="59250" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="75"  NameRu= "ЛЬВОВ" NameEng="LVIV" CodeEsr="37000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="76"  NameRu= "ЛЬГОВ" NameEng="LGOV" CodeEsr="20620" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="77"  NameRu= "МАГНИТОГОРСК" NameEng="MAGNITOGORSK" CodeEsr="81791" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="78"  NameRu= "МАЙКОП" NameEng="MAIKOP" CodeEsr="53480" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="161"  NameRu= "МАКАТ" NameEng="MAKAT" CodeEsr="66110" CodeExpress="2704980" NearestStation="Пост 6 км"/>
+		<Station Id="79"  NameRu= "МАХАЧКАЛА" NameEng="MAKHACHKALA" CodeEsr="54330" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="80"  NameRu= "МИКУНЬ" NameEng="MIKUN" CodeEsr="28240" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1023"  NameRu= "МИКУНЬ" NameEng="MIKUN" CodeEsr="28250" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="81"  NameRu= "МИН.ВОДЫ" NameEng="MIN.VODY" CodeEsr="53000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="82"  NameRu= "МИНСК" NameEng="MINSK" CodeEsr="14021" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1024"  NameRu= "МИНСК" NameEng="MINSK" CodeEsr="14050" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1025"  NameRu= "МИНСК" NameEng="MINSK" CodeEsr="14030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1026"  NameRu= "МИНСК" NameEng="MINSK" CodeEsr="14010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="83"  NameRu= "МОГИЛЁВ" NameEng="MOGILEV" CodeEsr="15650" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1027"  NameRu= "МОГИЛЁВ" NameEng="MOGILEV" CodeEsr="15661" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="84"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="6007" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1028"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19160" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1029"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19351" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1030"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19401" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1031"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19550" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1032"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19600" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1033"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19610" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1034"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19810" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1035"  NameRu= "МОСКВА" NameEng="MOSCOW" CodeEsr="19823" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="85"  NameRu= "МУРМАНСК" NameEng="MURMANSK" CodeEsr="1840" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="162"  NameRu= "НАВОИ" NameEng="NAVOI" CodeEsr="73130" CodeExpress="2900930" NearestStation="Пост 6 км"/>
+		<Station Id="86"  NameRu= "НАЗРАНЬ" NameEng="NAZRAN" CodeEsr="54030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="87"  NameRu= "НАЛЬЧИК" NameEng="NALCHIK" CodeEsr="53790" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="88"  NameRu= "НЕРЮНГРИ" NameEng="NERYUNGRI" CodeEsr="91150" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="89"  NameRu= "НИЖНЕВАРТОВСК" NameEng="NIZHNEVARTOVSK" CodeEsr="79790" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="89"  NameRu= "НИЖНЕВАРТОВСК" NameEng="NIZHNEVARTOVSK" CodeEsr="79800" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="90"  NameRu= "Н.НОВГОРОД" NameEng="N.NOVGOROD" CodeEsr="26020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="91"  NameRu= "НИКОЛАЕВ" NameEng="MYKOLAIV" CodeEsr="41510" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="92"  NameRu= "НИЦЦА" NameEng="NICE" CodeEsr="" CodeExpress="8700400" NearestStation="Пост 6 км"/>
+		<Station Id="93"  NameRu= "НОВОКУЗНЕЦК" NameEng="NOVOKUZNETSK" CodeEsr="86010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="94"  NameRu= "НОВОРОССИЙСК" NameEng="NOVOROSSIYSK" CodeEsr="52090" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="95"  NameRu= "НОВОСИБИРСК" NameEng="NOVOSIBIRSK" CodeEsr="85060" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="96"  NameRu= "Н.УРЕНГОЙ" NameEng="N.URENGOY" CodeEsr="79940" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="163"  NameRu= "НУКУС" NameEng="NUKUS" CodeEsr="73900" CodeExpress="2900970" NearestStation="Пост 6 км"/>
+		<Station Id="97"  NameRu= "ОМСК" NameEng="OMSK" CodeEsr="83070" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="98"  NameRu= "ОРЕНБУРГ" NameEng="ORENBURG" CodeEsr="81190" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="99"  NameRu= "ОРЁЛ" NameEng="OREL" CodeEsr="21600" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="100"  NameRu= "ОРСК" NameEng="ORSK" CodeEsr="81000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="101"  NameRu= "ПАРИЖ" NameEng="PARIS" CodeEsr="" CodeExpress="8077204" NearestStation="Пост 6 км"/>
+		<Station Id="1036"  NameRu= "ПАРИЖ" NameEng="PARIS" CodeEsr="" CodeExpress="8700015" NearestStation="Пост 6 км"/>
+		<Station Id="102"  NameRu= "ПЕКИН" NameEng="BEIJING" CodeEsr="" CodeExpress="3300100" NearestStation="Пост 6 км"/>
+		<Station Id="103"  NameRu= "ПЕНЗА" NameEng="PENZA" CodeEsr="63010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1037"  NameRu= "ПЕНЗА" NameEng="PENZA" CodeEsr="63020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1038"  NameRu= "ПЕНЗА" NameEng="PENZA" CodeEsr="63000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1039"  NameRu= "ПЕНЗА" NameEng="PENZA" CodeEsr="63030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="104"  NameRu= "ПЕРВОМАЙСК" NameEng="PERVOMAISK" CodeEsr="24620" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="105"  NameRu= "ПЕРМЬ" NameEng="PERM" CodeEsr="76100" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1040"  NameRu= "ПЕРМЬ" NameEng="PERM" CodeEsr="76110" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="106"  NameRu= "ПЕТРОЗАВОДСК" NameEng="PETROZAVODSK" CodeEsr="1000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="107"  NameRu= "ПЕТРОПАВЛОВСК" NameEng="PETROPAVLOVSK" CodeEsr="82000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="108"  NameRu= "ПЕЧОРА" NameEng="PECHORA" CodeEsr="28800" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="109"  NameRu= "ПОЛОЦК" NameEng="POLOTSK" CodeEsr="16130" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="110"  NameRu= "ПРАГА" NameEng="PRAGUE" CodeEsr="" CodeExpress="5400076" NearestStation="Пост 6 км"/>
+		<Station Id="1041"  NameRu= "ПРАГА" NameEng="PRAGUE" CodeEsr="" CodeExpress="5457076" NearestStation="Пост 6 км"/>
+		<Station Id="1042"  NameRu= "ПРАГА" NameEng="PRAGUE" CodeEsr="" CodeExpress="5457176" NearestStation="Пост 6 км"/>
+		<Station Id="1043"  NameRu= "ПРАГА" NameEng="PRAGUE" CodeEsr="" CodeExpress="5457256" NearestStation="Пост 6 км"/>
+		<Station Id="1044"  NameRu= "ПРАГА" NameEng="PRAGUE" CodeEsr="" CodeExpress="5457276" NearestStation="Пост 6 км"/>
+		<Station Id="111"  NameRu= "ПРИОБЬЕ" NameEng="PRIOBYE" CodeEsr="77940" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="112"  NameRu= "ПСКОВ" NameEng="PSKOV" CodeEsr="7060" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="113"  NameRu= "ПХЕНЬЯН" NameEng="PYONGYANG" CodeEsr="" CodeExpress="3000250" NearestStation="Пост 6 км"/>
+		<Station Id="114"  NameRu= "РИГА" NameEng="RIGA" CodeEsr="9010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="115"  NameRu= "РОЗА ХУТОР" NameEng="ROSA KHUTOR" CodeEsr="53289" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="116"  NameRu= "РОСТОВ" NameEng="ROSTOV" CodeEsr="51020" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="1045"  NameRu= "РОСТОВ" NameEng="ROSTOV" CodeEsr="51021" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="1046"  NameRu= "РОСТОВ" NameEng="ROSTOV" CodeEsr="51040" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="117"  NameRu= "РЫБИНСК" NameEng="RYBINSK" CodeEsr="31210" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="118"  NameRu= "РЯЗАНЬ" NameEng="RYAZAN" CodeEsr="22030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1047"  NameRu= "РЯЗАНЬ" NameEng="RYAZAN" CodeEsr="22280" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="119"  NameRu= "САМАРА" NameEng="SAMARA" CodeEsr="65790" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="165"  NameRu= "САМАРКАНД" NameEng="SAMARKAND" CodeEsr="72780" CodeExpress="2900700" NearestStation="Пост 6 км"/>
+		<Station Id="120"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3181" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1048"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3530" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1049"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3306" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1050"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3820" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1051"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3600" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1052"  NameRu= "С.ПЕТЕРБУРГ" NameEng="ST.PETERSBURG" CodeEsr="3710" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="121"  NameRu= "САРАНСК" NameEng="SARANSK" CodeEsr="64160" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="122"  NameRu= "САРАТОВ" NameEng="SARATOV" CodeEsr="62000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="122"  NameRu= "САРАТОВ" NameEng="SARATOV" CodeEsr="62004" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="122"  NameRu= "САРАТОВ" NameEng="SARATOV" CodeEsr="62030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="123"  NameRu= "СЕВЕРОБАЙКАЛЬСК" NameEng="SEVEROBAIKALSK" CodeEsr="90320" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="124"  NameRu= "СЕВЕРОДВИНСК" NameEng="SEVERODVINSK" CodeEsr="29020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="125"  NameRu= "СМОЛЕНСК" NameEng="SMOLENSK" CodeEsr="17010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="126"  NameRu= "СОЛИКАМСК" NameEng="SOLIKAMSK" CodeEsr="76960" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1053"  NameRu= "СОЛИКАМСК" NameEng="SOLIKAMSK" CodeEsr="76951" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="127"  NameRu= "СОСНОГОРСК" NameEng="SOSNOGORSK" CodeEsr="28580" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="128"  NameRu= "СТАВРОПОЛЬ" NameEng="STAVROPOL" CodeEsr="52700" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="129"  NameRu= "СТАРЫЙ ОСКОЛ" NameEng="STARY OSKOL" CodeEsr="43850" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="130"  NameRu= "СУМЫ" NameEng="SUMY" CodeEsr="44530" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="131"  NameRu= "СУХУМ" NameEng="SUKHUMI" CodeEsr="57390" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="132"  NameRu= "СЫКТЫВКАР" NameEng="SYKTYVKAR" CodeEsr="28390" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="133"  NameRu= "ТАЛЛИНН" NameEng="TALLINN" CodeEsr="8140" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1054"  NameRu= "ТАЛЛИНН" NameEng="TALLINN" CodeEsr="8831" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="134"  NameRu= "ТАМБОВ" NameEng="TAMBOV" CodeEsr="60140" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="135"  NameRu= "ТАШКЕНТ" NameEng="TASHKENT" CodeEsr="72091" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="136"  NameRu= "ТОЛЬЯТТИ" NameEng="TOLYATTI" CodeEsr="63730" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="137"  NameRu= "ТОМСК" NameEng="TOMSK" CodeEsr="87390" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1055"  NameRu= "ТОМСК" NameEng="TOMSK" CodeEsr="87400" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1056"  NameRu= "ТОМСК" NameEng="TOMSK" CodeEsr="87402" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="138"  NameRu= "ТЫНДА" NameEng="TYNDA" CodeEsr="91000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="139"  NameRu= "ТЮМЕНЬ" NameEng="TYUMEN" CodeEsr="79000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="140"  NameRu= "УЛАН БАТОР" NameEng="ULAANBAATAR" CodeEsr="" CodeExpress="3100022" NearestStation="Пост 6 км"/>
+		<Station Id="141"  NameRu= "УЛАН УДЭ" NameEng="ULAN-UDE" CodeEsr="93550" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="142"  NameRu= "УЛЬЯНОВСК" NameEng="ULYANOVSK" CodeEsr="64480" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1057"  NameRu= "УЛЬЯНОВСК" NameEng="ULYANOVSK" CodeEsr="64550" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1058"  NameRu= "УЛЬЯНОВСК" NameEng="ULYANOVSK" CodeEsr="64510" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="164"  NameRu= "УРГЕНЧ" NameEng="URGENCH" CodeEsr="73830" CodeExpress="2900790" NearestStation="Пост 6 км"/>
+		<Station Id="143"  NameRu= "УСИНСК" NameEng="USINSK" CodeEsr="28830" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="144"  NameRu= "УСТЬ ИЛИМСК" NameEng="UST-ILIMSK" CodeEsr="92640" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="145"  NameRu= "УСТЬЕ АХА" NameEng="USTYE-AKHA" CodeEsr="78890" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="146"  NameRu= "УФА" NameEng="UFA" CodeEsr="64450" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="147"  NameRu= "ФРАНКФУРТ НА ОДЕРЕ" NameEng="FRANKFURT (ODER)" CodeEsr="" CodeExpress="8015150" NearestStation="Пост 6 км"/>
+		<Station Id="148"  NameRu= "ХАБАРОВСК" NameEng="KHABAROVSK" CodeEsr="97040" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1059"  NameRu= "ХАБАРОВСК" NameEng="KHABAROVSK" CodeEsr="97000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="149"  NameRu= "ХАРЬКОВ" NameEng="KHARKIV" CodeEsr="44005" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1060"  NameRu= "ХАРЬКОВ" NameEng="KHARKIV" CodeEsr="44032" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="150"  NameRu= "ХЕЛЬСИНКИ" NameEng="HELSINKI" CodeEsr="" CodeExpress="1000001" NearestStation="Пост 6 км"/>
+		<Station Id="151"  NameRu= "ХМЕЛЬНИЦКИЙ" NameEng="KHMELNYTSKYI" CodeEsr="33070" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="152"  NameRu= "ХУДЖАНД" NameEng="KHUJAND" CodeEsr="74780" CodeExpress="6600910" NearestStation="Пост 6 км"/>
+		<Station Id="153"  NameRu= "ЧЕБОКСАРЫ" NameEng="CHEBOKSARY" CodeEsr="24850" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="154"  NameRu= "ЧЕЛЯБИНСК" NameEng="CHELYABINSK" CodeEsr="80000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="155"  NameRu= "ЧЕРЕПОВЕЦ" NameEng="CHEREPOVETS" CodeEsr="30230" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1061"  NameRu= "ЧЕРЕПОВЕЦ" NameEng="CHEREPOVETS" CodeEsr="30250" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="156"  NameRu= "ЧИТА" NameEng="CHITA" CodeEsr="94010" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1062"  NameRu= "ЧИТА" NameEng="CHITA" CodeEsr="94000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="157"  NameRu= "ЯРОСЛАВЛЬ" NameEng="YAROSLAVL" CodeEsr="31000" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1063"  NameRu= "ЯРОСЛАВЛЬ" NameEng="YAROSLAVL" CodeEsr="31010" CodeExpress="" NearestStation="Пост 6 км"/>
+	</Direction>
+	<Direction Id="2" Name="Сарептинское. На Южную">
+		<Station Id="26"  NameRu= "ТРАКТОРНАЯ" NameEng="TRAKTORNAYA" CodeEsr="61031" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="39"  NameRu= "КРАСНООКТЯБРЬСКАЯ" NameEng="KRASNOOKTYABRSKAYA" CodeEsr="61020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="27"  NameRu= "ВОЛЖСКИЙ" NameEng="VOLZHSKIY" CodeEsr="61040" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="40"  NameRu= "МАМАЕВ КУРГАН" NameEng="MAMAEV KURGAN" CodeEsr="61002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="28"  NameRu= "ПЕТРОВ ВАЛ" NameEng="PETROV VAL" CodeEsr="62180" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="29"  NameRu= "АРЧЕДА" NameEng="ARCHEDA" CodeEsr="61380" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="30"  NameRu= "КАЧАЛИНО" NameEng="KACHALINO" CodeEsr="61460" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="31"  NameRu= "АЭРОПОРТ" NameEng="AIRPORT" CodeEsr="61071" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="2"  NameRu= "ВОЛГОГРАД 2" NameEng="VOLGOGRAD 2" CodeEsr="61140" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="3"  NameRu= "ЕЛЬШАНКА" NameEng="ELSHANKA" CodeEsr="61150" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="4"  NameRu= "ЗАВОД ИМ. ПЕТРОВА" NameEng="ZAVOD IMENI PETROVA" CodeEsr="61152" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="5"  NameRu= "ОБУВНАЯ ФАБРИКА" NameEng="OBUVNAYA FABRIKA" CodeEsr="61153" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="26"  NameRu= "АКВАРЕЛЬ" NameEng="AKVAREL" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="6"  NameRu= "ГОРНАЯ ПОЛЯНА" NameEng="GORNAYA POLYANA" CodeEsr="61154" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="7"  NameRu= "ИМ. НИКОЛАЯ РУДНЕВА" NameEng="THE NAME OF NIKOLAY RUDNEV" CodeEsr="61155" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="8"  NameRu= "ЗАВОД ИМ. ЕРМАНА" NameEng="ZAVOD IMENI LENINA" CodeEsr="61156" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="9"  NameRu= "БЕКЕТОВСКАЯ" NameEng="BEKETOVSKAYA" CodeEsr="61160" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="10"  NameRu= "ВОЛГОГРЭС" NameEng="VOLGOGRES" CodeEsr="61161" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="11"  NameRu= "ЗАВОД ИМ. КИРОВА" NameEng="ZAVOD IMENI KIROVA" CodeEsr="61162" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="12"  NameRu= "ЛЕСОБАЗА" NameEng="LESOBAZA" CodeEsr="61163" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="13"  NameRu= "ЖЕЛЕЗНОДОРОЖНАЯ" NameEng="ZHELEZNODOROZHNAYA" CodeEsr="61164" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="14"  NameRu= "САРЕПТА" NameEng="SAREPTA" CodeEsr="61170" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="15"  NameRu= "СУДОВЕРФЬ" NameEng="SUDOVERF" CodeEsr="61171" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="16"  NameRu= "КРАСНОАРМЕЙСКАЯ" NameEng="KRASNOARMEYSKAYA" CodeEsr="61172" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="17"  NameRu= "ЗАКАНАЛЬНАЯ" NameEng="ZAKANALNAYA" CodeEsr="61173" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="18"  NameRu= "ШПАЛОПРОПИТКА" NameEng="SHPALOPROPITKA" CodeEsr="61190" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="19"  NameRu= "КЕРАМИЧЕСКАЯ" NameEng="KERAMICHESKAYA" CodeEsr="61193" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="20"  NameRu= "ТАТЬЯНКА" NameEng="TATYANKA" CodeEsr="61200" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="21"  NameRu= "ПОСТ ЭЦ" NameEng="POST ETS" CodeEsr="61202" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="22"  NameRu= "НЕФТЕЗАВОДСКАЯ" NameEng="NEFTEZAVODSKAYA" CodeEsr="61201" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="23"  NameRu= "ТАТЬЯНКА ЮЖНАЯ" NameEng="TATYANKA YUZHNAYA" CodeEsr="61210" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="24"  NameRu= "ЮЖНАЯ" NameEng="YUZHNAYA" CodeEsr="61211" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="25"  NameRu= "далее везде" NameEng="further everywhere" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+	</Direction>
+	<Direction Id="3" Name="Сарептинское. На Котельниково">
+		<Station Id="38"  NameRu= "ТРАКТОРНАЯ" NameEng="TRAKTORNAYA" CodeEsr="61031" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="39"  NameRu= "КРАСНООКТЯБРЬСКАЯ" NameEng="KRASNOOKTYABRSKAYA" CodeEsr="61020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="31"  NameRu= "АЭРОПОРТ" NameEng="AIRPORT" CodeEsr="61071" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="40"  NameRu= "МАМАЕВ КУРГАН" NameEng="MAMAEV KURGAN" CodeEsr="61002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="2"  NameRu= "ВОЛГОГРАД 2" NameEng="VOLGOGRAD 2" CodeEsr="61140" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="3"  NameRu= "ЕЛЬШАНКА" NameEng="ELSHANKA" CodeEsr="61150" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="4"  NameRu= "ЗАВОД ИМ. ПЕТРОВА" NameEng="ZAVOD IMENI PETROVA" CodeEsr="61152" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="5"  NameRu= "ОБУВНАЯ ФАБРИКА" NameEng="OBUVNAYA FABRIKA" CodeEsr="61153" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="41"  NameRu= "АКВАРЕЛЬ" NameEng="AKVAREL" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="6"  NameRu= "ГОРНАЯ ПОЛЯНА" NameEng="GORNAYA POLYANA" CodeEsr="61154" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="7"  NameRu= "ИМ. НИКОЛАЯ РУДНЕВА" NameEng="THE NAME OF NIKOLAY RUDNEV" CodeEsr="61155" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="8"  NameRu= "ЗАВОД ИМ. ЕРМАНА" NameEng="ZAVOD IMENI LENINA" CodeEsr="61156" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="9"  NameRu= "БЕКЕТОВСКАЯ" NameEng="BEKETOVSKAYA" CodeEsr="61160" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="10"  NameRu= "ВОЛГОГРЭС" NameEng="VOLGOGRES" CodeEsr="61161" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="11"  NameRu= "ЗАВОД ИМ. КИРОВА" NameEng="ZAVOD IMENI KIROVA" CodeEsr="61162" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="12"  NameRu= "ЛЕСОБАЗА" NameEng="LESOBAZA" CodeEsr="61163" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="13"  NameRu= "ЖЕЛЕЗНОДОРОЖНАЯ" NameEng="ZHELEZNODOROZHNAYA" CodeEsr="61164" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="14"  NameRu= "САРЕПТА" NameEng="SAREPTA" CodeEsr="61170" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="15"  NameRu= "28 КМ" NameEng="28 KM" CodeEsr="62111" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="16"  NameRu= "34 КМ" NameEng="34 KM" CodeEsr="61174" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="17"  NameRu= "ЧАПУРНИКИ" NameEng="CHAPURNIKI" CodeEsr="61224" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="18"  NameRu= "40 КМ" NameEng="40 KM" CodeEsr="61223" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="19"  NameRu= "41 КМ" NameEng="41 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="20"  NameRu= "43 КМ" NameEng="43 KM" CodeEsr="61221" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="21"  NameRu= "45 КМ" NameEng="45 KM" CodeEsr="61222" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="22"  NameRu= "КАНАЛЬНАЯ" NameEng="KANALNAYA" CodeEsr="61234" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="23"  NameRu= "КОТЕЛЬНИКОВО" NameEng="KOTELNIKOVO" CodeEsr="61280" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="37"  NameRu= "далее везде" NameEng="further everywhere" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+	</Direction>
+	<Direction Id="4" Name="Суровикинское. На Пост 15 км">
+		<Station Id="31"  NameRu= "АЭРОПОРТ" NameEng="AIRPORT" CodeEsr="61071" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="40"  NameRu= "МАМАЕВ КУРГАН" NameEng="MAMAEV KURGAN" CodeEsr="61002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="2"  NameRu= "ВОЛГОГРАД 2" NameEng="VOLGOGRAD 2" CodeEsr="61140" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="3"  NameRu= "САДОВАЯ" NameEng="SADOVAYA" CodeEsr="61101" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="4"  NameRu= "ЖЕЛЕЗНОДОРОЖНАЯ БОЛЬНИЦА" NameEng="ZHELEZNODOROZHNAYA BOLNITSA" CodeEsr="61106" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="5"  NameRu= "366 КМ" NameEng="366 KM" CodeEsr="61066" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="6"  NameRu= "ИМ. МАКСИМА ГОРЬКОГО" NameEng="THE NAME OF MAKSIM GORKY" CodeEsr="61100" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="7"  NameRu= "ЛОКОМОТИВНОЕ ДЕПО" NameEng="LOKOMOTIVNOYE DEPO" CodeEsr="61063" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="8"  NameRu= "ПОСТ №11" NameEng="POST №11" CodeEsr="61068" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="9"  NameRu= "ПОСТ ЭЦ" NameEng="POST ETS" CodeEsr="61069" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="10"  NameRu= "ПАРК В1" NameEng="PARK V1" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="11"  NameRu= "ПАРК В2" NameEng="PARK V2" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="12"  NameRu= "16 КМ" NameEng="16 KM" CodeEsr="61067" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="13"  NameRu= "ПОСТ 15 КМ" NameEng="POST 15 KM" CodeEsr="61107" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="14"  NameRu= "далее везде" NameEng="further everywhere" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+	</Direction>
+	<Direction Id="5" Name="Суровикинское. На Донскую">
+		<Station Id="31"  NameRu= "АЭРОПОРТ" NameEng="AIRPORT" CodeEsr="61071" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="40"  NameRu= "МАМАЕВ КУРГАН" NameEng="MAMAEV KURGAN" CodeEsr="61002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="2"  NameRu= "ВОЛГОГРАД 2" NameEng="VOLGOGRAD 2" CodeEsr="61140" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="3"  NameRu= "САДОВАЯ" NameEng="SADOVAYA" CodeEsr="61101" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="4"  NameRu= "ЖЕЛЕЗНОДОРОЖНАЯ БОЛЬНИЦА" NameEng="ZHELEZNODOROZHNAYA BOLNITSA" CodeEsr="61106" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="5"  NameRu= "366 КМ" NameEng="366 KM" CodeEsr="61066" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="6"  NameRu= "ИМ. МАКСИМА ГОРЬКОГО" NameEng="THE NAME OF MAKSIM GORKY" CodeEsr="61100" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="7"  NameRu= "ЛОКОМОТИВНОЕ ДЕПО" NameEng="LOKOMOTIVNOYE DEPO" CodeEsr="61063" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="8"  NameRu= "ПОСТ №11" NameEng="POST №11" CodeEsr="61068" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="9"  NameRu= "ПОСТ ЭЦ" NameEng="POST ETS" CodeEsr="61069" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="10"  NameRu= "ПОСТ №16" NameEng="POST №16" CodeEsr="61067" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="11"  NameRu= "БИРЮЗОВАЯ" NameEng="BIRYUZOVAYA" CodeEsr="61064" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="12"  NameRu= "БАСАРГИНО" NameEng="BASARGINO" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="13"  NameRu= "КАРПОВСКАЯ" NameEng="KARPOVSKAYA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="14"  NameRu= "ОРОШАЕМОЕ" NameEng="OROSHAYEMOYE" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="15"  NameRu= "ПРУДБОЙ" NameEng="PRUDBOY" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="16"  NameRu= "329 КМ" NameEng="329 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="17"  NameRu= "МАРИНОВКА" NameEng="MARINOVKA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="18"  NameRu= "СПОРТБАЗА" NameEng="SPORTBAZA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="19"  NameRu= "ИЛЬЁВКА" NameEng="ILYEVKA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="20"  NameRu= "ЧЕРКАСОВО" NameEng="CHERKASOVO" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="21"  NameRu= "СТРОЙРАЙОН" NameEng="STROYREYON" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="22"  NameRu= "ДОНСКАЯ" NameEng="DONSKAYA" CodeEsr="61550" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="23"  NameRu= "далее везде" NameEng="further everywhere" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+	</Direction>
+	<Direction Id="6" Name="Суровикинское. На Чернышков">
+		<Station Id="44"  NameRu= "АЭРОПОРТ" NameEng="AIRPORT" CodeEsr="61071" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="45"  NameRu= "МАМАЕВ КУРГАН" NameEng="MAMAEV KURGAN" CodeEsr="61002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="1"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="2"  NameRu= "ВОЛГОГРАД 2" NameEng="VOLGOGRAD 2" CodeEsr="61140" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="3"  NameRu= "САДОВАЯ" NameEng="SADOVAYA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="4"  NameRu= "ЖЕЛЕЗНОДОРОЖНАЯ БОЛЬНИЦА" NameEng="ZHELEZNODOROZHNAYA BOLNITSA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="5"  NameRu= "366 КМ" NameEng="366 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="6"  NameRu= "ИМ. МАКСИМА ГОРЬКОГО" NameEng="THE NAME OF MAKSIM GORKY" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="7"  NameRu= "ЛОКОМОТИВНОЕ ДЕПО" NameEng="LOKOMOTIVNOYE DEPO" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="8"  NameRu= "ПОСТ №11" NameEng="POST №11" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="9"  NameRu= "ПОСТ ЭЦ" NameEng="POST ETS" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="10"  NameRu= "ПОСТ №16" NameEng="POST №16" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="11"  NameRu= "БИРЮЗОВАЯ" NameEng="BIRYUZOVAYA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="12"  NameRu= "БАСАРГИНО" NameEng="BASARGINO" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="13"  NameRu= "КАРПОВСКАЯ" NameEng="KARPOVSKAYA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="14"  NameRu= "ОРОШАЕМОЕ" NameEng="OROSHAYEMOYE" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="15"  NameRu= "ПРУДБОЙ" NameEng="PRUDBOY" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="16"  NameRu= "329 КМ" NameEng="329 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="17"  NameRu= "МАРИНОВКА" NameEng="MARINOVKA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="18"  NameRu= "323 КМ" NameEng="323 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="19"  NameRu= "КРИВОМУЗГИНСКАЯ" NameEng="KRIVOMUZGINSKAYA" CodeEsr="61532" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="20"  NameRu= "312 КМ" NameEng="312 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="21"  NameRu= "310 КМ" NameEng="310 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="22"  NameRu= "КУМОВКА" NameEng="KUMOVKA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="23"  NameRu= "304 КМ" NameEng="304 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="24"  NameRu= "ЛЯПИЧЕВ" NameEng="LYAPICHEV" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="25"  NameRu= "ЛОЖКИ" NameEng="LOZHKI" CodeEsr="61520" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="26"  NameRu= "278 КМ" NameEng="278 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="27"  NameRu= "РЫЧКОВ" NameEng="RYCHKOV" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="28"  NameRu= "ШКОЛА ИНТЕРНАТ" NameEng="SHKOLA INTERNAT" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="29"  NameRu= "ЧИР" NameEng="CHIR" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="30"  NameRu= "261 КМ" NameEng="261 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="31"  NameRu= "255 КМ" NameEng="255 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="32"  NameRu= "ДМИТРИЕВКА" NameEng="DMITRIEVKA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="33"  NameRu= "240 КМ" NameEng="240 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="34"  NameRu= "СУРОВИКИНО" NameEng="SUROVIKINO" CodeEsr="61500" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="35"  NameRu= "226 КМ" NameEng="226 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="36"  NameRu= "СЕКРЕТЁВ" NameEng="SEKRETEV" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="37"  NameRu= "215 КМ" NameEng="215 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="38"  NameRu= "ОБЛИВСКАЯ" NameEng="OBLIVSKAYA" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="39"  NameRu= "206 КМ" NameEng="206 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="40"  NameRu= "200 КМ" NameEng="200 KM" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="41"  NameRu= "ПАРШИН" NameEng="PARSHIN" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="42"  NameRu= "ЧЕРНЫШКОВ" NameEng="CHERNYSHKOV" CodeEsr="61480" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="43"  NameRu= "далее везде" NameEng="further everywhere" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+	</Direction>
+	<Direction Id="7" Name="Московское. На Тракторную">
+		<Station Id="10"  NameRu= "ЮЖНАЯ" NameEng="YUZHNAYA" CodeEsr="61211" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="2"  NameRu= "ШПАЛОПРОПИТКА" NameEng="SHPALOPROPITKA" CodeEsr="61190" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="3"  NameRu= "КАНАЛЬНАЯ" NameEng="KANALNAYA" CodeEsr="61234" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="11"  NameRu= "БЕКЕТОВСКАЯ" NameEng="BEKETOVSKAYA" CodeEsr="61160" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="41"  NameRu= "АКВАРЕЛЬ" NameEng="AKVAREL" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="1"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="2"  NameRu= "БАКИНСКАЯ" NameEng="BAKINSKAYA" CodeEsr="61001" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="3"  NameRu= "МАМАЕВ КУРГАН" NameEng="MAMAEV KURGAN" CodeEsr="61002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="4"  NameRu= "ДВОРЕЦ СПОРТА" NameEng="DVORETS SPORTA" CodeEsr="61022" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="5"  NameRu= "КРАСНООКТЯБРЬСКАЯ" NameEng="KRASNOOKTYABRSKAYA" CodeEsr="61020" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="6"  NameRu= "БАРРИКАДЫ" NameEng="BARRIKADY" CodeEsr="61021" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="7"  NameRu= "ТРАКТОРНАЯ ТОВ." NameEng="TRAKTORNAYA TOVARNAYA" CodeEsr="61030" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="8"  NameRu= "ТРАКТОРНАЯ" NameEng="TRAKTORNAYA" CodeEsr="61031" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="9"  NameRu= "далее везде" NameEng="further everywhere" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+	</Direction>
+	<Direction Id="8" Name="Московское. На Волжский">
+		<Station Id="12"  NameRu= "ЮЖНАЯ" NameEng="YUZHNAYA" CodeEsr="61211" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="13"  NameRu= "ШПАЛОПРОПИТКА" NameEng="SHPALOPROPITKA" CodeEsr="61190" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="14"  NameRu= "КАНАЛЬНАЯ" NameEng="KANALNAYA" CodeEsr="61234" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="41"  NameRu= "АКВАРЕЛЬ" NameEng="AKVAREL" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="1"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="2"  NameRu= "БАКИНСКАЯ" NameEng="BAKINSKAYA" CodeEsr="61001" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="3"  NameRu= "МАМАЕВ КУРГАН" NameEng="MAMAEV KURGAN" CodeEsr="61002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="4"  NameRu= "ВОССОЕДИНЕНИЕ" NameEng="VOSSOYEDINENIYE" CodeEsr="61003" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="5"  NameRu= "ВИШНЕВАЯ" NameEng="VISHNEVAYA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="6"  NameRu= "ВЕРХНЕЗАРЕЧЕНСКАЯ" NameEng="VERHNEZARECHENSKAYA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="7"  NameRu= "СПАРТАНОВКА" NameEng="SPARTANOVKA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="8"  NameRu= "НОВАЯ СПАРТАНОВКА" NameEng="NOVAYA SPARTANOVKA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="9"  NameRu= "МЕЧЕТКА" NameEng="MECHETKA" CodeEsr="61042" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="10"  NameRu= "ВОЛЖСКИЙ" NameEng="VOLZHSKIY" CodeEsr="61040" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="11"  NameRu= "далее везде" NameEng="fur everywhere" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+	</Direction>
+	<Direction Id="9" Name="Московское. На Аэропорт">
+		<Station Id="12"  NameRu= "ЮЖНАЯ" NameEng="YUZHNAYA" CodeEsr="61211" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="13"  NameRu= "ШПАЛОПРОПИТКА" NameEng="SHPALOPROPITKA" CodeEsr="61190" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="14"  NameRu= "КАНАЛЬНАЯ" NameEng="KANALNAYA" CodeEsr="61234" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="41"  NameRu= "АКВАРЕЛЬ" NameEng="AKVAREL" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="1"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="2"  NameRu= "БАКИНСКАЯ" NameEng="BAKINSKAYA" CodeEsr="61001" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="3"  NameRu= "МАМАЕВ КУРГАН" NameEng="MAMAEV KURGAN" CodeEsr="61002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="4"  NameRu= "ЖИЛГОРОДОК" NameEng="ZHILGORODOK" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="5"  NameRu= "РАЗГУЛЯЕВКА" NameEng="RAZGULYAYEVKA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="6"  NameRu= "БЕТОННАЯ" NameEng="BETONNAYA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="7"  NameRu= "ГУМРАК" NameEng="GUMRAK" CodeEsr="61060" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="8"  NameRu= "АЭРОПОРТ" NameEng="AIRPORT" CodeEsr="61071" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="11"  NameRu= "далее везде" NameEng="fur everywhere" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+	</Direction>
+	<Direction Id="10" Name="Московское. На Арчеду">
+		<Station Id="27"  NameRu= "ЮЖНАЯ" NameEng="YUZHNAYA" CodeEsr="61211" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="28"  NameRu= "ШПАЛОПРОПИТКА" NameEng="SHPALOPROPITKA" CodeEsr="61190" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="29"  NameRu= "КАНАЛЬНАЯ" NameEng="KANALNAYA" CodeEsr="61234" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="41"  NameRu= "АКВАРЕЛЬ" NameEng="AKVAREL" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="1"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="2"  NameRu= "БАКИНСКАЯ" NameEng="BAKINSKAYA" CodeEsr="61001" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="3"  NameRu= "МАМАЕВ КУРГАН" NameEng="MAMAEV KURGAN" CodeEsr="61002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="4"  NameRu= "ЖИЛГОРОДОК" NameEng="ZHILGORODOK" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="5"  NameRu= "РАЗГУЛЯЕВКА" NameEng="RAZGULYAYEVKA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="6"  NameRu= "БЕТОННАЯ" NameEng="BETONNAYA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="7"  NameRu= "ГУМРАК" NameEng="GUMRAK" CodeEsr="61060" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="8"  NameRu= "1050 КМ" NameEng="1050 KM" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="9"  NameRu= "КОННЫЙ" NameEng="KONNYY" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="10"  NameRu= "КОТЛУБАНЬ" NameEng="KOTLUBAN" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="11"  NameRu= "ДАЛЬНЯЯ САКАРКА" NameEng="DALNYAYA SAKARKA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="12"  NameRu= "САКАРКА" NameEng="SAKARKA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="13"  NameRu= "КАЧАЛИНО" NameEng="KACHALINO" CodeEsr="61460" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="14"  NameRu= "997 КМ" NameEng="997 KM" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="15"  NameRu= "КОЛОЦКИЙ" NameEng="KOLOTSKY" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="16"  NameRu= "ИЛОВЛЯ 1" NameEng="ILOVLYA 1" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="17"  NameRu= "БЕЛУШКИНО" NameEng="BELUSHKINO" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="18"  NameRu= "ЛОГ" NameEng="LOG" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="19"  NameRu= "ВИШНЕВЫЙ" NameEng="VISHNEVY" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="20"  NameRu= "ЛИПКИ" NameEng="LIPKI" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="21"  NameRu= "КУСТОВЫЙ" NameEng="KUSTOVY" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="22"  NameRu= "КАЛИНИНО" NameEng="KALININO" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="23"  NameRu= "АРЧЕДА" NameEng="ARCHEDA" CodeEsr="61380" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="24"  NameRu= "далее везде" NameEng="further everywhere" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+	</Direction>
+	<Direction Id="11" Name="Московское. На Петров Вал">
+		<Station Id="27"  NameRu= "ЮЖНАЯ" NameEng="YUZHNAYA" CodeEsr="61211" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="28"  NameRu= "ШПАЛОПРОПИТКА" NameEng="SHPALOPROPITKA" CodeEsr="61190" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="29"  NameRu= "КАНАЛЬНАЯ" NameEng="KANALNAYA" CodeEsr="61234" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="41"  NameRu= "АКВАРЕЛЬ" NameEng="AKVAREL" CodeEsr="" CodeExpress="" NearestStation="Волгоград-2"/>
+		<Station Id="1"  NameRu= "ВОЛГОГРАД" NameEng="VOLGOGRAD" CodeEsr="61000" CodeExpress="" NearestStation=""/>
+		<Station Id="2"  NameRu= "БАКИНСКАЯ" NameEng="BAKINSKAYA" CodeEsr="61001" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="3"  NameRu= "МАМАЕВ КУРГАН" NameEng="MAMAEV KURGAN" CodeEsr="61002" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="4"  NameRu= "ЖИЛГОРОДОК" NameEng="ZHILGORODOK" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="5"  NameRu= "РАЗГУЛЯЕВКА" NameEng="RAZGULYAYEVKA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="6"  NameRu= "БЕТОННАЯ" NameEng="BETONNAYA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="7"  NameRu= "ГУМРАК" NameEng="GUMRAK" CodeEsr="61060" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="8"  NameRu= "1050 КМ" NameEng="1050 KM" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="9"  NameRu= "КОННЫЙ" NameEng="KONNYY" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="10"  NameRu= "КОТЛУБАНЬ" NameEng="KOTLUBAN" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="11"  NameRu= "ДАЛЬНЯЯ САКАРКА" NameEng="DALNYAYA SAKARKA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="12"  NameRu= "САКАРКА" NameEng="SAKARKA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="13"  NameRu= "КАЧАЛИНО" NameEng="KACHALINO" CodeEsr="61460" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="14"  NameRu= "997 КМ" NameEng="997 KM" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="15"  NameRu= "КОЛОЦКИЙ" NameEng="KOLOTSKY" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="16"  NameRu= "ИЛОВЛЯ 2" NameEng="ILOVLYA 2" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="17"  NameRu= "КОНДРАШИ" NameEng="CONDRASHI" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="18"  NameRu= "БЕРДИЯ" NameEng="BERDIA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="19"  NameRu= "СОЛОДЧА" NameEng="SOLODCHA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="20"  NameRu= "ЗЕНЗЕВАТКА" NameEng="ZENZEVATKA" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="21"  NameRu= "242 КМ" NameEng="242 KM" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="22"  NameRu= "ЗАБУРУННЫЙ" NameEng="ZABURUNNY" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="23"  NameRu= "СОЛОМАТИНО" NameEng="SOLOMATINO" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="24"  NameRu= "ПЕТРУНИН" NameEng="PETRUNIN" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="25"  NameRu= "ПЕТРОВ ВАЛ" NameEng="PETROV VAL" CodeEsr="62180" CodeExpress="" NearestStation="Пост 6 км"/>
+		<Station Id="26"  NameRu= "далее везде" NameEng="further everywhere" CodeEsr="" CodeExpress="" NearestStation="Пост 6 км"/>
+	</Direction>
+</Root>

@@ -1,0 +1,207 @@
+D:\Dropbox\C#\Project C#\Scada Belovo\RailwayStationQueue\Communication\bin\Release\Communication.dll
+D:\Dropbox\C#\Project C#\Scada Belovo\RailwayStationQueue\Communication\bin\Release\Communication.pdb
+D:\Dropbox\C#\Project C#\Scada Belovo\RailwayStationQueue\Communication\obj\Release\Communication.dll
+D:\Dropbox\C#\Project C#\Scada Belovo\RailwayStationQueue\Communication\obj\Release\Communication.pdb
+D:\Dropbox\C#\Project C#\Scada Belovo\RailwayStationQueue\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\Project C#\Scada Belovo\RailwayStationQueue\Communication\bin\Release\NModbus4.dll
+D:\Dropbox\C#\Project C#\Scada Belovo\RailwayStationQueue\Communication\bin\Release\NModbus4.xml
+D:\Git\RailwayStationQueue\src\Communication\bin\Release\Communication.dll
+D:\Git\RailwayStationQueue\src\Communication\bin\Release\Communication.pdb
+D:\Git\RailwayStationQueue\src\Communication\bin\Release\Library.dll
+D:\Git\RailwayStationQueue\src\Communication\bin\Release\NModbus4.dll
+D:\Git\RailwayStationQueue\src\Communication\bin\Release\Library.pdb
+D:\Git\RailwayStationQueue\src\Communication\bin\Release\NModbus4.xml
+D:\Git\RailwayStationQueue\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+D:\Git\RailwayStationQueue\src\Communication\obj\Release\Communication.dll
+D:\Git\RailwayStationQueue\src\Communication\obj\Release\Communication.pdb
+E:\Dropbox\C#\Project C#\src\Communication\bin\Release\Communication.dll
+E:\Dropbox\C#\Project C#\src\Communication\bin\Release\Communication.pdb
+E:\Dropbox\C#\Project C#\src\Communication\bin\Release\Library.dll
+E:\Dropbox\C#\Project C#\src\Communication\bin\Release\NModbus4.dll
+E:\Dropbox\C#\Project C#\src\Communication\bin\Release\Library.pdb
+E:\Dropbox\C#\Project C#\src\Communication\bin\Release\NModbus4.xml
+E:\Dropbox\C#\Project C#\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+E:\Dropbox\C#\Project C#\src\Communication\obj\Release\Communication.dll
+E:\Dropbox\C#\Project C#\src\Communication\obj\Release\Communication.pdb
+E:\Dropbox\C#\Project C#\Belovo\src\Communication\bin\Release\Communication.dll
+E:\Dropbox\C#\Project C#\Belovo\src\Communication\bin\Release\Communication.pdb
+E:\Dropbox\C#\Project C#\Belovo\src\Communication\bin\Release\Library.dll
+E:\Dropbox\C#\Project C#\Belovo\src\Communication\bin\Release\NModbus4.dll
+E:\Dropbox\C#\Project C#\Belovo\src\Communication\bin\Release\Library.pdb
+E:\Dropbox\C#\Project C#\Belovo\src\Communication\bin\Release\NModbus4.xml
+E:\Dropbox\C#\Project C#\Belovo\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+E:\Dropbox\C#\Project C#\Belovo\src\Communication\obj\Release\Communication.dll
+E:\Dropbox\C#\Project C#\Belovo\src\Communication\obj\Release\Communication.pdb
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn\Communication\bin\Release\Communication.dll
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn\Communication\bin\Release\Communication.pdb
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn\Communication\bin\Release\Library.dll
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn\Communication\bin\Release\NModbus4.dll
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn\Communication\bin\Release\Library.pdb
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn\Communication\bin\Release\NModbus4.xml
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn\Communication\obj\Release\Communication.dll
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn\Communication\obj\Release\Communication.pdb
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn_4,5Framework\Communication\bin\Release\Communication.dll
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn_4,5Framework\Communication\bin\Release\Communication.pdb
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn_4,5Framework\Communication\bin\Release\Library.dll
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn_4,5Framework\Communication\bin\Release\NModbus4.dll
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn_4,5Framework\Communication\bin\Release\Library.pdb
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn_4,5Framework\Communication\bin\Release\NModbus4.xml
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn_4,5Framework\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn_4,5Framework\Communication\obj\Release\Communication.dll
+e:\Dropbox\C#\Project C#\Belovo\src_terminal_1btn_4,5Framework\Communication\obj\Release\Communication.pdb
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\Communication\bin\Release\NLog.config
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\Communication\bin\Release\Communication.dll
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\Communication\bin\Release\Communication.pdb
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\Communication\bin\Release\Library.dll
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\Communication\bin\Release\NLog.dll
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\Communication\bin\Release\Library.pdb
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\Communication\bin\Release\NLog.xml
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\Communication\obj\Release\Communication.dll
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\Communication\obj\Release\Communication.pdb
+C:\Users\Aldmi\Desktop\src_old\Communication\bin\Release\NLog.config
+C:\Users\Aldmi\Desktop\src_old\Communication\bin\Release\Communication.dll
+C:\Users\Aldmi\Desktop\src_old\Communication\bin\Release\Communication.pdb
+C:\Users\Aldmi\Desktop\src_old\Communication\bin\Release\Library.dll
+C:\Users\Aldmi\Desktop\src_old\Communication\bin\Release\NLog.dll
+C:\Users\Aldmi\Desktop\src_old\Communication\bin\Release\Library.pdb
+C:\Users\Aldmi\Desktop\src_old\Communication\bin\Release\NLog.xml
+C:\Users\Aldmi\Desktop\src_old\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+C:\Users\Aldmi\Desktop\src_old\Communication\obj\Release\Communication.dll
+C:\Users\Aldmi\Desktop\src_old\Communication\obj\Release\Communication.pdb
+C:\Users\Aldmi\Desktop\src\Communication\bin\Release\NLog.config
+C:\Users\Aldmi\Desktop\src\Communication\bin\Release\Communication.dll
+C:\Users\Aldmi\Desktop\src\Communication\bin\Release\Communication.pdb
+C:\Users\Aldmi\Desktop\src\Communication\bin\Release\Library.dll
+C:\Users\Aldmi\Desktop\src\Communication\bin\Release\NLog.dll
+C:\Users\Aldmi\Desktop\src\Communication\bin\Release\Library.pdb
+C:\Users\Aldmi\Desktop\src\Communication\bin\Release\NLog.xml
+C:\Users\Aldmi\Desktop\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+C:\Users\Aldmi\Desktop\src\Communication\obj\Release\Communication.dll
+C:\Users\Aldmi\Desktop\src\Communication\obj\Release\Communication.pdb
+D:\Git\Autodictor\src\Communication\bin\Release\NLog.config
+D:\Git\Autodictor\src\Communication\bin\Release\Communication.dll
+D:\Git\Autodictor\src\Communication\bin\Release\Communication.pdb
+D:\Git\Autodictor\src\Communication\bin\Release\LedScreenLibNetWrapper.dll
+D:\Git\Autodictor\src\Communication\bin\Release\Library.dll
+D:\Git\Autodictor\src\Communication\bin\Release\NLog.dll
+D:\Git\Autodictor\src\Communication\bin\Release\System.Reactive.Core.dll
+D:\Git\Autodictor\src\Communication\bin\Release\System.Reactive.Interfaces.dll
+D:\Git\Autodictor\src\Communication\bin\Release\System.Reactive.Linq.dll
+D:\Git\Autodictor\src\Communication\bin\Release\System.Reactive.PlatformServices.dll
+D:\Git\Autodictor\src\Communication\bin\Release\System.Reactive.Windows.Threading.dll
+D:\Git\Autodictor\src\Communication\bin\Release\Library.pdb
+D:\Git\Autodictor\src\Communication\bin\Release\NLog.xml
+D:\Git\Autodictor\src\Communication\bin\Release\System.Reactive.Core.xml
+D:\Git\Autodictor\src\Communication\bin\Release\System.Reactive.Interfaces.xml
+D:\Git\Autodictor\src\Communication\bin\Release\System.Reactive.Linq.xml
+D:\Git\Autodictor\src\Communication\bin\Release\System.Reactive.PlatformServices.xml
+D:\Git\Autodictor\src\Communication\bin\Release\System.Reactive.Windows.Threading.xml
+D:\Git\Autodictor\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+D:\Git\Autodictor\src\Communication\obj\Release\Communication.dll
+D:\Git\Autodictor\src\Communication\obj\Release\Communication.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\NLog.config
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\Communication.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\Communication.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\LedScreenLibNetWrapper.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\Library.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\NLog.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\System.Reactive.Core.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\System.Reactive.Interfaces.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\System.Reactive.Linq.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\System.Reactive.PlatformServices.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\System.Reactive.Windows.Threading.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\Library.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\NLog.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\System.Reactive.Core.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\System.Reactive.Interfaces.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\System.Reactive.Linq.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\System.Reactive.PlatformServices.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\bin\Release\System.Reactive.Windows.Threading.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\obj\Release\Communication.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\Communication\obj\Release\Communication.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\NLog.config
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\Communication.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\Communication.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\LedScreenLibNetWrapper.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\Library.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\NLog.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\System.Reactive.Core.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\System.Reactive.Interfaces.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\System.Reactive.Linq.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\System.Reactive.PlatformServices.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\System.Reactive.Windows.Threading.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\Library.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\NLog.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\System.Reactive.Core.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\System.Reactive.Interfaces.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\System.Reactive.Linq.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\System.Reactive.PlatformServices.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\bin\Release\System.Reactive.Windows.Threading.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\obj\Release\Communication.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\Communication\obj\Release\Communication.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\NLog.config
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\Communication.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\Communication.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\Library.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\NLog.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\System.Reactive.Core.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\System.Reactive.Interfaces.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\System.Reactive.Linq.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\System.Reactive.PlatformServices.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\System.Reactive.Windows.Threading.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\Library.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\NLog.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\System.Reactive.Core.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\System.Reactive.Interfaces.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\System.Reactive.Linq.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\System.Reactive.PlatformServices.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\System.Reactive.Windows.Threading.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\obj\Release\Communication.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\obj\Release\Communication.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\Communication\bin\Release\LedScreenLibNetWrapper.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\NLog.config
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\Communication.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\Communication.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\LedScreenLibNetWrapper.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\Library.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\NLog.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\System.Reactive.Core.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\System.Reactive.Interfaces.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\System.Reactive.Linq.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\System.Reactive.PlatformServices.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\System.Reactive.Windows.Threading.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\Library.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\NLog.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\System.Reactive.Core.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\System.Reactive.Interfaces.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\System.Reactive.Linq.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\System.Reactive.PlatformServices.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\bin\Release\System.Reactive.Windows.Threading.xml
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\obj\Release\Communication.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\Communication\obj\Release\Communication.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\NLog.config
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\Communication.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\Communication.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\LedScreenLibNetWrapper.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\Library.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\NLog.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\System.Reactive.Core.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\System.Reactive.Interfaces.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\System.Reactive.Linq.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\System.Reactive.PlatformServices.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\System.Reactive.Windows.Threading.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\Library.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\NLog.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\System.Reactive.Core.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\System.Reactive.Interfaces.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\System.Reactive.Linq.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\System.Reactive.PlatformServices.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\bin\Release\System.Reactive.Windows.Threading.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\obj\Release\Communication.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\obj\Release\Communication.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Communication\obj\Release\Communication.pdb

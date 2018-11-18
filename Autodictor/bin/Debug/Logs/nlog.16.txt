@@ -1,0 +1,632 @@
+2018/11/17 07:18:58.228|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:58.335|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:58.444|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:58.558|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:58.664|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:58.774|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:58.881|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:58.994|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:59.100|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:59.210|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:59.324|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:59.431|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:59.541|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:59.652|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:59.757|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:59.866|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:18:59.980|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:00.102|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:00.195|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:00.303|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:00.415|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:00.526|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:00.634|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:00.747|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:00.850|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:00.966|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:01.073|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:01.179|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:01.290|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:01.396|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:01.512|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:01.621|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:01.732|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:01.835|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:01.947|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:02.056|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:02.167|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:02.276|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:02.383|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:02.490|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:02.608|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:02.714|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:02.821|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:02.934|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:03.039|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:03.149|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:03.255|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:03.365|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:03.478|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:03.591|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:03.694|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:03.805|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:03.914|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:04.022|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:04.133|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:04.242|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:04.354|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:04.463|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:04.556|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:19:04.578|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:04.681|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:04.794|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:04.899|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:05.006|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:05.125|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:05.229|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:05.339|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:05.443|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:05.557|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:19:14.558|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:19:24.562|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:19:34.574|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:19:44.586|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:19:54.589|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:20:05.221|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:20:14.667|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:20:24.658|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:20:34.671|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:20:44.703|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:20:54.669|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:21:04.674|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:21:14.710|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:21:24.697|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:21:34.683|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:21:44.717|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:21:54.693|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:22:04.725|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:22:14.747|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:22:24.722|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:22:34.741|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:22:44.778|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:22:54.752|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:23:04.756|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:23:14.768|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:23:24.759|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:23:34.763|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:23:44.769|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:23:54.767|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:24:04.774|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:24:14.797|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:24:24.790|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:24:34.802|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:24:44.831|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:24:54.807|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.

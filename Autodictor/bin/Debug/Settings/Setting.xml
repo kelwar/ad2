@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <CisSetting>
+    <Name>Волгоград</Name>
+	<NameEng>Volgograd</NameEng>
+	<CodeEsr>61000</CodeEsr>
+    <EndpointAddress>http://127.0.0.1:50000/Service/Cis</EndpointAddress>
+  </CisSetting>
+
+  <LogSetting>
+    <PortionString>2</PortionString>
+	<CountPortion>2</CountPortion>
+  </LogSetting>
+
+
+  <SerialPorts><!--
+	<Serial>
+      <Port>3</Port>
+	  <BaudRate>19200</BaudRate>
+	  <DataBits>8</DataBits>
+	  <StopBits>1</StopBits>
+	  <Parity>Even</Parity>  
+	  <DtrEnable>True</DtrEnable> 
+	  <RtsEnable>True</RtsEnable> 
+    </Serial>-->
+  </SerialPorts>
+
+
+
+
+
+  <DevicesWithSP><!--
+	 <DeviceSp Id="1" Name="Perron2" Port="3" Address="4" TimeRespone="100" Description="Платформа 2" Binding="ToPath:2,3" Langs="Rus:20;Eng:10">
+		<ExchangeRules>
+			<Table Size= "2">
+		      <Rule Format = "Windows-1251">
+			      <Request maxLenght = "254">
+				    STX{AddressDevice:X2}{Nbyte:X2}
+					%30{Hour:D2}{Minute:D2}{Second:D2}
+					%00001043{(rowNumber*20-12):D3}4%10$12$00$60$t3{NumberOfTrain}
+					%00045160{(rowNumber*20-12):D3}4%10$12$00$60$t3{Stations}
+					%00031057{(rowNumber*20-3):D3}3%10$12$00$60$t2{TArrival:t}
+					%00091117{(rowNumber*20-3):D3}3%10$12$00$60$t2{TDepart:t}
+					%00151160{(rowNumber*20-3):D3}3%10$12$00$60$t2{PathNumber}
+					{CRCXor:X2}ETX
+		          </Request >
+			
+			      <Response maxLenght = "8" TimeRespone="500">
+				    STX0200FDETX
+		          </Response >	  
+		       </Rule>
+			   <Rule Format = "Windows-1251">
+			      <Request maxLenght = "254">
+				    STX{AddressDevice:X2}{Nbyte:X2}
+					%42001160019019
+					%00001027{(rowNumber*20-3):D3}3%10$12$00$60$t2{Text:Приб.|Eng_Arr.}
+					%00062088{(rowNumber*20-3):D3}3%10$12$00$60$t2{Text:Отпр.|Eng_Dep.}
+					%00122148{(rowNumber*20-3):D3}3%10$12$00$60$t2{Text:Путь|Eng_Track}
+					{CRCXor:X2}ETX
+		          </Request >
+			
+			      <Response maxLenght = "8" TimeRespone="500">
+				    STX0200FDETX
+		          </Response >	  
+		       </Rule>
+			   <Rule Format = "Windows-1251" Resolution="КомандаОчистки">
+					  <Request maxLenght = "254">
+							STX{AddressDevice:X2}{Nbyte:X2}
+							%23
+							{CRCXor:X2}ETX
+					  </Request >
+
+					  <Response maxLenght = "8" TimeRespone="1000">
+						STX0200FDETX
+					  </Response >	  
+				   </Rule>
+
+				   <Rule Format = "Windows-1251" Resolution="КомандаПерезагрузки">
+					  <Request maxLenght = "254">
+							STX{AddressDevice:X2}{Nbyte:X2}
+							%39
+							{CRCXor:X2}ETX
+					  </Request >
+
+					  <Response maxLenght = "8" TimeRespone="1000">
+						STX0200FDETX
+					  </Response >	  
+				   </Rule>
+			</Table>
+		  </ExchangeRules>
+	 </DeviceSp>
+	 
+	 <DeviceSp Id="2" Name="Perron2" Port="3" Address="6" TimeRespone="100" Description="Платформа 2" Binding="ToPath:2,3" Langs="Rus:20;Eng:10">
+		<ExchangeRules>
+			<Table Size= "2">
+		      <Rule Format = "Windows-1251">
+			      <Request maxLenght = "254">
+				    STX{AddressDevice:X2}{Nbyte:X2}
+					%30{Hour:D2}{Minute:D2}{Second:D2}
+					%00001043{(rowNumber*20-12):D3}4%10$12$00$60$t3{NumberOfTrain}
+					%00045160{(rowNumber*20-12):D3}4%10$12$00$60$t3{Stations}
+					%00031057{(rowNumber*20-3):D3}3%10$12$00$60$t2{TArrival:t}
+					%00091117{(rowNumber*20-3):D3}3%10$12$00$60$t2{TDepart:t}
+					%00151160{(rowNumber*20-3):D3}3%10$12$00$60$t2{PathNumber}
+					{CRCXor:X2}ETX
+		          </Request >
+			
+			      <Response maxLenght = "8" TimeRespone="500">
+				    STX0200FDETX
+		          </Response >	  
+		       </Rule>
+			   <Rule Format = "Windows-1251">
+			      <Request maxLenght = "254">
+				    STX{AddressDevice:X2}{Nbyte:X2}
+					%42001160019019
+					%00001027{(rowNumber*20-3):D3}3%10$12$00$60$t2{Text:Приб.|Eng_Arr.}
+					%00062088{(rowNumber*20-3):D3}3%10$12$00$60$t2{Text:Отпр.|Eng_Dep.}
+					%00122148{(rowNumber*20-3):D3}3%10$12$00$60$t2{Text:Путь|Eng_Track}
+					{CRCXor:X2}ETX
+		          </Request >
+			
+			      <Response maxLenght = "8" TimeRespone="500">
+				    STX0200FDETX
+		          </Response >	  
+		       </Rule>
+			   <Rule Format = "Windows-1251" Resolution="КомандаОчистки">
+					  <Request maxLenght = "254">
+							STX{AddressDevice:X2}{Nbyte:X2}
+							%23
+							{CRCXor:X2}ETX
+					  </Request >
+
+					  <Response maxLenght = "8" TimeRespone="1000">
+						STX0200FDETX
+					  </Response >	  
+				   </Rule>
+
+				   <Rule Format = "Windows-1251" Resolution="КомандаПерезагрузки">
+					  <Request maxLenght = "254">
+							STX{AddressDevice:X2}{Nbyte:X2}
+							%39
+							{CRCXor:X2}ETX
+					  </Request >
+
+					  <Response maxLenght = "8" TimeRespone="1000">
+						STX0200FDETX
+					  </Response >	  
+				   </Rule>
+			</Table>
+		  </ExchangeRules>
+	 </DeviceSp>
+	 
+	 <DeviceSp Id="3" Name="Perron2" Port="3" Address="5" TimeRespone="100" Description="Платформа 3" Binding="ToPath:4,5" Langs="Rus:20;Eng:10">
+		<ExchangeRules>
+			<Table Size= "2">
+		      <Rule Format = "Windows-1251">
+			      <Request maxLenght = "254">
+				    STX{AddressDevice:X2}{Nbyte:X2}
+					%30{Hour:D2}{Minute:D2}{Second:D2}
+					%00001043{(rowNumber*20-12):D3}4%10$12$00$60$t3{NumberOfTrain}
+					%00045160{(rowNumber*20-12):D3}4%10$12$00$60$t3{Stations}
+					%00031057{(rowNumber*20-3):D3}3%10$12$00$60$t2{TArrival:t}
+					%00091117{(rowNumber*20-3):D3}3%10$12$00$60$t2{TDepart:t}
+					%00151160{(rowNumber*20-3):D3}3%10$12$00$60$t2{PathNumber}
+					{CRCXor:X2}ETX
+		          </Request >
+			
+			      <Response maxLenght = "8" TimeRespone="500">
+				    STX0200FDETX
+		          </Response >	  
+		       </Rule>
+			   <Rule Format = "Windows-1251">
+			      <Request maxLenght = "254">
+				    STX{AddressDevice:X2}{Nbyte:X2}
+					%42001160019019
+					%00001027{(rowNumber*20-3):D3}3%10$12$00$60$t2{Text:Приб.|Eng_Arr.}
+					%00062088{(rowNumber*20-3):D3}3%10$12$00$60$t2{Text:Отпр.|Eng_Dep.}
+					%00122148{(rowNumber*20-3):D3}3%10$12$00$60$t2{Text:Путь|Eng_Track}
+					{CRCXor:X2}ETX
+		          </Request >
+			
+			      <Response maxLenght = "8" TimeRespone="500">
+				    STX0200FDETX
+		          </Response >	  
+		       </Rule>
+			   <Rule Format = "Windows-1251" Resolution="КомандаОчистки">
+					  <Request maxLenght = "254">
+							STX{AddressDevice:X2}{Nbyte:X2}
+							%23
+							{CRCXor:X2}ETX
+					  </Request >
+
+					  <Response maxLenght = "8" TimeRespone="1000">
+						STX0200FDETX
+					  </Response >	  
+				   </Rule>
+
+				   <Rule Format = "Windows-1251" Resolution="КомандаПерезагрузки">
+					  <Request maxLenght = "254">
+							STX{AddressDevice:X2}{Nbyte:X2}
+							%39
+							{CRCXor:X2}ETX
+					  </Request >
+
+					  <Response maxLenght = "8" TimeRespone="1000">
+						STX0200FDETX
+					  </Response >	  
+				   </Rule>
+			</Table>
+		  </ExchangeRules>
+	 </DeviceSp>
+	 
+	 <DeviceSp Id="4" Name="Perron2" Port="3" Address="3" TimeRespone="100" Description="Пригород" Binding="ToGeneral:ГлавноеОкно" Langs="Rus:20;Eng:10" Contrains="БольшеТекВремени;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ПРИБ.;Пассажирский;Скоростной;Скорый;Фирменный">
+		<ExchangeRules>
+			<Table Size= "7">
+		      <Rule Format = "Windows-1251">
+			      <Request maxLenght = "254">
+				    STX{AddressDevice:X2}{Nbyte:X2}
+					%30{Hour:D2}{Minute:D2}{Second:D2}
+					%00001020{(rowNumber*13+2):D3}3%10$11$00$60$t3{NumberOfTrain}
+					%00171200{(rowNumber*13+2):D3}3%10$12$00$60$t2{TDepart:t}
+					%00226240{(rowNumber*13+2):D3}3%10$12$00$60$t2{PathNumber}
+					%00242256{(rowNumber*13+2):D3}3%10$12$00$60$t3   
+					%42001256{(rowNumber*13+4):D3}{(rowNumber*13+4):D3}
+					{CRCXor:X2}ETX
+		          </Request >
+			
+			      <Response maxLenght = "8" TimeRespone="500">
+				    STX0200FDETX
+		          </Response >	  
+		       </Rule>
+			   <Rule Format = "Windows-1251">
+			      <Request maxLenght = "254">
+				    STX{AddressDevice:X2}{Nbyte:X2}
+					%00023167{(rowNumber*13+2):D3}4%10$12$00$60$t3{Stations}
+					{CRCXor:X2}ETX
+		          </Request >
+			
+			      <Response maxLenght = "8" TimeRespone="500">
+				    STX0200FDETX
+		          </Response >	  
+		       </Rule>
+			   <Rule Format = "Windows-1251" Resolution="КомандаОчистки">
+					  <Request maxLenght = "254">
+							STX{AddressDevice:X2}{Nbyte:X2}
+							%23
+							{CRCXor:X2}ETX
+					  </Request >
+
+					  <Response maxLenght = "8" TimeRespone="1000">
+						STX0200FDETX
+					  </Response >	  
+				   </Rule>
+
+				   <Rule Format = "Windows-1251" Resolution="КомандаПерезагрузки">
+					  <Request maxLenght = "254">
+							STX{AddressDevice:X2}{Nbyte:X2}
+							%39
+							{CRCXor:X2}ETX
+					  </Request >
+
+					  <Response maxLenght = "8" TimeRespone="1000">
+						STX0200FDETX
+					  </Response >	  
+				   </Rule>
+			</Table>
+		  </ExchangeRules>
+	 </DeviceSp>-->
+  </DevicesWithSP>
+  
+  
+<DevicesWithTcpIp>
+</DevicesWithTcpIp>
+
+
+
+<DevicesWithHttp><!--
+	 <DeviceHttp Id="301" Name="HttpTable" Address="http://10.255.247.2/upload.php?terminalid=238" Period="10000" TimeRespone="3000" Description="Online-табло" 
+	 Binding="ToGeneral:ГлавноеОкно" Contrains="ДельтаТекВремени:60|2160" ProviderType="xml_tlist" 
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="userfile"; filename="xDoc.xml"'
+						   />-->
+						   <!--
+	 <DeviceHttp Id="307" Name="HttpTable" Address="http://10.114.160.164/handlerDispatcher.php" TimeRespone="3000" Description="к диспетчеру" 
+  Binding="ToGeneral:ГлавноеОкно" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр" Period="10000" ProviderType="xml_mainWindow:sortable"  
+                Headers='Method:POST + 
+                   User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+               Accept: text/html, */* +
+               Connection: Keep-Alive +
+               Content-Type: multipart/form-data +
+               Content-Disposition: form-data; name="username"; filename="data"'
+               />
+	 <DeviceHttp Id="308" Name="HttpDispatcher" Address="http://10.114.160.164/handlerDispatcher.php" Period="10000" TimeRespone="3000" Description="Onlain табло" Binding="ToGetData:" ProviderType="xml_ApkDkGet" 
+                Headers='Method: GET + 
+                   ContentEncoding: gzip +
+					Accept: text/html, */* +
+					Connection: Keep-Alive'
+               />-->
+	 <DeviceHttp Id="309" Name="HttpTable" Address="http://31.220.168.162/dispatcher/server/api/adIn/" TimeRespone="30000" Description="к диспетчеру" 
+  Binding="ToGeneral:Диспетчерская" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр" Period="10000" ProviderType="xml_dispatcher:sortable"  
+                Headers='Method:POST + 
+                   User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+               Accept: text/html, */* +
+               Connection: Keep-Alive +
+               Content-Type: multipart/form-data +
+               Content-Disposition: form-data; name="username"; filename="data"'
+               />
+	 <DeviceHttp Id="350" Name="HttpTable" Address="http://31.220.168.162/dispatcher/server/api/stations/" TimeRespone="30000" Description="к диспетчеру" 
+  Binding="ToGeneral:Станции" Period="3600000" ProviderType="xml_stations:sortable"  
+                Headers='Method:POST + 
+                   User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+               Accept: text/html, */* +
+               Connection: Keep-Alive +
+               Content-Type: multipart/form-data +
+               Content-Disposition: form-data; name="username"; filename="data"'
+               />
+	 <DeviceHttp Id="310" Name="HttpDispatcher" Address="http://31.220.168.162/dispatcher/server/api/adOut/" Period="10000" TimeRespone="3000" Description="Onlain табло" Binding="ToGetData:" ProviderType="xml_ApkDkGet" 
+                Headers='Method: GET + 
+                   ContentEncoding: gzip +
+					Accept: text/html, */* +
+					Connection: Keep-Alive'
+               /><!--
+	<DeviceHttp Id="311" Name="HttpTable" Address="http://31.220.168.162/dispatcher/server/api/adChanges/" Period="10000" TimeRespone="3000" Description="Данные изменений" Binding="ToChangeEvent:" ProviderType="xml_change:linuxtimestamp" 
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="change"'
+						   />--><!--
+	 <DeviceHttp Id="302" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="1x2" Binding="ToGeneral:ГлавноеОкно" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокТаблицы:5;Пригородный+ПУТЬ:1приг,2приг,3приг,Не определен,;Ласточка+ПУТЬ:1приг,2приг,3приг,Не определен,;РЭКС+ПУТЬ:1приг,2приг,3приг,Не определен," ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_1x2.xml"'
+						   />
+	 <DeviceHttp Id="303" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="1x2 Пригород" Binding="ToGeneral:ГлавноеОкно" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокТаблицы:5;Скоростной;Фирменный;Скорый;Пассажирский" ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_1x2prig.xml"'
+						   />
+	 <DeviceHttp Id="304" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="1x4" Binding="ToGeneral:ГлавноеОкно" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокТаблицы:12;Пригородный+ПУТЬ:1приг,2приг,3приг,Не определен,;Ласточка+ПУТЬ:1приг,2приг,3приг,Не определен,;РЭКС+ПУТЬ:1приг,2приг,3приг,Не определен," ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_1x4_1.xml"'
+						   />
+	 <DeviceHttp Id="305" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="1x4" Binding="ToGeneral:ГлавноеОкно" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокТаблицы:12;Пригородный+ПУТЬ:1приг,2приг,3приг,Не определен,;Ласточка+ПУТЬ:1приг,2приг,3приг,Не определен,;РЭКС+ПУТЬ:1приг,2приг,3приг,Не определен," ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_1x4_2.xml"'
+						   />
+	 <DeviceHttp Id="306" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="4x4" Binding="ToGeneral:ГлавноеОкно" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокТаблицы:10;Пригородный+ПУТЬ:1приг,2приг,3приг,Не определен,;Ласточка+ПУТЬ:1приг,2приг,3приг,Не определен,;РЭКС+ПУТЬ:1приг,2приг,3приг,Не определен," ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_4x4.xml"'
+						   />
+	 <DeviceHttp Id="312" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="Рус1" Binding="ToPath:1" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокНаПути:1" ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_p1rus_1.xml"'
+						   />
+	 <DeviceHttp Id="313" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="Рус2" Binding="ToPath:1" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокНаПути:1" ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_p1rus_2.xml"'
+						   />
+	 <DeviceHttp Id="314" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="Eng1" Binding="ToPath:1" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокНаПути:1" ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_p1eng_1.xml"'
+						   />
+	 <DeviceHttp Id="315" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="Eng2" Binding="ToPath:1" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокНаПути:1" ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_p1eng_2.xml"'
+						   />
+	 <DeviceHttp Id="316" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="2" Binding="ToPath:2" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокНаПути:1" ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_p2.xml"'
+						   />
+	 <DeviceHttp Id="317" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="3" Binding="ToPath:3" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокНаПути:1" ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_p3.xml"'
+						   />
+	 <DeviceHttp Id="318" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="4" Binding="ToPath:4" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокНаПути:1" ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_p4.xml"'
+						   />
+	 <DeviceHttp Id="319" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="5" Binding="ToPath:5" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокНаПути:1" ProviderType="xml_mainWindow:sortable"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_p5.xml"'
+						   />
+	 <DeviceHttp Id="323" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="Годовое" Binding="ToGeneral:ОкноРасписания" Contrains="SendingDataLimit;Направление:Дальнее. Круглогодичное" ProviderType="xml_mainWindow:sortable:transitSortDeparture"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_godn.xml"'
+						   />
+	 <DeviceHttp Id="324" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="Сезонное" Binding="ToGeneral:ОкноРасписания" Contrains="SendingDataLimit;Направление:Дальнее. Сезонное" ProviderType="xml_mainWindow:sortable:transitSortDeparture"  
+	              Headers='Method:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Connection: Keep-Alive +
+						   Content-Type: multipart/form-data +
+						   Content-Disposition: form-data; name="username"; filename="vlg_sezn.xml"'
+						   />-->
+	<DeviceHttp Id="320" Name="HttpCisRegSh" Address="http://10.77.91.233/server/api/adrasp90/index.php?id=61000" Period="180000" TimeRespone="60000" Description="Onlain табло" Binding="ToGetData:" Contrains="БезОстановок;НеОпределен" ProviderType="xml_ApkDkGet"
+	              Headers='Method: GET +  
+				            ContentEncoding: gzip +
+						    Accept: text/html, */* +
+						    Connection: Keep-Alive'
+						    />
+	<DeviceHttp Id="321" Name="HttpCisOperSh" Address="http://10.77.91.233/server/api/adrasp/index.php?id=61000" Period="120000" TimeRespone="60000" Description="Onlain табло" Binding="ToGetData:" Contrains="БезОстановок;НеОпределен" ProviderType="xml_ApkDkGet"
+	              Headers='Method: GET +  
+				            ContentEncoding: gzip +
+						    Accept: text/html, */* +
+						    Connection: Keep-Alive'
+						    />
+	<DeviceHttp Id="322" Name="HttpCisCarNavigation" Address="http://10.77.91.233/server/api/vagonNavigation/index.php?esr=61000" Period="60000"  TimeRespone="30000" Description="Повагонка" Binding="ToGetData:" Contrains="" ProviderType="xml_ApkDkGet"
+	              Headers='Method: GET +  
+				            ContentEncoding: gzip +
+						    Accept: text/html, */* +
+						    Connection: Keep-Alive'
+						    />
+</DevicesWithHttp>
+
+<Sound>
+   <Player Type="DirectX"/>
+</Sound>
+
+</Root>
+
+
+<!-- Если Paging и Contrains не используются их можно не включать в настройки. -->
+
+<!-- Paging="7,12" -->
+<!-- Paging="5,10" - Разбиение на страницы по 5 элементов на каждой, перебирать страницы раз в 10сек. -->
+
+<!-- Contrains="ПРИБ.;ПРИГ." - Не выводить все прибывающие и все пригородные поезда. -->
+<!--Варианты:
+              (Пассажирский)
+			  (Пассажирский+ПРИБ.)
+			  (Пассажирский+ОТПР.)
+			  (Пассажирский+ПУТЬ:1,2,3)
+			  
+			  (Пригородный)
+			  (Пригородный+ПРИБ.)
+			  (Пригородный+ОТПР.)
+			  (Пригородный+ПУТЬ:1,2,3)
+			  
+			  (Фирменный)
+			  (Фирменный+ПРИБ.)
+			  (Фирменный+ОТПР.)
+			  (Фирменный+ПУТЬ:1,2,3)
+			  
+			  (Скорый)
+			  (Скорый+ПРИБ.)
+			  (Скорый+ОТПР.)
+			  (Скорый+ПУТЬ:1,2,3)
+			  
+			  (Скоростной)
+			  (Скоростной+ПРИБ.)
+			  (Скоростной+ОТПР.)
+			  (Скоростной+ПУТЬ:1,2,3)
+			  
+			  (Ласточка)
+			  (Ласточка+ПРИБ.)
+			  (Ласточка+ОТПР.)
+			  (Ласточка+ПУТЬ:1,2,3)
+			  
+			  (РЭКС)
+			  (РЭКС+ПРИБ.)
+			  (РЭКС+ОТПР.)
+			  (РЭКС+ПУТЬ:1,2,3)
+
+             (ПРИБ./ОТПР.) 
+			 (ПРИБ.+ПУТЬ:1,2,3)
+			 (ОТПР.+ПУТЬ:1,2,3)
+             ("Отменен_БлокВремОгр/ЗадержкаПрибытия_БлокВремОгр/ЗадержкаОтправления_БлокВремОгр") - Если указанно ограничение "МеньшеТекВремени" или "БольшеТекВремени" и поезд отмененн/задерживается, то временные огранчиения не учитываются
+			 ("МеньшеТекВремени/БольшеТекВремени")
+
+			 -->
+
+			 
+<!-- Binding="ToGeneral:ГлавноеОкно" -->
+<!--Варианты (ГлавноеОкно/ОкноРасписания)-->
+
+
+
+<!-- 	              Headers='Methode:POST + 
+				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
+						   Accept: text/html, */* +
+						   Content-Type: multipart/form-data +
+						   Host: cms.indigointeractive.ru +
+						   Connection: Keep-Alive +
+						   Content-Disposition: form-data; name="username"; filename="xDoc.xml"' -->

@@ -1,0 +1,446 @@
+2018/11/17 07:05:17.360|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:17.461|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:17.575|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:17.679|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:17.788|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:17.896|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:18.007|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:18.207|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:18.240|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:18.336|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:18.444|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:18.560|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:18.671|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:18.796|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:18.881|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:19.054|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:19.105|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:19.236|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:19.327|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:19.427|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:19.539|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:19.649|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:19.759|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:19.868|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:19.976|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:20.090|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:20.191|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:20.305|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:20.437|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:20.526|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:20.635|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:20.743|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:20.851|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:20.963|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:21.070|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:21.201|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:21.293|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:21.398|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:21.505|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:21.622|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:21.725|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:21.840|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:21.946|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:22.055|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:22.163|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:22.273|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:22.381|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:22.492|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:22.602|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:22.713|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:22.822|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:22.932|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:23.053|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:23.148|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:23.262|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:23.365|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:23.475|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:23.589|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:23.691|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:23.809|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:23.914|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:23.985|Error|System.Xml.XmlException: Недопустимые данные на корневом уровне., строка 1, позиция 1.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   в System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   в System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XDocument.Parse(String text)
+   в CommunicationDevices.Behavior.GetDataBehavior.BaseGetDataBehavior.GetStreamRxHandler(Stream stream) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\CommunicationDevices\Behavior\GetDataBehavior\BaseGetDataBehavior.cs:строка 83. Получены некорректные данные: Ничего не было собрано, т.к. нечего отдавать.
+2018/11/17 07:05:24.027|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:24.138|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:24.249|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:24.358|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:24.468|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:24.591|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:24.681|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:24.789|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:24.897|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:25.009|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:25.119|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:25.230|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:25.343|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:25.453|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:25.553|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:25.664|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:25.770|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:25.883|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:25.993|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:26.106|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:26.211|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:26.322|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:26.429|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:26.540|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:26.649|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:26.762|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:26.865|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:26.976|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:27.085|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:27.196|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:27.314|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:27.414|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:27.527|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:27.630|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:27.741|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:27.854|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:27.961|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:28.075|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:28.180|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:28.289|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:28.398|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:28.508|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:28.615|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:28.726|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:28.838|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:28.948|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:29.054|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993
+2018/11/17 07:05:29.165|Fatal|Ошибка в работе таймера воспроизведения звуковых сообщений: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainWindowForm.ОпределитьКомпозициюДляЗапуска() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 1540
+   в MainExample.MainWindowForm.ОбработкаЗвуковогоПотка() в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2110
+   в MainExample.MainWindowForm.timer1_Tick(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Autodictor\MainWindowForm.cs:строка 2993

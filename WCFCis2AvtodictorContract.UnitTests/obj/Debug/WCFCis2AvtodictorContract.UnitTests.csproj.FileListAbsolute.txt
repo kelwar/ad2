@@ -1,0 +1,16 @@
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\WCFCis2AvtodictorContract.UnitTests.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\WCFCis2AvtodictorContract.UnitTests.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\Castle.Core.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\NSubstitute.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\nunit.framework.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\nunit.framework.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\nunit.framework.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\obj\Debug\WCFCis2AvtodictorContract.UnitTests.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\obj\Debug\WCFCis2AvtodictorContract.UnitTests.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract.UnitTests\obj\Debug\WCFCis2AvtodictorContract.UnitTests.csprojResolveAssemblyReference.cache

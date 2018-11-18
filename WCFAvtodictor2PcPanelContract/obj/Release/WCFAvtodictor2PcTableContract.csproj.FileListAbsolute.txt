@@ -1,0 +1,43 @@
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.dll
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.pdb
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.csprojResolveAssemblyReference.cache
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.dll
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.pdb
+C:\Users\Aldmi\Desktop\src_old\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.dll
+C:\Users\Aldmi\Desktop\src_old\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.pdb
+C:\Users\Aldmi\Desktop\src_old\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.dll
+C:\Users\Aldmi\Desktop\src_old\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.pdb
+C:\Users\Aldmi\Desktop\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.dll
+C:\Users\Aldmi\Desktop\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.pdb
+C:\Users\Aldmi\Desktop\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.dll
+C:\Users\Aldmi\Desktop\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.pdb
+D:\Git\Autodictor\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.dll
+D:\Git\Autodictor\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.pdb
+D:\Git\Autodictor\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.csprojResolveAssemblyReference.cache
+D:\Git\Autodictor\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.dll
+D:\Git\Autodictor\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFAvtodictor2PcPanelContract\bin\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFAvtodictor2PcPanelContract\obj\Release\WCFAvtodictor2PcTableContract.csprojResolveAssemblyReference.cache

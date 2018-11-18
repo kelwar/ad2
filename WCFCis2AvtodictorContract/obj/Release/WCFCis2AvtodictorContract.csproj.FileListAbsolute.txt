@@ -1,0 +1,41 @@
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.dll
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.pdb
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.dll
+D:\ALDMI\Dropbox\РАБОТА ВОКЗАЛ\Autodictor\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.pdb
+C:\Users\Aldmi\Desktop\src_old\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.dll
+C:\Users\Aldmi\Desktop\src_old\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.pdb
+C:\Users\Aldmi\Desktop\src_old\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.dll
+C:\Users\Aldmi\Desktop\src_old\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.pdb
+C:\Users\Aldmi\Desktop\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.dll
+C:\Users\Aldmi\Desktop\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.pdb
+C:\Users\Aldmi\Desktop\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.dll
+C:\Users\Aldmi\Desktop\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.pdb
+D:\Git\Autodictor\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.dll
+D:\Git\Autodictor\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.pdb
+D:\Git\Autodictor\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.csprojResolveAssemblyReference.cache
+D:\Git\Autodictor\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.dll
+D:\Git\Autodictor\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180319\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180330_with_Sinergo\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor_20180423_with_VidorEng.bkp_20180519\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract\bin\Release\WCFCis2AvtodictorContract.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\WCFCis2AvtodictorContract\obj\Release\WCFCis2AvtodictorContract.pdb
