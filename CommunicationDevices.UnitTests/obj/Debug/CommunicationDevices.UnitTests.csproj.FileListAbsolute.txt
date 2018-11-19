@@ -106,3 +106,4 @@ D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\CommunicationDevices
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\CommunicationDevices.UnitTests\obj\Debug\CommunicationDevices.UnitTests.csprojResolveAssemblyReference.cache
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\CommunicationDevices.UnitTests\obj\Debug\CommunicationDevices.UnitTests.dll
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\CommunicationDevices.UnitTests\obj\Debug\CommunicationDevices.UnitTests.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\CommunicationDevices.UnitTests\bin\Debug\NLog.config

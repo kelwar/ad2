@@ -13,6 +13,7 @@ using Domain.Abstract;
 using Domain.Concrete;
 using Library;
 using System.Globalization;
+using Domain.Entitys.Train;
 
 namespace MainExample.Entites
 {
@@ -57,6 +58,7 @@ namespace MainExample.Entites
         public int TrnId;
         public int TieTrainId;                                      // ИД_ГДП привязанного поезда
         public bool DenyAutoUpdate;
+        public TimetableType TimetableType;
 
         public override string ToString()
         {
@@ -355,7 +357,9 @@ namespace MainExample.Entites
                                   (!string.IsNullOrWhiteSpace(noteEng) ? noteEng : TranslateNote(trainTableRecords[i], trainTableRecords[i].Примечание)) + ";" +
                                   trainTableRecords[i].ScheduleId + ";" +
                                   trainTableRecords[i].TrnId + ";" +
-                                  trainTableRecords[i].DenyAutoUpdate;
+                                  trainTableRecords[i].TieTrainId + ";" +
+                                  trainTableRecords[i].DenyAutoUpdate + ";" +
+                                  trainTableRecords[i].TimetableType;
                             
                             dumpFile.WriteLine(line);
                         }
@@ -434,7 +438,11 @@ namespace MainExample.Entites
                                                     departureTime - arrivalTime).ToString("hh\\:mm") :
                                                   string.Empty;
                                 данные.Days = !string.IsNullOrWhiteSpace(settings[6]) ? settings[6] : $"Отс:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0";
-                                данные.DaysDescription = TrainSchedule.ПолучитьИзСтрокиПланРасписанияПоезда(данные.Days).ПолучитьСтрокуОписанияРасписания();
+
+                                var trainSchedule = TrainSchedule.ПолучитьИзСтрокиПланРасписанияПоезда(данные.Days);
+                                trainSchedule.TrainNumber = данные.Num;
+                                trainSchedule.TrainName = данные.Name;
+                                данные.DaysDescription = trainSchedule.ПолучитьСтрокуОписанияРасписания();
                                 данные.Active = settings[7] == "1" ? true : false;
                                 данные.SoundTemplates = settings[8];
                                 данные.TrainPathDirection = byte.Parse(settings[9]);
@@ -508,7 +516,7 @@ namespace MainExample.Entites
 
                                 данные.StationDepart = String.Empty;
                                 данные.StationArrival = String.Empty;
-                                if (settings.Length >= 23)
+                                if (settings.Length >= 24)
                                 {
                                     данные.StationDepart = settings[22];
                                     данные.StationArrival = settings[23];
@@ -586,6 +594,13 @@ namespace MainExample.Entites
                                 if (settings.Length >= 35 && bool.TryParse(settings[34], out denyAutoUpdate))
                                 {
                                     данные.DenyAutoUpdate = denyAutoUpdate;
+                                }
+
+                                TimetableType timetableType;
+                                данные.TimetableType = TimetableType.Extra;
+                                if (settings.Length >= 36 && Enum.TryParse(settings[35], out timetableType))
+                                {
+                                    данные.TimetableType = timetableType;
                                 }
 
                                 trainTableRecords.Add(данные);

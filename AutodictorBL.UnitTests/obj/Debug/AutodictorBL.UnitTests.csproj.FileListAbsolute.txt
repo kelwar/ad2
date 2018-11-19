@@ -70,3 +70,4 @@ D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\AutodictorBL.UnitTes
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\AutodictorBL.UnitTests\obj\Debug\AutodictorBL.UnitTests.csprojResolveAssemblyReference.cache
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\AutodictorBL.UnitTests\obj\Debug\AutodictorBL.UnitTests.dll
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\AutodictorBL.UnitTests\obj\Debug\AutodictorBL.UnitTests.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\AutodictorBL.UnitTests\bin\Debug\NLog.config

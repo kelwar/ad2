@@ -83,3 +83,11 @@ D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Li
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Library\obj\Release\Library.dll
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Library\obj\Release\Library.pdb
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Library\obj\Release\Library.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Library\bin\Release\NLog.config
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Library\bin\Release\Library.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Library\bin\Release\Library.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Library\bin\Release\NLog.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Library\bin\Release\NLog.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Library\obj\Release\Library.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Library\obj\Release\Library.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Library\obj\Release\Library.pdb

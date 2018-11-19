@@ -549,6 +549,8 @@ namespace MainExample
             Данные.DenyAutoUpdate = false;
             Данные.DaysDescription = string.Empty;
 
+            Данные.TimetableType = Domain.Entitys.Train.TimetableType.Extra;
+
             //Добавили в список
             //TrainSheduleTable.TrainTableRecords.Add(Данные);
 

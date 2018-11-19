@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using Domain.Entitys;
 using MainExample.Entites;
 using System.Threading.Tasks;
+using Domain.Entitys.Train;
 
 namespace MainExample
 {
@@ -202,7 +203,11 @@ namespace MainExample
                             Данные.StopTime = Settings[4];
                             Данные.DepartureTime = Settings[5];
                             Данные.Days = Settings[6];
-                            Данные.DaysDescription = TrainSchedule.ПолучитьИзСтрокиПланРасписанияПоезда(Данные.Days).ПолучитьСтрокуОписанияРасписания();
+
+                            var trainSchedule = TrainSchedule.ПолучитьИзСтрокиПланРасписанияПоезда(Данные.Days);
+                            trainSchedule.TrainNumber = Данные.Num;
+                            trainSchedule.TrainName = Данные.Name;
+                            Данные.DaysDescription = trainSchedule.ПолучитьСтрокуОписанияРасписания();
                             Данные.Active = Settings[7] == "1" ? true : false;
                             Данные.SoundTemplates = Settings[8];
                             Данные.TrainPathDirection = byte.Parse(Settings[9]);
@@ -356,6 +361,13 @@ namespace MainExample
                                 Данные.DenyAutoUpdate = denyAutoUpdate;
                             }
 
+                            TimetableType timetableType;
+                            Данные.TimetableType = TimetableType.Extra;
+                            if (Settings.Length >= 36 && Enum.TryParse(Settings[35], out timetableType))
+                            {
+                                Данные.TimetableType = timetableType;
+                            }
+
                             TrainTableRecords.Add(Данные);
                             Program.НомераПоездов.Add(Данные.Num);
                             if (!string.IsNullOrEmpty(Данные.Num2))
@@ -423,7 +435,9 @@ namespace MainExample
                             (!string.IsNullOrWhiteSpace(noteEng) ? noteEng : TranslateNote(TrainTableRecords[i], TrainTableRecords[i].Примечание)) + ";" +
                             TrainTableRecords[i].ScheduleId + ";" +
                             TrainTableRecords[i].TrnId + ";" +
-                            TrainTableRecords[i].DenyAutoUpdate;
+                            TrainTableRecords[i].TieTrainId + ";" +
+                            TrainTableRecords[i].DenyAutoUpdate + ";" +
+                            TrainTableRecords[i].TimetableType;
 
                         DumpFile.WriteLine(line);
                     }

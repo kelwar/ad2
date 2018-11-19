@@ -38,3 +38,15 @@ D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Do
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Domain\bin\Release\NLog.config
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Domain\bin\Release\Library.dll
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20180526\Autodictor-master\src\Domain\bin\Release\Library.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\bin\Release\NLog.config
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\bin\Release\Domain.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\bin\Release\Domain.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\bin\Release\Library.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\bin\Release\LiteDB.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\bin\Release\NLog.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\bin\Release\Library.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\bin\Release\LiteDB.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\bin\Release\NLog.xml
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\obj\Release\Domain.dll
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain\obj\Release\Domain.pdb

@@ -275,6 +275,7 @@ namespace MainExample.Mappers
                 }
 
                 record.СписокНештатныхСообщений = new List<СостояниеФормируемогоСообщенияИШаблон>();
+                record.TimetableType = config.TimetableType;
                 record.AplyIdTrain();
             }
             catch (Exception ex)
@@ -392,7 +393,8 @@ namespace MainExample.Mappers
                     AdditionEng = t.AdditionEng,
                     SendingDataLimit = t.IsScoreBoardOutput,
                     Command = Command.None,
-                    EmergencySituation = 0x00
+                    EmergencySituation = 0x00,
+                    TimetableType = t.TimetableType
                 };
             }
             catch (Exception ex)
@@ -504,6 +506,7 @@ namespace MainExample.Mappers
                     {
                         ["Composition"] = data.Composition
                     },
+                    TimetableType = data.TimetableType
                 };
 
                 if (!isShow || data.СостояниеОтображения != TableRecordStatus.Очистка)
@@ -587,6 +590,7 @@ namespace MainExample.Mappers
                 Composition = data.Composition,
                 IsDisplayOnBoard = data.ВыводНаТабло,
                 IsPlaySound = data.ВыводЗвука,
+                TimetableType = data.TimetableType
                 //СписокНештатныхСообщений = data.СписокНештатныхСообщений.Select(СостояниеФормируемогоСообщенияИШаблон2СостояниеФормируемогоСообщенияИШаблонDb).ToList()
             };
         }
@@ -647,6 +651,7 @@ namespace MainExample.Mappers
                 Composition = data.Composition,
                 ВыводНаТабло = data.IsDisplayOnBoard,
                 ВыводЗвука = data.IsPlaySound,
+                TimetableType = data.TimetableType
                 //СписокНештатныхСообщений = data.СписокНештатныхСообщений.Select(СостояниеФормируемогоСообщенияИШаблонDb2СостояниеФормируемогоСообщенияИШаблон).ToList()
             };
         }

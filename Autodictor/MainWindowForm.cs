@@ -27,6 +27,7 @@ using MainExample.Services.GetDataService;
 using MoreLinq;
 using Timer = System.Timers.Timer;
 using CommunicationDevices.Model;
+using Domain.Entitys.Train;
 
 namespace MainExample
 {
@@ -87,6 +88,7 @@ namespace MainExample
 
         public DateTime ActualArrivalTime { get; set; }
         public DateTime ActualDepartureTime { get; set; }
+        public TimetableType TimetableType { get; set; }
 
         public Composition Composition
         {

@@ -6,6 +6,7 @@ using System.Windows.Forms;
 using Domain.Entitys;
 using MainExample.Entites;
 using Library;
+using Domain.Entitys.Train;
 
 namespace MainExample
 {
@@ -234,6 +235,17 @@ namespace MainExample
             else
             {
                 rBНеОповещать.Checked = true;
+            }
+
+            cbTimetableType.DisplayMember = "Text";
+            cbTimetableType.ValueMember = "Value";
+
+            foreach (var item in Enum.GetValues(typeof(TimetableType)))
+            {
+                var timetableTypeItemList = new TimetableTypeItemList((TimetableType)item);
+                cbTimetableType.Items.Add(timetableTypeItemList);
+                if ((TimetableType)item == расписаниеПоезда.TimetableType)
+                    cbTimetableType.SelectedItem = timetableTypeItemList;
             }
         }
 
@@ -530,6 +542,7 @@ namespace MainExample
             РасписаниеПоезда.DaysAliasEng = tb_DaysFollowingEng.Text;
 
             РасписаниеПоезда.TieTrainId = tieTrain.ID;
+            РасписаниеПоезда.TimetableType = ((TimetableTypeItemList)cbTimetableType.SelectedItem).Value;
             DialogResult = DialogResult.OK;
         }
 
@@ -788,5 +801,17 @@ namespace MainExample
         }
 
         #endregion
+
+        public class TimetableTypeItemList
+        {
+            public string Text { get; }
+            public TimetableType Value { get; }
+
+            public TimetableTypeItemList(TimetableType value)
+            {
+                Value = value;
+                Text = Value.ToStringTimetableType();
+            }
+        }
     }
 }

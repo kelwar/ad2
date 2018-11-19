@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.Entitys.Train;
+using System;
 using System.Collections.Generic;
 
 namespace Domain.Entitys
@@ -94,5 +95,6 @@ namespace Domain.Entitys
         public Composition Composition { get; set; }                        // Состав поезда
         public bool IsDisplayOnBoard { get; set; }
         public bool IsPlaySound { get; set; }
+        public TimetableType TimetableType { get; set; }
     }
 }

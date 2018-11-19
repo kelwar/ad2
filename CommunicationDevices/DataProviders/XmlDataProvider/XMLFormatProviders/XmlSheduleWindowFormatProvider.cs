@@ -243,8 +243,9 @@ namespace CommunicationDevices.DataProviders.XmlDataProvider.XMLFormatProviders
                     new XElement("Addition", uit.Addition),
                     new XElement("AdditionEng", uit.AdditionEng),
                     new XElement("Note", uit.Note),
-                    new XElement("NoteEng", uit.NoteEng)
-                    ));
+                    new XElement("NoteEng", uit.NoteEng),
+                    new XElement("TimetableType", uit.TimetableType)
+                ));
             }
 
 

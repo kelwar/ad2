@@ -122,6 +122,8 @@
             this.cbDenyAutoUpdate = new System.Windows.Forms.CheckBox();
             this.lblTieTrains = new System.Windows.Forms.Label();
             this.cmbTieTrains = new System.Windows.Forms.ComboBox();
+            this.lblTimetableType = new System.Windows.Forms.Label();
+            this.cbTimetableType = new System.Windows.Forms.ComboBox();
             this.gBНаправление.SuspendLayout();
             this.gBОстановки.SuspendLayout();
             this.gBДниСледования.SuspendLayout();
@@ -400,16 +402,17 @@
             this.gBОстановки.Controls.Add(this.rBНеОповещать);
             this.gBОстановки.Location = new System.Drawing.Point(581, 11);
             this.gBОстановки.Name = "gBОстановки";
-            this.gBОстановки.Size = new System.Drawing.Size(533, 293);
+            this.gBОстановки.Size = new System.Drawing.Size(533, 258);
             this.gBОстановки.TabIndex = 49;
             this.gBОстановки.TabStop = false;
             this.gBОстановки.Text = "Остановки";
             // 
             // btnРедактировать
             // 
-            this.btnРедактировать.Location = new System.Drawing.Point(15, 239);
+            this.btnРедактировать.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnРедактировать.Location = new System.Drawing.Point(6, 204);
             this.btnРедактировать.Name = "btnРедактировать";
-            this.btnРедактировать.Size = new System.Drawing.Size(186, 45);
+            this.btnРедактировать.Size = new System.Drawing.Size(201, 48);
             this.btnРедактировать.TabIndex = 50;
             this.btnРедактировать.Text = "Редактировать";
             this.btnРедактировать.UseVisualStyleBackColor = true;
@@ -417,14 +420,15 @@
             // 
             // lVСписокСтанций
             // 
+            this.lVСписокСтанций.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.lVСписокСтанций.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.columnHeader1});
             this.lVСписокСтанций.FullRowSelect = true;
             this.lVСписокСтанций.GridLines = true;
             this.lVСписокСтанций.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.None;
-            this.lVСписокСтанций.Location = new System.Drawing.Point(213, 14);
+            this.lVСписокСтанций.Location = new System.Drawing.Point(213, 25);
             this.lVСписокСтанций.Name = "lVСписокСтанций";
-            this.lVСписокСтанций.Size = new System.Drawing.Size(308, 270);
+            this.lVСписокСтанций.Size = new System.Drawing.Size(308, 227);
             this.lVСписокСтанций.TabIndex = 49;
             this.lVСписокСтанций.UseCompatibleStateImageBehavior = false;
             this.lVСписокСтанций.View = System.Windows.Forms.View.Details;
@@ -1129,11 +1133,31 @@
             this.cmbTieTrains.TabIndex = 67;
             this.cmbTieTrains.SelectedIndexChanged += new System.EventHandler(this.cmbTieTrains_SelectedIndexChanged);
             // 
+            // lblTimetableType
+            // 
+            this.lblTimetableType.AutoSize = true;
+            this.lblTimetableType.Location = new System.Drawing.Point(737, 279);
+            this.lblTimetableType.Name = "lblTimetableType";
+            this.lblTimetableType.Size = new System.Drawing.Size(147, 20);
+            this.lblTimetableType.TabIndex = 68;
+            this.lblTimetableType.Text = "Тип расписания:";
+            // 
+            // cbTimetableType
+            // 
+            this.cbTimetableType.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbTimetableType.FormattingEnabled = true;
+            this.cbTimetableType.Location = new System.Drawing.Point(890, 276);
+            this.cbTimetableType.Name = "cbTimetableType";
+            this.cbTimetableType.Size = new System.Drawing.Size(224, 28);
+            this.cbTimetableType.TabIndex = 69;
+            // 
             // Оповещение
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1395, 712);
+            this.Controls.Add(this.cbTimetableType);
+            this.Controls.Add(this.lblTimetableType);
             this.Controls.Add(this.cmbTieTrains);
             this.Controls.Add(this.lblTieTrains);
             this.Controls.Add(this.lblAdditionRus);
@@ -1287,5 +1311,7 @@
         public System.Windows.Forms.CheckBox cbDenyAutoUpdate;
         private System.Windows.Forms.Label lblTieTrains;
         private System.Windows.Forms.ComboBox cmbTieTrains;
+        private System.Windows.Forms.Label lblTimetableType;
+        private System.Windows.Forms.ComboBox cbTimetableType;
     }
 }

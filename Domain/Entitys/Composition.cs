@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using NLog;
 using Domain.Entitys.Authentication;
 using System.ComponentModel;
+using Domain.Entitys.Train;
 
 namespace Domain.Entitys
 {
@@ -21,7 +22,7 @@ namespace Domain.Entitys
     }
     public static class CarNumberingExtensions
     {
-        public static string ToStringX(this Enum enumerate)
+        public static string ToStringCarNumbering(this Enum enumerate)
         {
             var type = enumerate.GetType();
             var fieldInfo = type.GetField(enumerate.ToString());
@@ -272,7 +273,7 @@ namespace Domain.Entitys
             {
                 result += $"Информация о вагонах отсутствует. ";
             }
-            result += $"Нумерация: {CarNumbering.ToStringX()}";
+            result += $"Нумерация: {CarNumbering.ToStringCarNumbering()}";
 
             return result;
         }

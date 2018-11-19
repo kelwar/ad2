@@ -42,3 +42,4 @@ D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain.UnitTests\bin
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain.UnitTests\obj\Debug\Domain.UnitTests.csprojResolveAssemblyReference.cache
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain.UnitTests\obj\Debug\Domain.UnitTests.dll
 D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain.UnitTests\obj\Debug\Domain.UnitTests.pdb
+D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Domain.UnitTests\bin\Debug\NLog.config

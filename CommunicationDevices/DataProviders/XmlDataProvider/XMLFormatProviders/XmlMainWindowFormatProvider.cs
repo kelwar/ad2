@@ -358,7 +358,8 @@ namespace CommunicationDevices.DataProviders.XmlDataProvider.XMLFormatProviders
                             new XElement("UslDlPerrona", track?.Platform?.Length ?? 0),
                             new XElement("PlatWhereFrom", track?.Platform?.WhereFrom?.NameRu ?? string.Empty),
                             new XElement("PlatWhereTo", track?.Platform?.WhereTo?.NameRu ?? string.Empty),
-                            new XElement("Sectors", xSectors)
+                            new XElement("Sectors", xSectors),
+                            new XElement("TimetableType", uit.TimetableType)
                         ));
                 }
                 catch (Exception ex)

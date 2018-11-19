@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Domain.Entitys;
 using MoreLinq;
-
-
+using Domain.Entitys.Train;
 
 namespace CommunicationDevices.DataProviders
 {
@@ -90,6 +89,7 @@ namespace CommunicationDevices.DataProviders
 
         public Dictionary<string, dynamic> ViewBag { get; set; }     //Не типизированный контейнер для передачи любых данных
         public InDataType InDataType { get; set; }                   // Тип входящих данных: поезда, пользователи или вагоны
+        public TimetableType TimetableType { get; set; }
 
 
 
