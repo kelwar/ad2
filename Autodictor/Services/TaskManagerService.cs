@@ -40,7 +40,7 @@ namespace MainExample.Services
             int количествоПопыток = 0;
             while (количествоПопыток++ < 60)
             {
-                var key = taskSound.Время.ToString("yy.MM.dd  HH:mm:ss");
+                var key = taskSound.Время.ToString(MainWindowForm.DATETIME_KEYFORMAT);
                 string[] parts = key.Split(':');
                 if (parts[0].Length == 1) key = "0" + key;
 

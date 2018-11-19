@@ -569,6 +569,13 @@ namespace MainExample
         
         private void добавитьВнештатныйПоездToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //if (MainWindowForm.myMainForm == null)
+            //{
+            //    MessageBox.Show($"Основное окно закрыто. Откройте Основное окно в пункте меню Расписание -> Основное окно", $"Ошибка добавления поезда",
+            //                    MessageBoxButtons.OK, MessageBoxIcon.Hand);
+            //    return;
+            //}
+
             //проверка ДОСТУПА
             if (!autenServ.CheckRoleAcsess(new List<Role> { Role.Администратор, Role.Диктор, Role.Инженер }))
             {
@@ -588,7 +595,7 @@ namespace MainExample
 
                 if (!string.IsNullOrEmpty(newkey))
                 {
-                    record.Время = DateTime.ParseExact(newkey, "yy.MM.dd  HH:mm:ss", new DateTimeFormatInfo());
+                    record.Время = DateTime.ParseExact(newkey, MainWindowForm.DATETIME_KEYFORMAT, new DateTimeFormatInfo());
 
                     lock (MainWindowForm.SoundRecords_Lock)
                     {

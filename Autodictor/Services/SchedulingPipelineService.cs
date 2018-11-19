@@ -80,7 +80,7 @@ namespace MainExample.Services
             int tryCounter = 50;
             while (--tryCounter > 0)
             {
-                string key = addingKey.ToString("yy.MM.dd  HH:mm:ss");
+                string key = addingKey.ToString(MainWindowForm.DATETIME_KEYFORMAT);
 
                 if (!currentKeys.Contains(key))
                 {

@@ -192,6 +192,8 @@ namespace MainExample
     {
         #region Fields
 
+        public const string DATETIME_KEYFORMAT = "yy.MM.dd  HH:mm:ss";
+
         public static SortedDictionary<string, SoundRecord> SoundRecords = new SortedDictionary<string, SoundRecord>();
         public static SortedDictionary<string, SoundRecord> SoundRecordsOld = new SortedDictionary<string, SoundRecord>();
         public static SortedDictionary<string, СтатическоеСообщение> СтатическиеЗвуковыеСообщения = new SortedDictionary<string, СтатическоеСообщение>();
@@ -208,7 +210,6 @@ namespace MainExample
         public int ВремяЗадержкиМеждуСообщениями = 0;
 
         private const int ВремяЗадержкиВоспроизведенныхСобытий = 20;  //сек
-
         private readonly Timer _timerSoundHandler = new Timer(100);
 
         private bool РазрешениеРаботы = true;
@@ -452,7 +453,7 @@ namespace MainExample
                                                                             ((r.Value.СтанцияОтправления != ExchangeModel.NameRailwayStation.NameRu && r.Value.СтанцияОтправления == record.СтанцияОтправления) ||
                                                                             (r.Value.СтанцияНазначения != ExchangeModel.NameRailwayStation.NameRu && r.Value.СтанцияНазначения == record.СтанцияНазначения)))))
                 {
-                    record.Время = DateTime.ParseExact(newkey, "yy.MM.dd  HH:mm:ss", new DateTimeFormatInfo());
+                    record.Время = DateTime.ParseExact(newkey, DATETIME_KEYFORMAT, new DateTimeFormatInfo());
                     lock (SoundRecords_Lock)
                     {
                         SoundRecords.Add(newkey, record);
@@ -475,7 +476,7 @@ namespace MainExample
             {
                 if ((src.NewRec.БитыНештатныхСитуаций & 0x0F) != 0x00 && (src.NewRec.БитыНештатныхСитуаций & 0x01) == 0x00 && src.NewRec.ОжидаемоеВремя.Date >= DateTime.Now.Date)
                 {
-                    var key = src.NewRec.Время.ToString("yy.MM.dd  HH:mm:ss");
+                    var key = src.NewRec.Время.ToString(DATETIME_KEYFORMAT);
                     var rec = ЗаполнениеСпискаНештатныхСитуаций(src.NewRec, key);
                     rec.ВыводЗвука = true;
                     if (!SoundRecords.ContainsKey(key))
@@ -502,7 +503,7 @@ namespace MainExample
                                                                                                            //!SoundRecords.ContainsKey(new SchedulingPipelineService().GetUniqueKey(SoundRecords.Keys, f.Rec.Время)))));
                 if (change != null)
                 {
-                    var keyOld = rec.Время.ToString("yy.MM.dd  HH:mm:ss");
+                    var keyOld = rec.Время.ToString(DATETIME_KEYFORMAT);
 
                     lock (SoundRecords_Lock)
                     {
@@ -510,7 +511,7 @@ namespace MainExample
                     }
                     SoundRecordsOld.Remove(keyOld);
 
-                    var keyNew = change.NewRec.Время.ToString("yy.MM.dd  HH:mm:ss");
+                    var keyNew = change.NewRec.Время.ToString(DATETIME_KEYFORMAT);
                     ПрименениеЗагруженныхИзменений(rec, change.NewRec, keyNew);
                     ФлагОбновитьСписокЖелезнодорожныхСообщенийВТаблице = true;
                 }
@@ -592,9 +593,9 @@ namespace MainExample
 
                 //примем изменения
                 данные = ИзменениеДанныхВКарточке(старыеДанные, данные, key);
-                if (DateTime.ParseExact(key, "yy.MM.dd  HH:mm:ss", new DateTimeFormatInfo()) != данные.Время)
+                if (DateTime.ParseExact(key, DATETIME_KEYFORMAT, new DateTimeFormatInfo()) != данные.Время)
                 {
-                    key = данные.Время.ToString("yy.MM.dd  HH:mm:ss");
+                    key = данные.Время.ToString(DATETIME_KEYFORMAT);
                     listView.Items[item].SubItems[0].Text = key;
                 }
 
@@ -717,7 +718,7 @@ namespace MainExample
                 данные.Время = ((данные.БитыАктивностиПолей & 0x10) == 0x10 ||
                                 (данные.БитыАктивностиПолей & 0x14) == 0x14) ? данные.ВремяОтправления : данные.ВремяПрибытия;
 
-                var keyOld = старыеДанные.Время.ToString("yy.MM.dd  HH:mm:ss");
+                var keyOld = старыеДанные.Время.ToString(DATETIME_KEYFORMAT);
                 lock (SoundRecords_Lock)
                 {
                     SoundRecords.Remove(keyOld);           //удалим старую запись
@@ -730,7 +731,7 @@ namespace MainExample
 
                 if (!string.IsNullOrEmpty(newkey))
                 {
-                    данные.Время = DateTime.ParseExact(newkey, "yy.MM.dd  HH:mm:ss", new DateTimeFormatInfo());
+                    данные.Время = DateTime.ParseExact(newkey, DATETIME_KEYFORMAT, new DateTimeFormatInfo());
 
                     lock (SoundRecords_Lock)
                     {
@@ -805,8 +806,8 @@ namespace MainExample
         {
             var данные = soundRecordChanges.NewRec;
             var старыеДанные = soundRecordChanges.Rec;
-            string key = данные.Время.ToString("yy.MM.dd  HH:mm:ss");
-            string keyOld = старыеДанные.Время.ToString("yy.MM.dd  HH:mm:ss");
+            string key = данные.Время.ToString(DATETIME_KEYFORMAT);
+            string keyOld = старыеДанные.Время.ToString(DATETIME_KEYFORMAT);
 
             //DEBUG------------------------------------------------------
             //var str = $"N= {данные.НомерПоезда}  Путь= {данные.НомерПути}  Время отпр={данные.ВремяОтправления:g}   Время приб={данные.ВремяПрибытия:g}  Ст.Приб {данные.СтанцияНазначения}   Ст.Отпр {данные.СтанцияОтправления}  key = {key}  keyOld= {keyOld}";
@@ -846,7 +847,7 @@ namespace MainExample
                     if ((Данные.Value.БитыАктивностиПолей & 0x10) != 0x00) ВремяОтправления = Данные.Value.ВремяОтправления.ToString("HH:mm");
 
                     //var track = Данные.Value.Track?.ToString() ?? string.Empty;
-                    ListViewItem lvi1 = new ListViewItem(new string[] {Данные.Value.Время.ToString("yy.MM.dd  HH:mm:ss"),
+                    ListViewItem lvi1 = new ListViewItem(new string[] {Данные.Value.Время.ToString(DATETIME_KEYFORMAT),
                                                                        Данные.Value.НомерПоезда.Replace(':', ' '),
                                                                        Данные.Value.НомерПути,
                                                                        Данные.Value.НазваниеПоезда,
@@ -860,7 +861,7 @@ namespace MainExample
 
                     if ((Данные.Value.БитыАктивностиПолей & 0x14) == 0x04)
                     {
-                        ListViewItem lvi2 = new ListViewItem(new string[] {Данные.Value.Время.ToString("yy.MM.dd  HH:mm:ss"),
+                        ListViewItem lvi2 = new ListViewItem(new string[] {Данные.Value.Время.ToString(DATETIME_KEYFORMAT),
                                                                        Данные.Value.НомерПоезда.Replace(':', ' '),
                                                                        Данные.Value.НомерПути,
                                                                        ВремяПрибытия,
@@ -873,7 +874,7 @@ namespace MainExample
 
                     if ((Данные.Value.БитыАктивностиПолей & 0x14) == 0x14)
                     {
-                        ListViewItem lvi3 = new ListViewItem(new string[] {Данные.Value.Время.ToString("yy.MM.dd  HH:mm:ss"),
+                        ListViewItem lvi3 = new ListViewItem(new string[] {Данные.Value.Время.ToString(DATETIME_KEYFORMAT),
                                                                        Данные.Value.НомерПоезда.Replace(':', ' '),
                                                                        Данные.Value.НомерПути,
                                                                        ВремяПрибытия,
@@ -887,7 +888,7 @@ namespace MainExample
 
                     if ((Данные.Value.БитыАктивностиПолей & 0x14) == 0x10)
                     {
-                        ListViewItem lvi4 = new ListViewItem(new string[] {Данные.Value.Время.ToString("yy.MM.dd  HH:mm:ss"),
+                        ListViewItem lvi4 = new ListViewItem(new string[] {Данные.Value.Время.ToString(DATETIME_KEYFORMAT),
                                                                        Данные.Value.НомерПоезда.Replace(':', ' '),
                                                                        Данные.Value.НомерПути,
                                                                        ВремяОтправления,
@@ -1227,7 +1228,7 @@ namespace MainExample
                         int попыткиВставитьСообщение = 5;
                         while (попыткиВставитьСообщение-- > 0)
                         {
-                            string Key = statRecord.Время.ToString("yy.MM.dd  HH:mm:ss");
+                            string Key = statRecord.Время.ToString(DATETIME_KEYFORMAT);
                             string[] SubKeys = Key.Split(':');
                             if (SubKeys[0].Length == 1)
                                 Key = "0" + Key;
@@ -1369,7 +1370,7 @@ namespace MainExample
             {
                 if (НомерСтроки >= lVСтатическиеСообщения.Items.Count)
                 {
-                    ListViewItem lvi1 = new ListViewItem(new string[] {Данные.Value.Время.ToString("yy.MM.dd  HH:mm:ss"),
+                    ListViewItem lvi1 = new ListViewItem(new string[] {Данные.Value.Время.ToString(DATETIME_KEYFORMAT),
                                                                        Данные.Value.НазваниеКомпозиции });
                     lvi1.Tag = НомерСтроки;
                     lvi1.Checked = Данные.Value.Активность;
@@ -1377,8 +1378,8 @@ namespace MainExample
                 }
                 else
                 {
-                    if (lVСтатическиеСообщения.Items[НомерСтроки].SubItems[0].Text != Данные.Value.Время.ToString("yy.MM.dd  HH:mm:ss"))
-                        lVСтатическиеСообщения.Items[НомерСтроки].SubItems[0].Text = Данные.Value.Время.ToString("yy.MM.dd  HH:mm:ss");
+                    if (lVСтатическиеСообщения.Items[НомерСтроки].SubItems[0].Text != Данные.Value.Время.ToString(DATETIME_KEYFORMAT))
+                        lVСтатическиеСообщения.Items[НомерСтроки].SubItems[0].Text = Данные.Value.Время.ToString(DATETIME_KEYFORMAT);
                     if (lVСтатическиеСообщения.Items[НомерСтроки].SubItems[1].Text != Данные.Value.НазваниеКомпозиции)
                         lVСтатическиеСообщения.Items[НомерСтроки].SubItems[1].Text = Данные.Value.НазваниеКомпозиции;
                 }
@@ -3312,7 +3313,7 @@ namespace MainExample
                             {
                                 Данные = Карточка.ПолучитьИзмененнуюКарточку();
 
-                                string Key2 = Данные.Время.ToString("yy.MM.dd  HH:mm:ss");
+                                string Key2 = Данные.Время.ToString(DATETIME_KEYFORMAT);
                                 string[] SubKeys = Key.Split(':');
                                 if (SubKeys[0].Length == 1)
                                     Key2 = "0" + Key2;
@@ -3329,7 +3330,7 @@ namespace MainExample
                                     int ПопыткиВставитьСообщение = 5;
                                     while (ПопыткиВставитьСообщение-- > 0)
                                     {
-                                        Key2 = Данные.Время.ToString("yy.MM.dd  HH:mm:ss");
+                                        Key2 = Данные.Время.ToString(DATETIME_KEYFORMAT);
                                         SubKeys = Key2.Split(':');
                                         if (SubKeys[0].Length == 1)
                                             Key2 = "0" + Key2;
@@ -3787,7 +3788,7 @@ namespace MainExample
                             {
                                 Данные = Карточка.ПолучитьИзмененнуюКарточку();
 
-                                string Key2 = Данные.Время.ToString("yy.MM.dd  HH:mm:ss");
+                                string Key2 = Данные.Время.ToString(DATETIME_KEYFORMAT);
                                 string[] SubKeys = Key.Split(':');
                                 if (SubKeys[0].Length == 1)
                                     Key2 = "0" + Key2;
@@ -3810,7 +3811,7 @@ namespace MainExample
                                     int ПопыткиВставитьСообщение = 5;
                                     while (ПопыткиВставитьСообщение-- > 0)
                                     {
-                                        Key2 = Данные.Время.ToString("yy.MM.dd  HH:mm:ss");
+                                        Key2 = Данные.Время.ToString(DATETIME_KEYFORMAT);
                                         SubKeys = Key2.Split(':');
                                         if (SubKeys[0].Length == 1)
                                             Key2 = "0" + Key2;
