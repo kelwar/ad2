@@ -299,7 +299,7 @@
                    ContentEncoding: gzip +
 					Accept: text/html, */* +
 					Connection: Keep-Alive'
-               />-->
+               />--><!--
 	 <DeviceHttp Id="309" Name="HttpTable" Address="http://31.220.168.162/dispatcher/server/api/adIn/" TimeRespone="30000" Description="к диспетчеру" 
   Binding="ToGeneral:Диспетчерская" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр" Period="10000" ProviderType="xml_dispatcher:sortable"  
                 Headers='Method:POST + 
@@ -323,7 +323,7 @@
                    ContentEncoding: gzip +
 					Accept: text/html, */* +
 					Connection: Keep-Alive'
-               /><!--
+               />--><!--
 	<DeviceHttp Id="311" Name="HttpTable" Address="http://31.220.168.162/dispatcher/server/api/adChanges/" Period="10000" TimeRespone="3000" Description="Данные изменений" Binding="ToChangeEvent:" ProviderType="xml_change:linuxtimestamp" 
 	              Headers='Method:POST + 
 				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
@@ -331,15 +331,15 @@
 						   Connection: Keep-Alive +
 						   Content-Type: multipart/form-data +
 						   Content-Disposition: form-data; name="username"; filename="change"'
-						   />--><!--
-	 <DeviceHttp Id="302" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="1x2" Binding="ToGeneral:ГлавноеОкно" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокТаблицы:5;Пригородный+ПУТЬ:1приг,2приг,3приг,Не определен,;Ласточка+ПУТЬ:1приг,2приг,3приг,Не определен,;РЭКС+ПУТЬ:1приг,2приг,3приг,Не определен," ProviderType="xml_mainWindow:sortable"  
+						   />-->
+	 <DeviceHttp Id="302" Name="HttpTable" Address="http://localhost/server/handler.php" Period="5000" TimeRespone="3000" Description="1x2" Binding="ToGeneral:ОкноРасписания" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокТаблицы:5;Пригородный+ПУТЬ:1приг,2приг,3приг,Не определен,;Ласточка+ПУТЬ:1приг,2приг,3приг,Не определен,;РЭКС+ПУТЬ:1приг,2приг,3приг,Не определен," ProviderType="xml_mainWindow:sortable"  
 	              Headers='Method:POST + 
 				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
 						   Accept: text/html, */* +
 						   Connection: Keep-Alive +
 						   Content-Type: multipart/form-data +
 						   Content-Disposition: form-data; name="username"; filename="vlg_1x2.xml"'
-						   />
+						   /><!--
 	 <DeviceHttp Id="303" Name="HttpTable" Address="http://127.0.0.1/server/handler.php" Period="5000" TimeRespone="3000" Description="1x2 Пригород" Binding="ToGeneral:ГлавноеОкно" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр;ЛимитСтрокТаблицы:5;Скоростной;Фирменный;Скорый;Пассажирский" ProviderType="xml_mainWindow:sortable"  
 	              Headers='Method:POST + 
 				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +

@@ -456,7 +456,7 @@ namespace MainExample
                     if (данные != null)
                     {
                         TrainSheduleTable.TrainTableRecords[i] = данные.Value;
-                        var tieRec = TrainSheduleTable.TrainTableRecords.FirstOrDefault(tr => tr.ID == данные.Value.TieTrainId);
+                        var tieRec = TrainSheduleTable.TrainTableRecords.FirstOrDefault(tr => tr.ID != 0 && tr.ID == данные.Value.TieTrainId);
                         var index = TrainSheduleTable.TrainTableRecords.IndexOf(tieRec);
                         if (index >= 0 && index < TrainSheduleTable.TrainTableRecords.Count)
                         {

@@ -195,6 +195,7 @@
     <Compile Include="Services\GetDataService\GetSheduleApkDk.cs" />
     <Compile Include="Services\GetDataService\GetSheduleAbstract.cs" />
     <Compile Include="Services\SoundRecordPreprocessingService.cs" />
+    <Compile Include="SoundManager.cs" />
     <Compile Include="SoundPlayersForm.cs">
       <SubType>Form</SubType>
     </Compile>
