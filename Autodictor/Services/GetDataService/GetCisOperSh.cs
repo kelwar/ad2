@@ -281,8 +281,12 @@ namespace MainExample.Services.GetDataService
                                                              uit.ViewBag["ScheduleStartDateTime"] : DateTime.MinValue;
                     tableRec.ВремяОкончанияДействияРасписания = uit.ViewBag.ContainsKey("ScheduleEndDateTime") ?
                                                              uit.ViewBag["ScheduleEndDateTime"] : DateTime.MinValue;
-                    tableRec.Addition = uit.Addition ?? string.Empty;
-                    tableRec.AdditionEng = uit.AdditionEng ?? string.Empty;
+                    tableRec.Addition = !string.IsNullOrWhiteSpace(uit.Addition) ? 
+                                        uit.Addition : 
+                                        uit.TypeTrain == TypeTrain.Swallow && codeEsr == 6007 ? "ЛАСТОЧКА" : string.Empty;
+                    tableRec.AdditionEng = !string.IsNullOrWhiteSpace(uit.AdditionEng) ?
+                                        uit.AdditionEng :
+                                        uit.TypeTrain == TypeTrain.Swallow && codeEsr == 6007 ? "LASTOCHKA" : string.Empty;
 
                     tableRec.TrainPathNumber = new Dictionary<WeekDays, string>
                     {
@@ -407,7 +411,12 @@ namespace MainExample.Services.GetDataService
         {
             try
             {
-                tableRec.Addition = uit.Addition ?? string.Empty;
+                tableRec.Addition = !string.IsNullOrWhiteSpace(uit.Addition) ?
+                                    uit.Addition :
+                                    uit.TypeTrain == TypeTrain.Swallow && codeEsr == 6007 ? "ЛАСТОЧКА" : string.Empty;
+                tableRec.AdditionEng = !string.IsNullOrWhiteSpace(uit.AdditionEng) ?
+                                    uit.AdditionEng :
+                                    uit.TypeTrain == TypeTrain.Swallow && codeEsr == 6007 ? "LASTOCHKA" : string.Empty;
                 //uit.StationDeparture = Program.DirectionService.GetStationByCode(uit.StationDeparture.CodeEsr, uit.StationDeparture.CodeExpress);
                 //uit.StationArrival = Program.DirectionService.GetStationByCode(uit.StationArrival.CodeEsr, uit.StationArrival.CodeExpress);
 
@@ -587,8 +596,8 @@ namespace MainExample.Services.GetDataService
             else
             {
                 temp = codeEsr != 6007 ? 
-                    tableRec.Num.Length < 4 ? GetStringDepartureTemplate(resultTemplates) : GetStringLocalTrainDepartureTemplate(resultTemplates) : 
-                    GetStringDepartureTemplateOld(resultTemplates);
+                    tableRec.Num.Length < 4 ? GetStringDepartureTemplate(resultTemplates) : GetStringLocalTrainDepartureTemplate(resultTemplates) :
+                    tableRec.Num.Length < 4 ? GetStringDepartureTemplateOld(resultTemplates) : GetStringLocalTrainDepartureTemplateOld(resultTemplates);
             }
             return temp;
         }
@@ -920,6 +929,27 @@ namespace MainExample.Services.GetDataService
                     str += $"{template}:-5:1:";
                 }
                 else if (s.Contains("заканчивается посадка"))
+                {
+                    str += $"{template}:-2:1";
+                }
+            }
+            return str;
+        }
+        private static string GetStringLocalTrainDepartureTemplateOld(IEnumerable<string> collection)
+        {
+            var str = string.Empty;
+            foreach (var template in collection)
+            {
+                var s = template.ToLower();
+                if (s.Contains("будет подан под посадку"))
+                {
+                    str += $"{template}:-20:1:";
+                }
+                else if (s.Contains("продолжается посадка"))
+                {
+                    str += $"{template}:-15,-10,-5:1:";
+                }
+                else if (s.Contains("заканчивается посадка") && !s.Contains("5 минут"))
                 {
                     str += $"{template}:-2:1";
                 }

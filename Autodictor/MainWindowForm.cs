@@ -208,7 +208,7 @@ namespace MainExample
         public static bool ФлагОбновитьСписокЖелезнодорожныхСообщенийПоДнюНедели = false;
         public static bool ФлагОбновитьСписокЖелезнодорожныхСообщенийВТаблице = false;
 
-        public TaskManagerService TaskManager = new TaskManagerService();
+        //public TaskManagerService TaskManager = new TaskManagerService();
         public int ВремяЗадержкиМеждуСообщениями = 0;
 
         private const int ВремяЗадержкиВоспроизведенныхСобытий = 20;  //сек
@@ -1245,7 +1245,7 @@ namespace MainExample
         public void lVСобытия_ОбновитьСостояниеТаблицы()
         {
             int НомерСтроки = 0;
-            foreach (var taskSound in TaskManager.Tasks)
+            foreach (var taskSound in SoundManager.TaskManager.Tasks)
             {
                 if (НомерСтроки >= lVСобытия.Items.Count)
                 {
@@ -1287,7 +1287,7 @@ namespace MainExample
 
         public void ОтобразитьСубтитры()
         {
-            var subtaitles = TaskManager.GetElements.FirstOrDefault(ev => ev.СостояниеСтроки == 4);
+            var subtaitles = SoundManager.TaskManager.GetElements.FirstOrDefault(ev => ev.СостояниеСтроки == 4);
             if (subtaitles != null && subtaitles.СостояниеСтроки == 4)
             {
                 if (subtaitles.НомерСписка == 1) //статические звуковые сообщения
@@ -2253,9 +2253,9 @@ namespace MainExample
             try
             {
                 string Key = lVСобытия.SelectedItems[0].SubItems[0].Text;
-                if (TaskManager.Tasks.ContainsKey(Key))
+                if (SoundManager.TaskManager.Tasks.ContainsKey(Key))
                 {
-                    var данныеСтроки = TaskManager.Tasks[Key];
+                    var данныеСтроки = SoundManager.TaskManager.Tasks[Key];
                     if (данныеСтроки.НомерСписка == 1)
                     {
                         Key = данныеСтроки.Ключ;

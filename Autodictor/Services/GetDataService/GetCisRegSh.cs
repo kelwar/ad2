@@ -244,6 +244,31 @@ namespace MainExample.Services.GetDataService
                                     DateTime date;
                                     if (DateTime.TryParse(uit.DaysFollowing, out date))
                                     {
+                                        /*var trec = tableRecs.FirstOrDefault(tr => GetCisOperSh.IsContainsDate(tr, date));
+                                        if (!trec.Equals(default(TrainTableRecord)) &&
+                                            !TrainRecordAndUitCompare(trec, uit) && 
+                                            trec.ArrivalTime == TimeToString(uit, "приб") && 
+                                            trec.DepartureTime == TimeToString(uit, "отпр"))
+                                        {
+                                            // Склеить несовпадающие станции поезда в одну через пробел
+                                        }
+                                        else if (TrainRecordAndUitCompare(trec, uit))
+                                        {
+                                            tableRecords[tableRecords.IndexOf(trec)] = GetCisOperSh.UpdateData(trec, uit, _baseGetDataBehavior.ThisStation.CodeEsr);
+                                        }
+                                        else if (trec.Equals(default(TrainTableRecord)) &&
+                                            !TrainRecordAndUitCompare(trec, uit))
+                                        {
+                                            if (!IsCreateRecord(tableRecords, uit, _baseGetDataBehavior.ThisStation.CodeEsr))
+                                                continue;
+
+                                            tableRec = tableRecs.FirstOrDefault(tr => GetCisOperSh.IsContainsDate(tableRec, date));
+                                            if (!tableRec.Equals(default(TrainTableRecord)))
+                                            {
+                                                tableRecords[tableRecords.IndexOf(tableRec)] = GetCisOperSh.DeleteDateFromSchedule(tableRec, date);
+                                            }
+                                        }*/
+
                                         var tableRec = tableRecs.FirstOrDefault(tr => TrainRecordAndUitCompare(tr, uit));
                                         if (tableRec.Equals(default(TrainTableRecord)))
                                         {
@@ -316,21 +341,21 @@ namespace MainExample.Services.GetDataService
         {
             var startStation = uit.StationDeparture?.NameRu ?? string.Empty;
             var endStation = uit.StationArrival?.NameRu ?? string.Empty;
-            var arrivalTimeString = uit.TransitTime != null && uit.TransitTime.ContainsKey("приб") &&
-                                      uit.TransitTime["приб"] != DateTime.MinValue ?
-                                      uit.TransitTime["приб"].ToString("HH:mm") :
-                                      string.Empty;
-            var departureTimeString = uit.TransitTime != null && uit.TransitTime.ContainsKey("отпр") &&
-                                      uit.TransitTime["отпр"] != DateTime.MinValue ?
-                                      uit.TransitTime["отпр"].ToString("HH:mm") :
-                                      string.Empty;
 
             return tr.ScheduleId != 0 &&
                    tr.ScheduleId == uit.ScheduleId &&
                    tr.StationDepart == startStation &&
                    tr.StationArrival == endStation &&
-                   tr.ArrivalTime == arrivalTimeString &&
-                   tr.DepartureTime == departureTimeString;
+                   tr.ArrivalTime == TimeToString(uit, "приб") &&
+                   tr.DepartureTime == TimeToString(uit, "отпр");
+        }
+
+        private static string TimeToString(UniversalInputType uit, string moveEvent)
+        {
+            return uit.TransitTime != null && uit.TransitTime.ContainsKey(moveEvent) &&
+                                      uit.TransitTime[moveEvent] != DateTime.MinValue ?
+                                      uit.TransitTime[moveEvent].ToString("HH:mm") :
+                                      string.Empty;
         }
 
         /*private static void CreateOrUpdateTrainRecord(TrainTableRecord tableRec, List<TrainTableRecord> tableRecords, UniversalInputType uit, int codeEsr)
