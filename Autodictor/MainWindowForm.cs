@@ -213,8 +213,7 @@ namespace MainExample
 
         private const int ВремяЗадержкиВоспроизведенныхСобытий = 20;  //сек
         private readonly Timer _timerSoundHandler = new Timer(100);
-
-        private bool РазрешениеРаботы = true;
+        
         private bool ОбновлениеСписка = false;
         private int VisibleMode = 0;
         private int ТекущаяСекунда = 0;
@@ -1733,8 +1732,8 @@ namespace MainExample
                 return;
             }
 
-            РазрешениеРаботы = !РазрешениеРаботы;
-            if (РазрешениеРаботы == true)
+            SoundManager.РазрешениеРаботы = !SoundManager.РазрешениеРаботы;
+            if (SoundManager.РазрешениеРаботы == true)
             {
                 MainForm.Включить.Text = "ОТКЛЮЧИТЬ";
                 MainForm.Включить.BackColor = Color.LightGreen;

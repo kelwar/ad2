@@ -22,7 +22,7 @@ namespace MainExample
         public TaskManagerService TaskManager = new TaskManagerService();
 
         private const int ВремяЗадержкиВоспроизведенныхСобытий = 20;  //сек
-        private bool РазрешениеРаботы = true;
+        public bool РазрешениеРаботы { get; set; } = true;
 
         public void СозданиеСтатическихЗвуковыхФайлов()
         {

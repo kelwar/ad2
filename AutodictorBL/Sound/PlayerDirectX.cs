@@ -213,7 +213,7 @@ namespace AutodictorBL.Sound
             try
             {
                 var playTime = DateTime.MinValue;
-                var isPauses = false;
+                var betweenWordsPause = TimeSpan.MinValue;
                 while (tracks != null && tracks.Count > 0)
                 {
                     if (_trackToPlay == null || _trackToPlay.Disposed || (!_trackToPlay.Playing || _trackToPlay.CurrentPosition >= _trackToPlay.Duration))
@@ -221,8 +221,8 @@ namespace AutodictorBL.Sound
                         Dispose();
                         if (tracks.TryDequeue(out _trackToPlay) && _trackToPlay != null)
                         {
-                            if (!isPauses && playTime != DateTime.MinValue && DateTime.Now - playTime > TimeSpan.FromSeconds(1))
-                                isPauses = true;
+                            if (betweenWordsPause <= TimeSpan.FromSeconds(2) && playTime != DateTime.MinValue)
+                                betweenWordsPause = DateTime.Now - playTime;
 
                             _trackToPlay.Play();
                             playTime = DateTime.Now;
@@ -230,8 +230,8 @@ namespace AutodictorBL.Sound
                         }
                     }
                 }
-                if (isPauses)
-                    Library.Logs.Log.log.Warn($"Пауза между словами больше 1 секунды");
+                if (betweenWordsPause > TimeSpan.FromSeconds(2))
+                    Library.Logs.Log.log.Warn($"Пауза между словами (минуты:секунды) = {betweenWordsPause.ToString("mm\\:ss")}");
             }
             catch (Exception ex)
             {
