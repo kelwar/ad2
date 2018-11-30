@@ -9,6 +9,7 @@ using CommunicationDevices.Devices;
 using CommunicationDevices.Settings;
 using System.Reactive.Linq;
 using System.Threading.Tasks;
+using Library.Logs;
 
 namespace CommunicationDevices.Behavior.BindingBehavior.ToPath
 {
@@ -63,7 +64,8 @@ namespace CommunicationDevices.Behavior.BindingBehavior.ToPath
             }
         }
 
-        private async void OnNext(LangList langList)
+        //private async void OnNext(LangList langList)
+        private void OnNext(LangList langList)
         {
             var inData = new UniversalInputType
             {
@@ -74,7 +76,8 @@ namespace CommunicationDevices.Behavior.BindingBehavior.ToPath
 
             try
             {
-                await Task.Run(() => _device.ExhBehavior.AddOneTimeSendData(inData));
+                //await Task.Run(() => _device.ExhBehavior.AddOneTimeSendData(inData));
+                _device.ExhBehavior.AddOneTimeSendData(inData);
             }
             catch (Exception ex)
             {
@@ -245,7 +248,8 @@ namespace CommunicationDevices.Behavior.BindingBehavior.ToPath
             //inData.PathNumber = CollectionPathNumber?.First() ?? "   ";
             inData.Message = $"ПОЕЗД:{inData.NumberOfTrain}, ПУТЬ:{inData.PathNumber}, СОБЫТИЕ:{inData.Event}, СТАНЦИИ:{inData.Stations}, ВРЕМЯ:{inData.Time.ToShortTimeString()}";
 
-            _device.AddCycleFuncData(0, inData);
+            InitializePagingBuffer(inData, CheckContrains);
+            //_device.AddCycleFuncData(0, inData);
         }
 
         #region Disposable

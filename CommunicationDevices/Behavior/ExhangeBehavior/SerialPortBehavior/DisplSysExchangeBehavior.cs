@@ -72,7 +72,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                     // Log.log.Trace(""); //TODO: возможно передавать в InputData ID устройства и имя.
                 }
 
-                await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
+                //await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
             }
         }
 
@@ -123,7 +123,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                         // Log.log.Trace(""); //TODO: возможно передавать в InputData ID устройства и имя.
                     }
 
-                    await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
+                    //await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
                 }
             }
         }

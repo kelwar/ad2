@@ -99,10 +99,10 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.TcpIpBehavior
                                     // Log.log.Trace(""); //TODO: возможно передавать в InputData ID устройства и имя.
                                 }
 
-                                await Task.Delay(1000, Cts.Token); //задержка для задания периода опроса. 
+                                //await Task.Delay(1000, Cts.Token); //задержка для задания периода опроса. 
                             }
 
-                            await Task.Delay(InternalPeriodTimer);          //задержка отпроса след. устройства.
+                            //await Task.Delay(InternalPeriodTimer);          //задержка отпроса след. устройства.
                         }
                         return;
                     }
@@ -158,10 +158,10 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.TcpIpBehavior
                                     LastSendData = forTableViewDataProvide.InputData;
                                 }
 
-                                await Task.Delay(500, Cts.Token);           //задержка отрисовки строк
+                                //await Task.Delay(500, Cts.Token);           //задержка отрисовки строк
                             }
 
-                            await Task.Delay(InternalPeriodTimer);          //задержка отпроса след. устройства.
+                            //await Task.Delay(InternalPeriodTimer);          //задержка отпроса след. устройства.
                         }
                     }
                 }

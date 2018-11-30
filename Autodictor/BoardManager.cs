@@ -42,9 +42,16 @@ namespace MainExample
         
         public void InitializeTrackBoards()
         {
-            foreach (var beh in Binding2PathBehaviors)
+            try
             {
-                beh.InitializeDevicePathInfo();
+                foreach (var beh in Binding2PathBehaviors)
+                {
+                    beh.InitializeDevicePathInfo();
+                }
+            }
+            catch (Exception ex)
+            {
+                Log.log.Error(ex);
             }
         }
 

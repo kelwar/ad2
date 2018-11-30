@@ -106,7 +106,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                     }
                 }
 
-                await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
+                //await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
             }
             catch (Exception ex)
             {
@@ -181,7 +181,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                                 Library.Logs.Log.log.Info($"Операция №{selectedRules.IndexOf(exchangeRule)} на порту {port.PortNumber} отменена");
                                 return;
                             }
-                            await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
+                            //await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
                         }
                         return;
                     }
@@ -242,7 +242,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                     Library.Logs.Log.log.Info($"Операция на порту {port.PortNumber} отменена");
                     return;
                 }
-                await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
+                //await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
             }
             catch (Exception ex)
             {

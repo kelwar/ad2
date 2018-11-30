@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using Communication.SerialPort;
 using CommunicationDevices.DataProviders;
 using System.Collections.Concurrent;
+using Library.Logs;
 
 namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
 {
@@ -127,17 +128,24 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
 
         public void CycleReConnect(ICollection<Task> backGroundTasks = null)
         {
-            if (Port != null)
+            try
             {
-                var taskSerialPort = Task.Factory.StartNew(async () =>
+                if (Port != null)
                 {
-                    if (await Port.CycleReConnect())
+                    var taskSerialPort = Task.Factory.StartNew(async () =>
                     {
-                        var taskPortEx = Port.RunExchange();
-                        backGroundTasks?.Add(taskPortEx);
-                    }
-                });
-                backGroundTasks?.Add(taskSerialPort);
+                        if (await Port.CycleReConnect())
+                        {
+                            var taskPortEx = Port.RunExchange();
+                            backGroundTasks?.Add(taskPortEx);
+                        }
+                    });
+                    backGroundTasks?.Add(taskSerialPort);
+                }
+            }
+            catch (Exception ex)
+            {
+                Library.Logs.Log.log.Error(ex);
             }
         }
 
@@ -147,10 +155,21 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
         /// </summary>
         public void AddOneTimeSendData(UniversalInputType inData)
         {
-            if (inData != null)
+            try
             {
-                InDataDict.AddOrUpdate(inData.AddressDevice, inData, (k, v) => inData);
-                Port.AddOneTimeSendData(OneTimeExchangeService);
+                if (inData != null)
+                {
+                    InDataDict.AddOrUpdate(inData.AddressDevice, inData, (k, v) => inData);
+                    if (InDataDict.Count > 150)
+                    {
+                        Log.log.Warn($"Очередь больше 150 элементов: {InDataDict.Count}");
+                    }
+                    Port.AddOneTimeSendData(OneTimeExchangeService);
+                }
+            }
+            catch (Exception ex)
+            {
+                Log.log.Error(ex);
             }
         }
 
@@ -167,7 +186,14 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
         /// </summary>
         public void StartCycleExchange()
         {
-            ListCycleFuncs?.ForEach(func=> Port.AddCycleFunc(func));
+            try
+            {
+                ListCycleFuncs?.ForEach(func => Port.AddCycleFunc(func));
+            }
+            catch (Exception ex)
+            {
+                Log.log.Error(ex);
+            }
         }
 
 
@@ -177,7 +203,14 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
         /// </summary>
         public void StopCycleExchange()
         {
-            ListCycleFuncs?.ForEach(func => Port.RemoveCycleFunc(func));
+            try
+            {
+                ListCycleFuncs?.ForEach(func => Port.RemoveCycleFunc(func));
+            }
+            catch (Exception ex)
+            {
+                Library.Logs.Log.log.Error(ex);
+            }
         }
 
 

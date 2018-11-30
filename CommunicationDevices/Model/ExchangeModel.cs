@@ -295,7 +295,7 @@ namespace CommunicationDevices.Model
                         {
                             var bindingBeh = new Binding2PathBehavior(DeviceTables.Last(), binding.PathNumbers, contrains?.Conditions, langs?.Langs, paging?.CountPage ?? 0, paging?.TimePaging ?? 0);
                             Binding2PathBehaviors.Add(bindingBeh);
-                            bindingBeh.InitializeDevicePathInfo();                       //Вывод номера пути в пустом сообщении
+                            //bindingBeh.InitializeDevicePathInfo();                       //Вывод номера пути в пустом сообщении
                         }
 
                         //создание поведения привязка табло к главному расписанию
@@ -321,7 +321,7 @@ namespace CommunicationDevices.Model
                         {
                             var bindingBeh = new Binding2PathBehavior(DeviceTables.Last(), binding.PathNumbers, contrains?.Conditions, langs?.Langs, paging?.CountPage ?? 0, paging?.TimePaging ?? 0);
                             Binding2PathBehaviors.Add(bindingBeh);
-                            bindingBeh.InitializeDevicePathInfo();                      //Вывод номера пути в пустом сообщении
+                            //bindingBeh.InitializeDevicePathInfo();                      //Вывод номера пути в пустом сообщении
                         }
 
                         //создание поведения привязка табло к главному расписанию
@@ -524,6 +524,11 @@ namespace CommunicationDevices.Model
                         {
                             var bindingBeh = new Binding2PathBehavior(DeviceTables.Last(), binding.PathNumbers, contrains?.Conditions, langs?.Langs, paging?.CountPage ?? 0, paging?.TimePaging ?? 0);
                             Binding2PathBehaviors.Add(bindingBeh);
+                            if (!Binding2PathBehaviors.Last().IsPaging && !Binding2PathBehaviors.Last().IsLangPaging)
+                            {
+                                DeviceTables.Last().AddCycleFunc();//добавим все функции циклического опроса
+                            }
+                            break;
                             // bindingBeh.InitializeDevicePathInfo();                      //Вывод номера пути в пустом сообщении
                         }
 
@@ -532,7 +537,7 @@ namespace CommunicationDevices.Model
                         {
                             Binding2GeneralSchedules.Add(new BindingDevice2GeneralShBehavior(DeviceTables.Last(), binding.SourceLoad, contrains?.Conditions, langs?.Langs, paging?.CountPage ?? 0, paging?.TimePaging ?? 0));
                             //Если отключен пагинатор, то работаем по таймеру ExchangeBehavior ус-ва.
-                            if (!Binding2GeneralSchedules.Last().IsPaging)
+                            if (!Binding2GeneralSchedules.Last().IsPaging && !Binding2GeneralSchedules.Last().IsLangPaging)
                             {
                                 DeviceTables.Last().AddCycleFunc();//добавим все функции циклического опроса
                             }
@@ -750,8 +755,9 @@ namespace CommunicationDevices.Model
 
                         //создание поведения привязка табло к пути.
                         if (binding.BindingType == BindingType.ToPath)
+                        {
                             Binding2PathBehaviors.Add(new Binding2PathBehavior(DeviceTables.Last(), binding.PathNumbers, contrains?.Conditions, langs?.Langs, paging?.CountPage ?? 0, paging?.TimePaging ?? 0));
-
+                        }
                         //создание поведения привязка табло к главному расписанию
                         if (binding.BindingType == BindingType.ToGeneral)
                         {
@@ -851,6 +857,11 @@ namespace CommunicationDevices.Model
                         {
                             var bindingBeh = new Binding2PathBehavior(DeviceTables.Last(), binding.PathNumbers, contrains?.Conditions, langs?.Langs, paging?.CountPage ?? 0, paging?.TimePaging ?? 0);
                             Binding2PathBehaviors.Add(bindingBeh);
+                            if (!Binding2PathBehaviors.Last().IsPaging && !Binding2PathBehaviors.Last().IsLangPaging)
+                            {
+                                DeviceTables.Last().AddCycleFunc();
+                            }
+                            break;
                             // bindingBeh.InitializeDevicePathInfo();                      //Вывод номера пути в пустом сообщении
                         }
 
@@ -859,7 +870,7 @@ namespace CommunicationDevices.Model
                         {
                             Binding2GeneralSchedules.Add(new BindingDevice2GeneralShBehavior(DeviceTables.Last(), binding.SourceLoad, contrains?.Conditions, langs?.Langs, paging?.CountPage ?? 0, paging?.TimePaging ?? 0));
                             //Если отключен пагинатор, то работаем по таймеру ExchangeBehavior ус-ва.
-                            if (!Binding2GeneralSchedules.Last().IsPaging)
+                            if (!Binding2GeneralSchedules.Last().IsPaging && !Binding2GeneralSchedules.Last().IsLangPaging)
                             {
                                 DeviceTables.Last().AddCycleFunc();//добавим все функции циклического опроса
                             }

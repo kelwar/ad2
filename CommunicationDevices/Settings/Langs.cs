@@ -26,6 +26,17 @@ namespace CommunicationDevices.Settings
         {
             return Next;
         }
+
+        public override bool Equals(object obj)
+        {
+            var lng = obj as Lang;
+            return lng != null && Name == lng.Name;
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
     }
 
     public class Langs

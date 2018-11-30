@@ -20,6 +20,7 @@ namespace MainExample
         private readonly SoundRecord _recordOld;
         private readonly string _key;
         private Pathways track;
+        private byte _oldCarNumbering;
 
         public bool ПрименитьКоВсемСообщениям = true;
         private bool _сделаныИзменения = false;
@@ -707,7 +708,8 @@ namespace MainExample
 
             _record.СменнаяНумерацияПоезда = chbox_сменнаяНумерация.Checked;
             _record.НумерацияПоезда = rB_Нумерация_СГоловы.Checked ? (byte)1 : rB_Нумерация_СХвоста.Checked ? (byte)2 : (byte)0;
-
+            if (_record.НумерацияПоезда != _oldCarNumbering)
+                Program.CarNavigationLog($"Нумерация вагонов изменена вручную c {(CarNumbering)_oldCarNumbering} на {(CarNumbering)_record.НумерацияПоезда}", Program.AuthenticationService.CurrentUser);
 
             _record.ВыводНаТабло = chBoxВыводНаТабло.Checked;
             _record.ВыводЗвука = chBoxВыводЗвука.Checked;
@@ -942,6 +944,7 @@ namespace MainExample
 
         private void rB_Нумерация_CheckedChanged(object sender, EventArgs e)
         {
+            _oldCarNumbering = _record.НумерацияПоезда;
             if (rB_Нумерация_Отсутствует.Checked)
                 _record.НумерацияПоезда = 0;
             else if (rB_Нумерация_СГоловы.Checked)

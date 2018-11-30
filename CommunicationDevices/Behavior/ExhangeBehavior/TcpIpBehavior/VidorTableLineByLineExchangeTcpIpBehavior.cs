@@ -82,7 +82,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.TcpIpBehavior
                             DataExchangeSuccess = await MasterTcpIp.RequestAndRespoune(ForTableViewDataProvider);
                             LastSendData = ForTableViewDataProvider.InputData;
 
-                            await Task.Delay(500, Cts.Token);
+                            //await Task.Delay(500, Cts.Token);
                         }
 
                         //Запрос синхронизации времени

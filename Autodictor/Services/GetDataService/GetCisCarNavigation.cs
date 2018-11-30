@@ -59,9 +59,10 @@ namespace MainExample.Services.GetDataService
                                     var oldComposition = sr.Composition;
                                     sr.Composition = uit.ViewBag.ContainsKey("Composition") ? uit.ViewBag["Composition"] : null;
                                     
-                                    if (sr.Composition == null && uit.VagonDirection == VagonDirection.None)
+                                    if (sr.Composition == null)
                                     {
-                                        Program.CarNavigationLog($"Состав поезда №{sr.НомерПоезда} {sr.СтанцияОтправления} {sr.СтанцияНазначения} {sr.Время.ToLongDateString()} пуст", Program.AuthenticationService?.CurrentUser);
+                                        if (uit.VagonDirection == VagonDirection.None)
+                                            Program.CarNavigationLog($"Состав поезда №{sr.НомерПоезда} {sr.СтанцияОтправления} {sr.СтанцияНазначения} {sr.Время.ToLongDateString()} пуст", Program.AuthenticationService?.CurrentUser);
                                         continue;
                                     }
 
@@ -86,12 +87,16 @@ namespace MainExample.Services.GetDataService
                                     //    sr.НумерацияПоезда = carNumbering;
                                     //}
 
-                                    sr.НумерацияПоезда = (byte)uit.VagonDirection;
-                                    sr.Composition.CarNumbering = (CarNumbering)sr.НумерацияПоезда;
+                                    sr.Composition.CarNumbering = (CarNumbering)uit.VagonDirection;
+                                    if (sr.НумерацияПоезда == 0)
+                                    {
+                                        sr.НумерацияПоезда = (byte)sr.Composition.CarNumbering;
+                                    }
 
-                                    var stringCarNumbering = sr.НумерацияПоезда == 1 ? "с головы" :
-                                                             sr.НумерацияПоезда == 2 ? "с хвоста" :
-                                                             string.Empty;
+                                    if (sr.НумерацияПоезда != (byte)sr.Composition.CarNumbering)
+                                    {
+                                        Program.CarNavigationLog($"Нумерация поезда №{sr.НомерПоезда} {sr.СтанцияОтправления} {sr.СтанцияНазначения} {sr.Время.ToLongDateString()}. {sr.Composition} локальная не соответствует нумерации из ЦИС", Program.AuthenticationService?.CurrentUser);
+                                    }
 
                                     // Состава не было и он появился
                                     if (oldComposition == null && sr.Composition != null)
@@ -103,7 +108,6 @@ namespace MainExample.Services.GetDataService
                                     {
                                         Program.CarNavigationLog($"Изменен состав поезда №{sr.НомерПоезда} {sr.СтанцияОтправления} {sr.СтанцияНазначения} {sr.Время.ToLongDateString()}. {sr.Composition}", Program.AuthenticationService?.CurrentUser);
                                     }
-
                                     
                                     if (IsNeedReverse(sr, uit))
                                     {

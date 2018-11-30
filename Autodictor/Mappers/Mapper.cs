@@ -210,7 +210,7 @@ namespace MainExample.Mappers
                 record.ActualDepartureTime = record.ВремяОтправления;
 
                 record.БитыАктивностиПолей = номерСписка;
-                record.БитыАктивностиПолей |= 0x03;                                   //TODO: ???
+                //record.БитыАктивностиПолей |= 0x03;                                   //TODO: ???
 
 
 

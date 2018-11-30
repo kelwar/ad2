@@ -212,11 +212,20 @@ namespace Communication.SerialPort
                     //вызов циклических функций опроса   
                     if (_funcsDict != null && _funcsDict.Count > 0)
                     {
-                        if (indexCycleFunc >= _funcsDict.Count)
-                            indexCycleFunc = 0;
-
-                        if (_funcsDict.ContainsKey(indexCycleFunc))
-                            await _funcsDict[indexCycleFunc++](this, Cts.Token);
+                        foreach (var key in _funcsDict.Keys)
+                        {
+                            if (_funcsDict.ContainsKey(key))
+                            {
+                                try
+                                {
+                                    await _funcsDict[key](this, Cts.Token);
+                                }
+                                catch (Exception ex)
+                                {
+                                    Log.log.Error(ex);
+                                }
+                            }
+                        }
                     }
 
                     //вызов одиночной функции запроса

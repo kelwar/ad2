@@ -7,7 +7,7 @@ using CommunicationDevices.Behavior.ExhangeBehavior;
 using CommunicationDevices.DataProviders;
 using CommunicationDevices.Settings;
 using CommunicationDevices.Settings.XmlDeviceSettings.XmlSpecialSettings;
-
+using System;
 
 namespace CommunicationDevices.Devices
 {
@@ -56,28 +56,56 @@ namespace CommunicationDevices.Devices
 
         public void AddOneTimeSendData(UniversalInputType inData)
         {
-            inData.AddressDevice= Address;
-            ExhBehavior.AddOneTimeSendData(inData);
+            try
+            {
+                inData.AddressDevice = Address;
+                ExhBehavior.AddOneTimeSendData(inData);
+            }
+            catch (Exception ex)
+            {
+                Library.Logs.Log.log.Error(ex);
+            }
         }
 
 
         public void AddCycleFuncData(int index, UniversalInputType inData)
         {
-            inData.AddressDevice = Address;
-            ExhBehavior.GetData4CycleFunc[index].Initialize(inData);     
+            try
+            {
+                inData.AddressDevice = Address;
+                ExhBehavior.GetData4CycleFunc[index].Initialize(inData);
+            }
+            catch (Exception ex)
+            {
+                Library.Logs.Log.log.Error(ex);
+            }
         }
 
 
         public void AddCycleFunc()
         {
-            ExhBehavior.GetData4CycleFunc.ForEach(c=> c.AddressDevice = Address);       //Добавить во все данные циклического обмена адресс.
-            ExhBehavior.StartCycleExchange();
+            try
+            {
+                ExhBehavior.GetData4CycleFunc.ForEach(c => c.AddressDevice = Address);       //Добавить во все данные циклического обмена адресс.
+                ExhBehavior.StartCycleExchange();
+            }
+            catch (Exception ex)
+            {
+                Library.Logs.Log.log.Error(ex);
+            }
         }
 
 
         public void RemoveCycleFunc()
         {
-            ExhBehavior.StopCycleExchange();
+            try
+            {
+                ExhBehavior.StopCycleExchange();
+            }
+            catch (Exception ex)
+            {
+                Library.Logs.Log.log.Error(ex);
+            }
         }
 
         #endregion

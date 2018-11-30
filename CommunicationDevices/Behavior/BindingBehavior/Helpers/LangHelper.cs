@@ -1,5 +1,6 @@
 ﻿using CommunicationDevices.DataProviders;
 using CommunicationDevices.Settings;
+using Library.Logs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,8 +14,7 @@ namespace CommunicationDevices.Behavior.BindingBehavior.Helpers
     public class LangHelper : IDisposable
     {
         private readonly Timer _timer;
-        private Lang _currentLang;
-        private LangList langList;
+        private LangList _langList;
         private bool _isFirstSend;
 
         public List<UniversalInputType> Data { get; set; } = new List<UniversalInputType>();
@@ -22,12 +22,16 @@ namespace CommunicationDevices.Behavior.BindingBehavior.Helpers
 
         public LangHelper(Lang currentLang)
         {
-            _currentLang = currentLang;
+            _langList = new LangList();
+            _langList.CurrentLang = currentLang;
             _isFirstSend = true;
 
+            //Log.log.Info($"Конструктор, перед SendData");
+            //SendData();
+            //Log.log.Info($"Конструктор, после SendData");
             Task.Run(() => SendData()).GetAwaiter().GetResult();
 
-            _timer = new Timer(_currentLang.Period);
+            _timer = new Timer(_langList.CurrentLang.Period);
             _timer.Elapsed += OnTimedEvent;
             _timer.Start();
         }
@@ -43,23 +47,28 @@ namespace CommunicationDevices.Behavior.BindingBehavior.Helpers
 
                 if (t.ViewBag.ContainsKey("Language"))
                 {
-                    t.ViewBag["Language"] = _currentLang;
+                    t.ViewBag["Language"] = _langList.CurrentLang;
                 }
                 else
                 {
-                    t.ViewBag.Add("Language", _currentLang);
+                    t.ViewBag.Add("Language", _langList.CurrentLang);
                 }
             }));
             return tableData;
         }
 
+        //private async void SendData()
         private async void SendData()
         {
-            if (langList == null)
-                langList = new LangList();
-            langList.CurrentLang = _currentLang;
-            langList.List = await SwitchLangDataAsync(Data);
-            await Task.Run(() => LangDataSend.OnNext(langList));
+            //if (_langList == null)
+            //    _langList = new LangList();
+            //var uit = Data.FirstOrDefault();
+            //if (uit == null || uit.ViewBag == null || !uit.ViewBag.ContainsKey("Language") || !_langList.CurrentLang.Equals((Lang)uit.ViewBag["Language"]))
+            //{
+                _langList.List = await SwitchLangDataAsync(Data);
+            //}
+            //await Task.Run(() => LangDataSend.OnNext(_langList));
+            LangDataSend.OnNext(_langList);
         }
 
         private async void OnTimedEvent(object sender, ElapsedEventArgs e)
@@ -67,14 +76,14 @@ namespace CommunicationDevices.Behavior.BindingBehavior.Helpers
             _timer.Stop();
 
             if (!_isFirstSend)
-                _currentLang = _currentLang.TurnLang();
+                _langList.CurrentLang = _langList.CurrentLang.TurnLang();
             else if (Data.Any())
                 _isFirstSend = false;
 
             await Task.Run(() => SendData());
             //LangDataSend.OnNext(langList);
 
-            _timer.Interval = _currentLang.Period;
+            _timer.Interval = _langList.CurrentLang.Period;
             _timer.Start();
         }
 

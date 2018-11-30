@@ -84,7 +84,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                     DataExchangeSuccess = await Port.DataExchangeAsync(TimeRespone, ForTableViewDataProvider, ct);
                     LastSendData = ForTableViewDataProvider.InputData;
 
-                    await Task.Delay(500, ct);
+                    //await Task.Delay(500, ct);
                 }
 
 
@@ -97,7 +97,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                 }
             }
 
-            await Task.Delay(PeriodTimer, ct);  //задержка для задания периода опроса.    
+            //await Task.Delay(PeriodTimer, ct);  //задержка для задания периода опроса.    
         }
 
         #endregion
@@ -136,7 +136,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                         DataExchangeSuccess = await Port.DataExchangeAsync(TimeRespone, ForTableViewDataProvider, ct);
                         LastSendData = ForTableViewDataProvider.InputData;
 
-                        await Task.Delay(500, ct);
+                        //await Task.Delay(500, ct);
                     }
 
                     //Запрос синхронизации времени

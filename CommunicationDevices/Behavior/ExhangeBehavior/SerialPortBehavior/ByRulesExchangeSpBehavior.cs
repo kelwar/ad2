@@ -9,7 +9,7 @@ using Communication.SerialPort;
 using CommunicationDevices.DataProviders;
 using CommunicationDevices.DataProviders.BuRuleDataProvider;
 using CommunicationDevices.Rules.ExchangeRules;
-
+using Library.Logs;
 
 namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
 {
@@ -76,7 +76,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
 
                     var viewData = timeSamplingData ?? emptyDate;
                     viewData.AddressDevice = Address;
-
+                    
                     //Выбрать правила для отрисовки
                     var selectedRules = ExchangeRules.Where(rule => rule.CheckResolution(viewData)).ToList();
 
@@ -86,7 +86,7 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                     {
                         selectedRules = selectedRules.Where(rule => rule.Resolution != null).ToList();
                     }
-
+                    
                     foreach (var exchangeRule in selectedRules)
                     {
                         //Вывод на путевое табло
@@ -99,8 +99,8 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                         {
                             // Log.log.Trace(""); //TODO: возможно передавать в InputData ID устройства и имя.
                         }
-
-                        await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
+                        
+                        //await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
                     }
                 }
             }
@@ -172,8 +172,9 @@ namespace CommunicationDevices.Behavior.ExhangeBehavior.SerialPortBehavior
                             {
                                 // Log.log.Trace(""); //TODO: возможно передавать в InputData ID устройства и имя.
                             }
-
-                            await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
+                            
+                            //await Task.Delay(1000, ct);  //задержка для задания периода опроса. 
+                            //Log.log.Info($"После await Task.Delay(1000, ct). Address = {inData.AddressDevice}");
                         }
                     }
                 }

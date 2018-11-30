@@ -449,7 +449,10 @@ namespace MainExample
                 var newkey = pipelineService.GetUniqueKey(SoundRecords.Keys, record.Время);
 
                 if (!string.IsNullOrEmpty(newkey) && !SoundRecords.Any(r => r.Value.Время.Date == record.Время.Date &&
-                                                                            (r.Value.IdTrain.ScheduleId == record.IdTrain.ScheduleId ||
+                                                                            Math.Abs(r.Value.Время.Hour - record.Время.Hour) < 12 &&
+                                                                            (r.Value.БитыАктивностиПолей & record.БитыАктивностиПолей) != 0x00 &&
+                                                                            (record.IdTrain.ScheduleId != 0 && 
+                                                                            r.Value.IdTrain.ScheduleId == record.IdTrain.ScheduleId ||
                                                                             r.Value.НомерПоезда == record.НомерПоезда &&
                                                                             r.Value.НомерПоезда2 == record.НомерПоезда2 &&
                                                                             //(r.Value.Направление == record.Направление ||

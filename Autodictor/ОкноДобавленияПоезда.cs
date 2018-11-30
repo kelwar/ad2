@@ -645,6 +645,7 @@ namespace MainExample
                                 {
                                     ВремяПрибытия = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, Часы, Минуты, 0);
                                     Record.ВремяПрибытия = ВремяПрибытия;
+                                    Record.ActualArrivalTime = Record.ВремяПрибытия;
                                     dTPВремя1.Value = ВремяПрибытия;
                                     НомерСписка |= 0x04;
                                 }
@@ -658,6 +659,7 @@ namespace MainExample
                                 {
                                     ВремяОтправления = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, Часы, Минуты, 0);
                                     Record.ВремяОтправления = ВремяОтправления;
+                                    Record.ActualDepartureTime = Record.ВремяОтправления;
                                     dTPВремя2.Value = ВремяОтправления;
                                     НомерСписка |= 0x10;
                                 }
@@ -692,7 +694,7 @@ namespace MainExample
 
 
                             Record.БитыАктивностиПолей = НомерСписка;
-                            Record.БитыАктивностиПолей |= 0x03;
+                            //Record.БитыАктивностиПолей |= 0x03;           // WTF???!
 
                             Record.ID = ID++;
 

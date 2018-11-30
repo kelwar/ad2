@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Direction Id="1" Name="Дальнее">
+		<Station Id="1" NameRu="Архангельск" NameEng="Arkhangelsk" NameCh="阿尔汉格尔斯克"/>
+		<Station Id="12" NameRu="Апатиты" NameEng="Apatity" NameCh="阿帕"/>
+		<Station Id="2" NameRu="В.Новгород" NameEng="V.Novgorod" NameCh="大诺夫哥罗德"/>
+		<Station Id="3" NameRu="Костомукша" NameEng="Kostomuksha " NameCh="科斯托穆克沙"/>
+		<Station Id="4" NameRu="Москва" NameEng="Moscow" NameCh="莫斯科"/>
+		<Station Id="5" NameRu="Мурманск" NameEng="Murmansk" NameCh="摩尔曼斯克"/>
+		<Station Id="6" NameRu="Петрозаводск" NameEng="Petrozavodsk" NameCh="彼得罗扎沃茨克"/>
+		<Station Id="7" NameRu="Псков" NameEng="Pskov" NameCh="普斯科夫"/>
+		<Station Id="13" NameRu="Рыбинск" NameEng="Rybinsk" NameCh="雷宾斯克"/>
+		<Station Id="8" NameRu="С.Петербург" NameEng="St.Petersburg" NameCh="圣彼得堡"/>
+		<Station Id="9" NameRu="Сонково" NameEng="Sonkovo" NameCh="索尼克沃"/>
+		<Station Id="10" NameRu="Таллинн" NameEng="Tallinn" NameCh="塔林"/>
+		<Station Id="11" NameRu="Хельсинки" NameEng="Helsinki" NameCh="赫尔辛基"/>
+	</Direction>
+
+	<Direction Id="2" Name="Доп.поезда">
+		<Station Id="1" NameRu="Архангельск" NameEng="Arkhangelsk" NameCh="阿尔汉格尔斯克"/>
+		<Station Id="12" NameRu="Апатиты" NameEng="Apatity" NameCh="阿帕"/>
+		<Station Id="2" NameRu="В.Новгород" NameEng="V.Novgorod" NameCh="大诺夫哥罗德"/>
+		<Station Id="3" NameRu="Костомукша" NameEng="Kostomuksha " NameCh="科斯托穆克沙"/>
+		<Station Id="4" NameRu="Москва" NameEng="Moscow" NameCh="莫斯科"/>
+		<Station Id="5" NameRu="Мурманск" NameEng="Murmansk" NameCh="摩尔曼斯克"/>
+		<Station Id="6" NameRu="Петрозаводск" NameEng="Petrozavodsk" NameCh="彼得罗扎沃茨克"/>
+		<Station Id="7" NameRu="Псков" NameEng="Pskov" NameCh="普斯科夫"/>
+		<Station Id="13" NameRu="Рыбинск" NameEng="Rybinsk" NameCh="雷宾斯克"/>
+		<Station Id="8" NameRu="С.Петербург" NameEng="St.Petersburg" NameCh="圣彼得堡"/>
+		<Station Id="9" NameRu="Сонково" NameEng="Sonkovo" NameCh="索尼克沃"/>
+		<Station Id="10" NameRu="Таллинн" NameEng="Tallinn" NameCh="塔林"/>
+		<Station Id="11" NameRu="Хельсинки" NameEng="Helsinki" NameCh="赫尔辛基"/>
+	</Direction>
+	<Direction Id="3" Name="На Тверь">
+		<Station Id="1" NameRu="Москва" NameEng="Moscow" NameCh=""/>
+		<Station Id="2" NameRu="Рижская" NameEng="Rijskaya" NameCh=""/>
+		<Station Id="3" NameRu="Останкино" NameEng="Ostankino" NameCh=""/>
+		<Station Id="4" NameRu="Петр.Разумовское" NameEng="Petr.Razumovskoye" NameCh=""/>
+		<Station Id="5" NameRu="НАТИ" NameEng="NATI" NameCh=""/>
+		<Station Id="6" NameRu="Моссельмаш" NameEng="Mosselmash" NameCh=""/>
+		<Station Id="7" NameRu="Ховрино" NameEng="Khovrino" NameCh=""/>
+		<Station Id="8" NameRu="Левобережье" NameEng="Levoberezhye" NameCh=""/>
+		<Station Id="9" NameRu="Химки" NameEng="Khimki" NameCh=""/>
+		<Station Id="10" NameRu="Планерная" NameEng="Planernaya" NameCh=""/>
+		<Station Id="11" NameRu="Новоподрезково" NameEng="Novopodrezkovo" NameCh=""/>
+		<Station Id="12" NameRu="Подрезково" NameEng="Podrezkovo" NameCh=""/>
+		<Station Id="13" NameRu="Сходня" NameEng="Skhodnya" NameCh=""/>
+		<Station Id="14" NameRu="Фирсановская" NameEng="Firsanovskaya" NameCh=""/>
+		<Station Id="15" NameRu="Малино" NameEng="Malino" NameCh=""/>
+		<Station Id="16" NameRu="Крюково" NameEng="Kryukovo" NameCh=""/>
+		<Station Id="17" NameRu="Крюково ЛАСТОЧКА" NameEng="Kryukovo LASTOCHKA" NameCh=""/>
+		<Station Id="18" NameRu="Алабушево" NameEng="Alabushevo" NameCh=""/>
+		<Station Id="19" NameRu="Радищево" NameEng="Radischevo" NameCh=""/>
+		<Station Id="20" NameRu="Поваровка" NameEng="Povarovka" NameCh=""/>
+		<Station Id="21" NameRu="Поварово 1" NameEng="Povarovo 1" NameCh=""/>
+		<Station Id="22" NameRu="Берёзки" NameEng="Berezki" NameCh=""/>
+		<Station Id="23" NameRu="Подсолнечная" NameEng="Podsolnechnaya" NameCh=""/>
+		<Station Id="24" NameRu="Подсолнечная ЛАСТОЧКА" NameEng="Podsolnechnaya LASTOCHKA" NameCh=""/>
+		<Station Id="25" NameRu="Сенеж" NameEng="Senezh" NameCh=""/>
+		<Station Id="26" NameRu="Головково" NameEng="Golovkovo" NameCh=""/>
+		<Station Id="27" NameRu="Покровка" NameEng="Pokrovka" NameCh=""/>
+		<Station Id="28" NameRu="Фроловская" NameEng="Frolovskaya" NameCh=""/>
+		<Station Id="29" NameRu="Стриглово" NameEng="Striglovo" NameCh=""/>
+		<Station Id="30" NameRu="Клин" NameEng="Klin" NameCh=""/>
+		<Station Id="31" NameRu="Клин ЛАСТОЧКА" NameEng="Klin LASTOCHKA" NameCh=""/>
+		<Station Id="32" NameRu="Ямуга" NameEng="Yamuga" NameCh=""/>
+		<Station Id="33" NameRu="Решетниково" NameEng="Reshetnikovo" NameCh=""/>
+		<Station Id="34" NameRu="Черничная" NameEng="Chernichnaya" NameCh=""/>
+		<Station Id="35" NameRu="Завидово" NameEng="Zavidovo" NameCh=""/>
+		<Station Id="36" NameRu="Московское Море" NameEng="Moskovskoye More" NameCh=""/>
+		<Station Id="37" NameRu="Редкино" NameEng="Redkino" NameCh=""/>
+		<Station Id="38" NameRu="Межево" NameEng="Mezhevo" NameCh=""/>
+		<Station Id="39" NameRu="Кузьминка" NameEng="Kuzminka" NameCh=""/>
+		<Station Id="40" NameRu="Чуприяновка" NameEng="Chupriyanovka" NameCh=""/>
+		<Station Id="41" NameRu="Лазурная" NameEng="Lazurnaya" NameCh=""/>
+		<Station Id="42" NameRu="Тверь" NameEng="Tver" NameCh=""/>
+		<Station Id="43" NameRu="Тверь ЛАСТОЧКА" NameEng="Tver LASTOCHKA" NameCh=""/>
+		<Station Id="44" NameRu="далее везде" NameEng="all further stations are served" NameCh=""/>
+	</Direction>
+	<Direction Id="4" Name="На Конаково">
+		<Station Id="1" NameRu="Москва" NameEng="Moscow" NameCh=""/>
+		<Station Id="2" NameRu="Рижская" NameEng="Rijskaya" NameCh=""/>
+		<Station Id="3" NameRu="Останкино" NameEng="Ostankino" NameCh=""/>
+		<Station Id="4" NameRu="Петр.Разумовское" NameEng="Petr.Razumovskoye" NameCh=""/>
+		<Station Id="5" NameRu="НАТИ" NameEng="NATI" NameCh=""/>
+		<Station Id="6" NameRu="Моссельмаш" NameEng="Mosselmash" NameCh=""/>
+		<Station Id="7" NameRu="Ховрино" NameEng="Khovrino" NameCh=""/>
+		<Station Id="8" NameRu="Левобережье" NameEng="Levoberezhye" NameCh=""/>
+		<Station Id="9" NameRu="Химки" NameEng="Khimki" NameCh=""/>
+		<Station Id="10" NameRu="Планерная" NameEng="Planernaya" NameCh=""/>
+		<Station Id="11" NameRu="Новоподрезково" NameEng="Novopodrezkovo" NameCh=""/>
+		<Station Id="12" NameRu="Подрезково" NameEng="Podrezkovo" NameCh=""/>
+		<Station Id="13" NameRu="Сходня" NameEng="Skhodnya" NameCh=""/>
+		<Station Id="14" NameRu="Фирсановская" NameEng="Firsanovskaya" NameCh=""/>
+		<Station Id="15" NameRu="Малино" NameEng="Malino" NameCh=""/>
+		<Station Id="16" NameRu="Крюково" NameEng="Kryukovo" NameCh=""/>
+		<Station Id="17" NameRu="Крюково ЛАСТОЧКА" NameEng="Kryukovo LASTOCHKA" NameCh=""/>
+		<Station Id="18" NameRu="Алабушево" NameEng="Alabushevo" NameCh=""/>
+		<Station Id="19" NameRu="Радищево" NameEng="Radischevo" NameCh=""/>
+		<Station Id="20" NameRu="Поваровка" NameEng="Povarovka" NameCh=""/>
+		<Station Id="21" NameRu="Поварово 1" NameEng=" Povarovo 1" NameCh=""/>
+		<Station Id="22" NameRu="Берёзки" NameEng="Berezki" NameCh=""/>
+		<Station Id="23" NameRu="Подсолнечная" NameEng="Podsolnechnaya" NameCh=""/>
+		<Station Id="24" NameRu="Подсолнечная ЛАСТОЧКА" NameEng="Podsolnechnaya LASTOCHKA" NameCh=""/>
+		<Station Id="25" NameRu="Сенеж" NameEng="Senezh" NameCh=""/>
+		<Station Id="26" NameRu="Головково" NameEng="Golovkovo" NameCh=""/>
+		<Station Id="27" NameRu="Покровка" NameEng="Pokrovka" NameCh=""/>
+		<Station Id="28" NameRu="Фроловская" NameEng="Frolovskaya" NameCh=""/>
+		<Station Id="29" NameRu="Стриглово" NameEng="Striglovo" NameCh=""/>
+		<Station Id="30" NameRu="Клин" NameEng="Klin" NameCh=""/>
+		<Station Id="31" NameRu="Клин ЛАСТОЧКА" NameEng="Klin LASTOCHKA" NameCh=""/>
+		<Station Id="32" NameRu="Ямуга" NameEng="Yamuga" NameCh=""/>
+		<Station Id="33" NameRu="Решетниково" NameEng="Reshetnikovo" NameCh=""/>
+		<Station Id="34" NameRu="Путепроводная" NameEng="Puteprovodnaya" NameCh=""/>
+		<Station Id="35" NameRu="Конаковский Мох" NameEng="Konakovsky Mokh" NameCh=""/>
+		<Station Id="36" NameRu="Донховка" NameEng="Donkhovka" NameCh=""/>
+		<Station Id="37" NameRu="Конаково" NameEng="Konakovo" NameCh=""/>
+		<Station Id="39" NameRu="Конаково ЛАСТОЧКА" NameEng="Konakovo LASTOCHKA" NameCh=""/>
+		<Station Id="38" NameRu="далее везде" NameEng="all further stations are served" NameCh=""/>
+	</Direction>
+</Root>

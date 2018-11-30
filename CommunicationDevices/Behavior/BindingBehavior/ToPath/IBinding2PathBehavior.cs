@@ -13,6 +13,7 @@ namespace CommunicationDevices.Behavior.BindingBehavior.ToPath
         IEnumerable<string> CollectionPathNumber { get; }
 
         bool IsPaging { get; }
+        bool IsLangPaging { get; }
         string GetDeviceName { get; }
         int GetDeviceId { get; }
         Langs Langs { get; }
