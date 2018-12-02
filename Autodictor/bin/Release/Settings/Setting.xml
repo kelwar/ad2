@@ -299,8 +299,8 @@
                    ContentEncoding: gzip +
 					Accept: text/html, */* +
 					Connection: Keep-Alive'
-               />--><!--
-	 <DeviceHttp Id="309" Name="HttpTable" Address="http://10.114.160.164:8050/server/api/adIn/" TimeRespone="3000" Description="к диспетчеру" 
+               />-->
+	 <DeviceHttp Id="309" Name="HttpTable" Address="http://127.0.0.1/dispatcher/server/api/adIn/" TimeRespone="3000" Description="к диспетчеру" 
   Binding="ToGeneral:ГлавноеОкно" Contrains="ДельтаТекВремениПоТипамПоездов:10|2160:0|2160:0|2160;ЗадержкаОтправления_БлокВремОгр;ЗадержкаПрибытия_БлокВремОгр;ОтправлениеПоГотов_БлокВремОгр" Period="10000" ProviderType="xml_mainWindow:sortable"  
                 Headers='Method:POST + 
                    User-Agent: Mozilla/3.0 (compatible; Indy Library) +
@@ -309,20 +309,20 @@
                Content-Type: multipart/form-data +
                Content-Disposition: form-data; name="username"; filename="data"'
                />
-	 <DeviceHttp Id="310" Name="HttpDispatcher" Address="http://10.114.160.164:8050/server/api/adOut/" Period="10000" TimeRespone="3000" Description="Onlain табло" Binding="ToGetData:" ProviderType="xml_ApkDkGet" 
+	 <DeviceHttp Id="310" Name="HttpDispatcher" Address="http://127.0.0.1/dispatcher/server/api/adOut/" Period="10000" TimeRespone="3000" Description="Onlain табло" Binding="ToGetData:" ProviderType="xml_ApkDkGet" 
                 Headers='Method: GET + 
                    ContentEncoding: gzip +
 					Accept: text/html, */* +
 					Connection: Keep-Alive'
                />
-	<DeviceHttp Id="311" Name="HttpTable" Address="http://10.114.160.164:8050/server/api/adChanges/" Period="10000" TimeRespone="3000" Description="Данные изменений" Binding="ToChangeEvent:" ProviderType="xml_change:linuxtimestamp" 
+	<DeviceHttp Id="311" Name="HttpTable" Address="http://127.0.0.1/dispatcher/server/api/adChanges/" Period="10000" TimeRespone="3000" Description="Данные изменений" Binding="ToChangeEvent:" ProviderType="xml_change:linuxtimestamp" 
 	              Headers='Method:POST + 
 				           User-Agent: Mozilla/3.0 (compatible; Indy Library) +
 						   Accept: text/html, */* +
 						   Connection: Keep-Alive +
 						   Content-Type: multipart/form-data +
 						   Content-Disposition: form-data; name="username"; filename="change"'
-						   />--><!--
+						   /><!--
 	 <DeviceHttp Id="300" Name="HttpApkDkVolgograd" Address="http://192.168.1.1:7555/get_info.php?id_1=volgograd97" Period="30000" TimeRespone="3000" Description="АПКДК" Binding="ToGetData:" ProviderType="xml_ApkDkGet" 
 	              Headers='Method: GET + 
 				           ContentEncoding: gzip +

@@ -45,6 +45,7 @@ namespace MainExample.Services.GetDataService
                     // Здесь разделяем данные на поезда и команды и если пришла команда сброса изменений - вызываем Program.SoundRecordChangesDbRepository.Delete(ch => true);
                     if (tr.InDataType == InDataType.Command && tr.ViewBag != null && tr.ViewBag.ContainsKey("Command") && tr.ViewBag["Command"] != null)
                     {
+                        Program.DispatcherLog("На входе обнаружена команда", Program.AuthenticationService.CurrentUser ?? null);
                         foreach (var cmd in (Dictionary<string, bool>)tr.ViewBag["Command"])
                         {
                             switch (cmd.Key)
@@ -79,6 +80,17 @@ namespace MainExample.Services.GetDataService
                     //Log.log.Trace("ПОЕЗД ИЗ ПОЛУЧЕННОГО СПСИКА" + str);
                     //DEBUG-----------------------------------------------------
                     #endregion
+
+                    if (string.IsNullOrWhiteSpace(tr.NumberOfTrain) || 
+                        ((tr.StationDeparture == null || string.IsNullOrWhiteSpace(tr.StationDeparture.NameRu)) && 
+                        (tr.StationArrival == null || string.IsNullOrWhiteSpace(tr.StationArrival.NameRu))) ||
+                        tr.TransitTime == null || 
+                        ((!tr.TransitTime.ContainsKey("приб") || tr.TransitTime["приб"] == DateTime.MinValue) &&
+                        (!tr.TransitTime.ContainsKey("отпр") || tr.TransitTime["отпр"] == DateTime.MinValue)))
+                    {
+                        Program.DispatcherLog("На входе данные о пустом поезде. Данные будут проигнорированы", Program.AuthenticationService.CurrentUser ?? null);
+                        continue;
+                    }
 
                     bool isExist = false;
                     for (int i = 0; i < _soundRecords.Count; i++)
@@ -195,23 +207,6 @@ namespace MainExample.Services.GetDataService
                                 changeFlag = true;
                                 //Log.log.Trace("нашли изменения для ТРАНЗИТ. ВремяЗадержки: " + rec.ВремяЗадержки);//LOG    
                             }
-                            else
-                            {
-
-                            }
-
-                            /*if (cBПрибытиеЗадерживается.Checked)
-                            {
-                                rec.ActualArrivalTime = rec.ОжидаемоеВремя != rec.ВремяПрибытия ? rec.ОжидаемоеВремя : rec.ОжидаемоеВремя.AddDays(1);
-                                rec.ActualDepartureTime = rec.ActualArrivalTime + (rec.ВремяОтправления - rec.ВремяПрибытия);
-                            }
-                            else
-                            {
-                                rec.ActualArrivalTime = rec.ВремяПрибытия;
-                                rec.ActualDepartureTime = cBОтправлениеЗадерживается.Checked || cBОтправлениеПоГотовности.Checked || cbLandingDelay.Checked ?
-                                                              rec.ОжидаемоеВремя != rec.ВремяОтправления ? rec.ОжидаемоеВремя : rec.ОжидаемоеВремя.AddDays(1) :
-                                                              rec.ВремяОтправления;
-                            }*/
 
                             if (rec.НомерПути != tr.PathNumber)
                             {
@@ -225,6 +220,19 @@ namespace MainExample.Services.GetDataService
                             {
                                 rec.Активность = tr.IsActive;
                                 changeFlag = true;
+                            }
+
+                            if ((rec.БитыНештатныхСитуаций & 0x02) != 0x00)
+                            {
+                                rec.ActualArrivalTime = rec.ОжидаемоеВремя != rec.ВремяПрибытия ? rec.ОжидаемоеВремя : rec.ОжидаемоеВремя.AddDays(1);
+                                rec.ActualDepartureTime = rec.ActualArrivalTime + (rec.ВремяОтправления - rec.ВремяПрибытия);
+                            }
+                            else
+                            {
+                                rec.ActualArrivalTime = rec.ВремяПрибытия;
+                                rec.ActualDepartureTime = (rec.БитыНештатныхСитуаций & 0x04) != 0x00 || (rec.БитыНештатныхСитуаций & 0x08) != 0x00 || (rec.БитыНештатныхСитуаций & 0x10) != 0x00 ?
+                                                              rec.ОжидаемоеВремя != rec.ВремяОтправления ? rec.ОжидаемоеВремя : rec.ОжидаемоеВремя.AddDays(1) :
+                                                              rec.ВремяОтправления;
                             }
 
                             rec.AplyIdTrain();

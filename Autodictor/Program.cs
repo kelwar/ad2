@@ -82,30 +82,30 @@ namespace MainExample
                 UsersDbRepository = new RepositoryNoSql<User>(@"NoSqlDb\Users.db");
 
                 AuthenticationService.UsersDbInitialize();//не дожидаемся окончания Task-а загрузки БД
+                
+                var dir = Directory.CreateDirectory("Wav\\Sounds\\");
+                //var dir = new DirectoryInfo(Application.StartupPath + @"\Wav\Sounds\");
+                FilesFolder = new List<string>();
+                foreach (FileInfo file in dir.GetFiles("*.wav"))
+                    FilesFolder.Add(Path.GetFileNameWithoutExtension(file.FullName));
 
-                //try
-                //{
-                    var dir = new DirectoryInfo(Application.StartupPath + @"\Wav\Sounds\");
-                    FilesFolder = new List<string>();
-                    foreach (FileInfo file in dir.GetFiles("*.wav"))
-                        FilesFolder.Add(Path.GetFileNameWithoutExtension(file.FullName));
+                //dir = new DirectoryInfo(Application.StartupPath + @"\Wav\Numbers\");
+                dir = Directory.CreateDirectory("Wav\\Numbers\\");
+                NumbersFolder = new List<string>();
+                foreach (FileInfo file in dir.GetFiles("*.wav"))
+                    NumbersFolder.Add(Path.GetFileNameWithoutExtension(file.FullName));
 
-                    dir = new DirectoryInfo(Application.StartupPath + @"\Wav\Numbers\");
-                    NumbersFolder = new List<string>();
-                    foreach (FileInfo file in dir.GetFiles("*.wav"))
-                        NumbersFolder.Add(Path.GetFileNameWithoutExtension(file.FullName));
+                //dir = new DirectoryInfo(Application.StartupPath + @"\Wav\Static message\");
+                dir = Directory.CreateDirectory("Wav\\Static message\\");
+                СписокСтатическихСообщений = new List<string>();
+                foreach (FileInfo file in dir.GetFiles("*.wav"))
+                    СписокСтатическихСообщений.Add(Path.GetFileNameWithoutExtension(file.FullName));
 
-                    dir = new DirectoryInfo(Application.StartupPath + @"\Wav\Static message\");
-                    СписокСтатическихСообщений = new List<string>();
-                    foreach (FileInfo file in dir.GetFiles("*.wav"))
-                        СписокСтатическихСообщений.Add(Path.GetFileNameWithoutExtension(file.FullName));
-
-                    dir = new DirectoryInfo(Application.StartupPath + @"\Wav\Dynamic message\");
-                    СписокДинамическихСообщений = new List<string>();
-                    foreach (FileInfo file in dir.GetFiles("*.wav"))
-                        СписокДинамическихСообщений.Add(Path.GetFileNameWithoutExtension(file.FullName));
-                //}
-                //catch (Exception ex) { };
+                //dir = new DirectoryInfo(Application.StartupPath + @"\Wav\Dynamic message\");
+                dir = Directory.CreateDirectory("Wav\\Dynamic message\\");
+                СписокДинамическихСообщений = new List<string>();
+                foreach (FileInfo file in dir.GetFiles("*.wav"))
+                    СписокДинамическихСообщений.Add(Path.GetFileNameWithoutExtension(file.FullName));
 
 
                 AutodictorModel = new AutodictorModel();
@@ -164,7 +164,9 @@ namespace MainExample
         {
             try
             {
-                using (StreamWriter sw = new StreamWriter(File.Open("Logs\\" + DateTime.Now.ToString("yy.MM.dd") + ".log", FileMode.Append)))
+                var path = "Logs\\";
+                Directory.CreateDirectory(path);
+                using (StreamWriter sw = new StreamWriter(File.Open(path + DateTime.Now.ToString("yy.MM.dd") + ".log", FileMode.Append)))
                 {
                     sw.WriteLine(DateTime.Now.ToString(!string.IsNullOrWhiteSpace(format) ? format : "HH:mm:ss") + ": \t" + (user?.Login ?? "Неизвестный пользователь") + ": \t" + ТипСообщения + "\t" + Сообщение);
                     sw.Close();
@@ -177,9 +179,26 @@ namespace MainExample
         {
             try
             {
-                using (StreamWriter sw = new StreamWriter(File.Open("Logs\\CarNavigation\\" + DateTime.Now.ToString("yy.MM.dd") + ".log", FileMode.Append)))
+                var path = "Logs\\CarNavigation\\";
+                Directory.CreateDirectory(path);
+                using (StreamWriter sw = new StreamWriter(File.Open(path + DateTime.Now.ToString("yy.MM.dd") + ".log", FileMode.Append)))
                 {
                     sw.WriteLine(DateTime.Now.ToString("HH:mm:ss") + ": \t" + (user?.Login ?? "ЦИС") + ": \t" + "Повагонная навигация" + "\t" + Сообщение);
+                    sw.Close();
+                }
+            }
+            catch (Exception ex) { };
+        }
+
+        public static void DispatcherLog(string Сообщение, User user)
+        {
+            try
+            {
+                var path = "Logs\\Dispatcher\\";
+                Directory.CreateDirectory(path);
+                using (StreamWriter sw = new StreamWriter(File.Open(path + DateTime.Now.ToString("yy.MM.dd") + ".log", FileMode.Append)))
+                {
+                    sw.WriteLine(DateTime.Now.ToString("HH:mm:ss") + ": \t" + (user?.Login ?? "Удаленный диспетчер") + ": \t" + "Диспетчерская" + "\t" + Сообщение);
                     sw.Close();
                 }
             }

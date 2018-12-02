@@ -1,0 +1,22 @@
+time;message;level
+02T06:39:05;"Исключение из не UI потока System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainForm.MainForm_Load(Object sender, EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Autodictor\MainForm.cs:строка 231
+   в System.Windows.Forms.Form.OnLoad(EventArgs e)
+   в System.Windows.Forms.Form.OnCreateControl()
+   в System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   в System.Windows.Forms.Control.CreateControl()
+   в System.Windows.Forms.Control.WmShowWindow(Message& m)
+   в System.Windows.Forms.Control.WndProc(Message& m)
+   в System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   в System.Windows.Forms.Form.WmShowWindow(Message& m)
+   в System.Windows.Forms.Form.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)";Fatal
+02T06:39:32;"Исключение из не UI потока System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MainExample.MainForm.OnClosed(EventArgs e) в D:\user\projects\с#\Autodictor\Autodictor.bkp_20181118\ad2\Autodictor\MainForm.cs:строка 776
+   в System.Windows.Forms.Form.WmClose(Message& m)
+   в System.Windows.Forms.Form.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)";Fatal
